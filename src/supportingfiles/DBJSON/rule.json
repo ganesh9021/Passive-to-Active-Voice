@@ -1,0 +1,218 @@
+[
+  {
+    "activity_id": 1,
+    "activity_name": "Subject + infinitive + object",
+    "activity_type": "NULL",
+    "activity_desc": "John sings a song."
+  },
+  {
+    "activity_id": 2,
+    "activity_name": "Subject + to be (is",
+    "activity_type": "am",
+    "activity_desc": "are) + present participle + object"
+  },
+  {
+    "activity_id": 3,
+    "activity_name": "Subject + have/has been + present participle + object",
+    "activity_type": "NULL",
+    "activity_desc": "She has finished the work"
+  },
+  {
+    "activity_id": 4,
+    "activity_name": "Subject + past participle + object",
+    "activity_type": "NULL",
+    "activity_desc": "John played football."
+  },
+  {
+    "activity_id": 5,
+    "activity_name": "Subject + was/were + present participle + object",
+    "activity_type": "NULL",
+    "activity_desc": "He was driving a car."
+  },
+  {
+    "activity_id": 6,
+    "activity_name": "Subject + had + past participle + object",
+    "activity_type": "NULL",
+    "activity_desc": "They had completed the assignment."
+  },
+  {
+    "activity_id": 7,
+    "activity_name": "Subject + will + infinitive + object",
+    "activity_type": "NULL",
+    "activity_desc": "She will buy a car."
+  },
+  {
+    "activity_id": 8,
+    "activity_name": "Subject + will + have + infinitive + object",
+    "activity_type": "NULL",
+    "activity_desc": "You will have started the job."
+  },
+  {
+    "activity_id": 9,
+    "activity_name": "Subject + am/is/are + past participle + by + object",
+    "activity_type": "NULL",
+    "activity_desc": "A song is sung by John."
+  },
+  {
+    "activity_id": 10,
+    "activity_name": "Subject + am/is/are being + past participle + by + object",
+    "activity_type": "NULL",
+    "activity_desc": "A letter is being written by Sheena."
+  },
+  {
+    "activity_id": 11,
+    "activity_name": "Subject + has been/have been + past participle + by + object",
+    "activity_type": "NULL",
+    "activity_desc": "The work has been finished by her"
+  },
+  {
+    "activity_id": 12,
+    "activity_name": "Subject + was/were + past participle + by + object",
+    "activity_type": "NULL",
+    "activity_desc": "Football was played by me"
+  },
+  {
+    "activity_id": 13,
+    "activity_name": "Subject + was/were being + past participle + by + object",
+    "activity_type": "NULL",
+    "activity_desc": "A car was being driven by him."
+  },
+  {
+    "activity_id": 14,
+    "activity_name": "Subject + had been + past participle + by + object",
+    "activity_type": "NULL",
+    "activity_desc": "The assignment had been completed by them."
+  },
+  {
+    "activity_id": 15,
+    "activity_name": "Subject + will be + past participle + by + object",
+    "activity_type": "NULL",
+    "activity_desc": "A car will be bought by her."
+  },
+  {
+    "activity_id": 16,
+    "activity_name": "Subject + will have been + past participle + by + object",
+    "activity_type": "NULL",
+    "activity_desc": "The job will have been started by you."
+  },
+  {
+    "activity_id": 17,
+    "activity_name": "Subject +always + verb + ext.",
+    "activity_type": "If there is always in an affirmative sentence",
+    "activity_desc": "never will be used for ever/always in negative sentence and verb /adjective/adverb will be opposite meaning."
+  },
+  {
+    "activity_id": 18,
+    "activity_name": "Subject + auxiliary verb + always + verb/ adjective/ adverb + ext. Subject + auxiliary verb + never + opposite verb/ adjective/ adverb + ext.",
+    "activity_type": "If there is always in an affirmative sentence",
+    "activity_desc": "never will be used for ever/always in negative sentence and verb /adjective/adverb will be opposite meaning."
+  },
+  {
+    "activity_id": 19,
+    "activity_name": "Subject + verb + too + adjective + to + verb + ext. Subject + verb + so + adjective + that + subject + can/ could + not + verb + ext.",
+    "activity_type": "If there is present tense before too",
+    "activity_desc": "‘can’ will be used after that and if there is past tense before too"
+  },
+  {
+    "activity_id": 20,
+    "activity_name": "Subject + verb + as + adjective + as + noun/ pronoun. Subject + auxiliary verb + not + verb + less + adjective + than + noun/ pronoun.",
+    "activity_type": "In order to change an affirmative sentence having an auxiliary verb with a verb/ adjective/ adverb into a negative sentence",
+    "activity_desc": "we should add not after the auxiliary verb and use the opposite meaning of verb/ adjective/ adverb in negative sentence."
+  },
+  {
+    "activity_id": 21,
+    "activity_name": "Subject + verb + ext. Subject + auxiliary verb to do + not + opposite verb + ext.",
+    "activity_type": "If there is no auxiliary verb in an affirmative sentence",
+    "activity_desc": "to do verb will be used as auxiliary verb to make it a negative sentence. After to do verb not will be added and the opposite meaning of verb will used there. This to do verb will be according to the tense of the verb of affirmative sentence."
+  },
+  {
+    "activity_id": 22,
+    "activity_name": "Subject + must + verb + ext.Subject + cannot but + verb + ext. Subject + cannot help + verb-ing + ext\\r\\n",
+    "activity_type": "For making a negative sentence from an affirmative sentence having must",
+    "activity_desc": "we have to use cannot but/cannot help for must. In this case"
+  },
+  {
+    "activity_id": 23,
+    "activity_name": "Every + noun/ body/ one + verb + ext. There is no + noun/ body/ one + but + verb + ext.",
+    "activity_type": "To change an affirmative sentence having every + noun/ body/ one into a negative sentence",
+    "activity_desc": "we can use there is no for every"
+  },
+  {
+    "activity_id": 24,
+    "activity_name": "As soon as + subject + verb (past)",
+    "activity_type": "subject + verb(past) + ext. No sooner had + subject + verb(past participle) + than + subject + verb(past) + ext.",
+    "activity_desc": "To change an affirmative sentence having as soon as with two clauses"
+  },
+  {
+    "activity_id": 25,
+    "activity_name": "Only + subject + verb + ext. None but + subject + verb + ext.",
+    "activity_type": "Here only is used before a person",
+    "activity_desc": "but alone is used after the person word and auxiliary verb. For changing an affirmative sentence into a negative sentence where only is before a person or alone is after the person and auxiliary verb"
+  },
+  {
+    "activity_id": 26,
+    "activity_name": "Subject + auxiliary verb + alone + ext.\\r\\nNone but + subject + auxiliary verb + ext.",
+    "activity_type": "It will be applied when the subjective word is a person word i.e he/ she/ I/ you/ they/ we/ any proper noun.",
+    "activity_desc": "Affirmative:- He was alone alive in the house.\\r\\nNegative:-None but he was alive in the house.\\r\\n"
+  },
+  {
+    "activity_id": 27,
+    "activity_name": "Only + subject + verb + ext. Nothing but + subject + verb + ext.",
+    "activity_type": "when only is used before an object/thing",
+    "activity_desc": "nothing but will be put there to make a negative sentence from an affirmative sentence ."
+  },
+  {
+    "activity_id": 28,
+    "activity_name": "Subject + verb + only + object + ext. Subject + verb + nothing but + object + ext.",
+    "activity_type": "nothing but is used in negative sentence for only when there is an object/thing after only in  affirmative sentence.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 29,
+    "activity_name": "Subject + verb + only + number/age + ext. Subject + verb + not more / less than + number/age + ext.",
+    "activity_type": "when only is used before number/ age",
+    "activity_desc": "not more/less than will be used  in negative sentence for only in affirmative sentence."
+  },
+  {
+    "activity_id": 30,
+    "activity_name": "Subject + auxiliary verb + ext. auxiliary verb + nt + subject + ext.?",
+    "activity_type": "If there is an auxiliary verb in the assertive sentence",
+    "activity_desc": "nt added with the auxiliary verb and be placed before the subject in the interrogative sentence"
+  },
+  {
+    "activity_id": 31,
+    "activity_name": "Subject + auxiliary verb + not + ext. auxiliary verb + subject + ext?",
+    "activity_type": "If the assertive sentence is a negative sentence",
+    "activity_desc": "the negative word will be deleted in interrogative sentence and then it will be started with only auxiliary verb."
+  },
+  {
+    "activity_id": 32,
+    "activity_name": "Subject + verb + ext. to do + nt + subject + verb + ext?",
+    "activity_type": "if there is no auxiliary verb in the assertive sentence/affirmative sentence",
+    "activity_desc": "to make it an interrogative sentence to do verb will be used as an auxiliary verb there and nt will have to add after the to do verb and to do with nt will be placed before the subject in the interrogative sentence."
+  },
+  {
+    "activity_id": 33,
+    "activity_name": "Subject + never + verb + ext. to do verb + subject + ever + verb + ext.?",
+    "activity_type": "",
+    "activity_desc": "Assertive:- I never drink tea. Interrogative:-Do I ever drink tea?\\r\\n"
+  },
+  {
+    "activity_id": 34,
+    "activity_name": "subject + auxiliary verb + verb + nothing + ext. auxiliary verb + subject + verb + anything + ext.?",
+    "activity_type": "",
+    "activity_desc": "Assertive:- There was nothing to do. Interrogative:-Was there anything to do?"
+  },
+  {
+    "activity_id": 35,
+    "activity_name": "everybody/ all/everyone + verb + ext. Who + to do verb + nt + verb + ext.?",
+    "activity_type": "",
+    "activity_desc": "Assertive:- Everybody hates a liar. Interrogative:-Who doesnt hate a liar? "
+  },
+  {
+    "activity_id": 36,
+    "activity_name": "none/no one + auxiliary verb + ext. who + auxiliary verb + ext?. auxiliary verb + anyone + ext?.\\r\\n",
+    "activity_type": "NULL",
+    "activity_desc": "Assertive:- None/No one can do this.\\r\\nInterrogative:-Who can do this? Can any one do this?\\r\\n"
+  }
+]

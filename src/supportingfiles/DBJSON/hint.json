@@ -1,0 +1,98 @@
+[
+  {
+    "activity_id": 1,
+    "activity_name": "Hint 1",
+    "activity_type": " In passive voice",
+    "activity_desc": "the positions of ‘Subject’ and ‘Object’ are interchanged."
+  },
+  {
+    "activity_id": 2,
+    "activity_name": "Hint 2",
+    "activity_type": "In passive voice",
+    "activity_desc": "Past Participle (3rd form of Verb) is always used as ‘Main verb’."
+  },
+  {
+    "activity_id": 3,
+    "activity_name": "Hint 3",
+    "activity_type": "In passive voice",
+    "activity_desc": "‘Helping Verb’ (if present) precedes the ‘Main Verb’"
+  },
+  {
+    "activity_id": 4,
+    "activity_name": "Hint 4",
+    "activity_type": "In passive voice",
+    "activity_desc": "most of the times"
+  },
+  {
+    "activity_id": 5,
+    "activity_name": "Hint 1",
+    "activity_type": "In active voice",
+    "activity_desc": "the positions of ‘Subject’ and ‘Object’ are interchanged."
+  },
+  {
+    "activity_id": 6,
+    "activity_name": "Hint 2",
+    "activity_type": "In active voice",
+    "activity_desc": "‘Helping Verb’ (if present) precedes the ‘Main Verb’"
+  },
+  {
+    "activity_id": 7,
+    "activity_name": "Simple Present Tense",
+    "activity_type": "Base form is used in Simple Present Tense.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 8,
+    "activity_name": "Present Continuous Tense",
+    "activity_type": "Present participle form of verb is used in Present Continuous Tense.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 9,
+    "activity_name": "Simple Past Tense",
+    "activity_type": "Past form of the verb is used in Simple Past Tense.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 10,
+    "activity_name": "Past Continuous Tense",
+    "activity_type": "Present participle form of verb is used in Past Continuous Tense.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 11,
+    "activity_name": "Present Perfect Tense",
+    "activity_type": "Past Participle form of verb is used in Present Perfect Tense.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 12,
+    "activity_name": "Past Perfect Tense",
+    "activity_type": "Past Participle form of verb is used in Past Perfect Tense.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 13,
+    "activity_name": "Simple Future Tense",
+    "activity_type": "Base form of verb is used in Simple Future Tense.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 14,
+    "activity_name": "Future Perfect Tense",
+    "activity_type": "Past Participle form of verb is used in Future Perfect Tense.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 15,
+    "activity_name": "Affirmative to Negative",
+    "activity_type": "convert affirmative to negative",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 16,
+    "activity_name": "Affirmative to Negative",
+    "activity_type": "Convert Affirmative to Negative",
+    "activity_desc": "NULL"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "activity_id": 1,
+    "activity_name": "The Plural of nouns is generally formed by adding -s to the singular",
+    "activity_type": "boy - boys"
+  },
+  {
+    "activity_id": 2,
+    "activity_name": "Nouns ending in -s",
+    "activity_type": "-sh",
+    "activity_desc": "-ch"
+  },
+  {
+    "activity_id": 3,
+    "activity_name": "Nouns ending in -y",
+    "activity_type": "preceded by a consonant",
+    "activity_desc": "form their plural by changing -y into -i and adding -es"
+  },
+  {
+    "activity_id": 4,
+    "activity_name": "The following nouns ending in -f or -fe form their plural by changing -for -fe into v and adding -es",
+    "activity_type": "",
+    "activity_desc": "thief - thieves"
+  },
+  {
+    "activity_id": 5,
+    "activity_name": "There are a few nouns that form their plural by adding -en to the singular",
+    "activity_type": "ox - oxen"
+  },
+  {
+    "activity_id": 6,
+    "activity_name": "Some nouns have the singular and the plural alike",
+    "activity_type": "sheep - sheep"
+  },
+  {
+    "activity_id": 7,
+    "activity_name": "A few nouns form their plural by changing the inside vowel of the singular",
+    "activity_type": "man - men"
+  },
+  {
+    "activity_id": 8,
+    "activity_name": "A Compound Noun generally forms its plural by adding -s to the principal word",
+    "activity_type": "Commander-in-chief : Commanders-in-chief\\r\\n"
+  },
+  {
+    "activity_id": 9,
+    "activity_name": "Proper nouns do not have plurals",
+    "activity_type": "Hyderabad"
+  },
+  {
+    "activity_id": 10,
+    "activity_name": "Uncountable nouns do not have a plural form",
+    "activity_type": "milk"
+  }
+]

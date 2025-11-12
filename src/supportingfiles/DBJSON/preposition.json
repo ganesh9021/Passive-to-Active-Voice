@@ -1,0 +1,217 @@
+[
+  {
+    "activity_id": 1,
+    "activity_name": "on",
+    "activity_type": "Used to express a surface of something.",
+    "activity_desc": "44"
+  },
+  {
+    "activity_id": 2,
+    "activity_name": "at",
+    "activity_type": "Used to indicate a place.\\r\\nUsed to indicate an activity.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 3,
+    "activity_name": "in",
+    "activity_type": "Used to indicate a location or place:",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 4,
+    "activity_name": "above",
+    "activity_type": " If A is above B",
+    "activity_desc": "A is higher than or before B"
+  },
+  {
+    "activity_id": 5,
+    "activity_name": "across",
+    "activity_type": "from one side to the other side",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 6,
+    "activity_name": "after",
+    "activity_type": "one follows the other",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 7,
+    "activity_name": "against",
+    "activity_type": "directed towards sth.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 8,
+    "activity_name": "along",
+    "activity_type": "in a line"
+  },
+  {
+    "activity_id": 9,
+    "activity_name": "among",
+    "activity_type": "in a group",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 10,
+    "activity_name": "around",
+    "activity_type": "in a circular way",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 11,
+    "activity_name": "behind",
+    "activity_type": "at the back of",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 12,
+    "activity_name": "below",
+    "activity_type": "Lower than any object.",
+    "activity_desc": "42"
+  },
+  {
+    "activity_id": 13,
+    "activity_name": "beside",
+    "activity_type": "next to",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 14,
+    "activity_name": "between",
+    "activity_type": "If x is between y and z",
+    "activity_desc": "y is on one side of x and z is on the other side."
+  },
+  {
+    "activity_id": 15,
+    "activity_name": "by",
+    "activity_type": "near",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 16,
+    "activity_name": "close to",
+    "activity_type": "When two things are close",
+    "activity_desc": "they are near each other"
+  },
+  {
+    "activity_id": 17,
+    "activity_name": "down",
+    "activity_type": "from high to low",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 18,
+    "activity_name": "from",
+    "activity_type": "the place where it starts",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 19,
+    "activity_name": "in front of",
+    "activity_type": "the part that is in the direction it faces",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 20,
+    "activity_name": "inside",
+    "activity_type": "opposite of outside",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 21,
+    "activity_name": "into",
+    "activity_type": "entering sth.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 22,
+    "activity_name": "near",
+    "activity_type": "close to",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 23,
+    "activity_name": "next to",
+    "activity_type": "beside",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 24,
+    "activity_name": "off",
+    "activity_type": "away from sth.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 25,
+    "activity_name": "onto",
+    "activity_type": "moving to a place",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 26,
+    "activity_name": "opposite",
+    "activity_type": "on the other side",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 27,
+    "activity_name": "out of",
+    "activity_type": "leaving sth.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 28,
+    "activity_name": "outside",
+    "activity_type": "opposite of inside",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 29,
+    "activity_name": "over",
+    "activity_type": "above sth./sb.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 30,
+    "activity_name": "past",
+    "activity_type": "going near sth./sb.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 32,
+    "activity_name": "round",
+    "activity_type": "in a circle",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 33,
+    "activity_name": "through",
+    "activity_type": "going from one point to the other point",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 34,
+    "activity_name": "to",
+    "activity_type": "towards sth./sb.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 35,
+    "activity_name": "towards",
+    "activity_type": "in the direction of sth.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 37,
+    "activity_name": "up",
+    "activity_type": "from low to high",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 38,
+    "activity_name": "under",
+    "activity_type": "In the same place as another thing",
+    "activity_desc": "but lower."
+  }
+]

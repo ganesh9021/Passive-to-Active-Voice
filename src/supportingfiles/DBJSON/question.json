@@ -1,0 +1,116 @@
+[
+  {
+    "activity_id": 22,
+    "activity_name": "NULL",
+    "activity_type": "8",
+    "activity_desc": "1"
+  },
+  {
+    "activity_id": 25,
+    "activity_name": "NULL",
+    "activity_type": "8",
+    "activity_desc": "3"
+  },
+  {
+    "activity_id": 28,
+    "activity_name": "Put the ball on the table.",
+    "activity_type": "17",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 29,
+    "activity_name": "Put the ball on the chair.",
+    "activity_type": "17",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 30,
+    "activity_name": "Put the ball on the sofa.",
+    "activity_type": "17",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 31,
+    "activity_name": "Put the ball below the table.",
+    "activity_type": "17",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 33,
+    "activity_name": "Place the ball between the wall painting and the clock.",
+    "activity_type": "17",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 34,
+    "activity_name": "Place the ball between the family portrait and the clock.",
+    "activity_type": "17",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 41,
+    "activity_name": "Crossword - Characteristics of the Nightingale",
+    "activity_type": "20",
+    "activity_desc": "7"
+  },
+  {
+    "activity_id": 42,
+    "activity_name": "The frog croaked",
+    "activity_type": "20",
+    "activity_desc": "8"
+  },
+  {
+    "activity_id": 43,
+    "activity_name": "The animals reacted to the frogs song with",
+    "activity_type": "20",
+    "activity_desc": "8"
+  },
+  {
+    "activity_id": 44,
+    "activity_name": "Lionel could not be saved as",
+    "activity_type": "18",
+    "activity_desc": "8"
+  },
+  {
+    "activity_id": 45,
+    "activity_name": "One elderly gentleman was especially heart-broken because",
+    "activity_type": "18",
+    "activity_desc": "8"
+  },
+  {
+    "activity_id": 46,
+    "activity_name": "The midnight visitor",
+    "activity_type": "24",
+    "activity_desc": "7"
+  },
+  {
+    "activity_id": 47,
+    "activity_name": "The recent change in the attitude of Indians is that",
+    "activity_type": "25",
+    "activity_desc": "3"
+  },
+  {
+    "activity_id": 48,
+    "activity_name": "This change is due to the fact that",
+    "activity_type": "25",
+    "activity_desc": "3"
+  },
+  {
+    "activity_id": 49,
+    "activity_name": "The people interested in these sports are",
+    "activity_type": "25",
+    "activity_desc": "3"
+  },
+  {
+    "activity_id": 50,
+    "activity_name": "To lie safe means",
+    "activity_type": "25",
+    "activity_desc": "3"
+  },
+  {
+    "activity_id": 51,
+    "activity_name": "The phrase full throttle means",
+    "activity_type": "25",
+    "activity_desc": "3"
+  }
+]

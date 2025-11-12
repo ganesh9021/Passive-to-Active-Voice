@@ -1,0 +1,3530 @@
+{
+  "catch" : {  
+    "verb_id": 1,
+    "verb_type": "irregular",
+    "verb_base_form": "catch",
+    "verb_present_participle": "NULL",
+    "verb_past_participle": "caught",
+    "verb_past_tense": "caught",
+    "verb_category": "NULL"
+  },
+  "cost" : {  
+    "verb_id": 2,
+    "verb_type": "irregular",
+    "verb_base_form": "cost",
+    "verb_present_participle": "NULL",
+    "verb_past_participle": "cost",
+    "verb_past_tense": "cost",
+    "verb_category": "NULL"
+  },  
+  "drive" : {  
+    "verb_id": 3,
+    "verb_type": "irregular",
+    "verb_base_form": "drive",
+    "verb_present_participle": "NULL",
+    "verb_past_participle": "driven",
+    "verb_past_tense": "drove",
+    "verb_category": "NULL"
+  },  
+  "drink" : {  
+    "verb_id": 4,
+    "verb_type": "irregular",
+    "verb_base_form": "drink",
+    "verb_present_participle": "NULL",
+    "verb_past_participle": "drunk",
+    "verb_past_tense": "drank",
+    "verb_category": "NULL"
+  },
+  "eat" : {  
+    "verb_id": 5,
+    "verb_type": "irregular",
+    "verb_base_form": "eat",
+    "verb_present_participle": "NULL",
+    "verb_past_participle": "eaten",
+    "verb_past_tense": "ate",
+    "verb_category": "NULL"
+  },  
+  "feed" : {
+    "verb_id": 6, 
+    "verb_type": "irregular", 
+    "verb_base_form": "feed", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "fed", 
+    "verb_past_tense": "fed", 
+    "verb_category": "NULL"
+  },
+  "forgive" : {
+    "verb_id": 7, 
+    "verb_type": "irregular", 
+    "verb_base_form": "forgive", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "forgiven", 
+    "verb_past_tense": "forgave", 
+    "verb_category": "NULL"
+  },
+  "give" : {
+    "verb_id": 8, 
+    "verb_type": "irregular", 
+    "verb_base_form": "give", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "given", 
+    "verb_past_tense": "gave", 
+    "verb_category": "NULL"
+  },  
+  "grow" : {
+    "verb_id": 9, 
+    "verb_type": "irregular", 
+    "verb_base_form": "grow", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "grown", 
+    "verb_past_tense": "grew", 
+    "verb_category": "NULL"
+  },
+  "hold" : {
+    "verb_id": 10, 
+    "verb_type": "irregular", 
+    "verb_base_form": "hold", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "held", 
+    "verb_past_tense": "held", 
+    "verb_category": "NULL"
+  },    
+  "sell" : {
+    "verb_id": 11, 
+    "verb_type": "irregular", 
+    "verb_base_form": "sell", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "sold", 
+    "verb_past_tense": "sold", 
+    "verb_category": "NULL"
+  },
+  "sing" : {
+    "verb_id": 12, 
+    "verb_type": "irregular", 
+    "verb_base_form": "sing", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "sung", 
+    "verb_past_tense": "sang", 
+    "verb_category": "NULL"
+  },
+  "spend" : {
+    "verb_id": 13, 
+    "verb_type": "irregular", 
+    "verb_base_form": "spend", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "spent", 
+    "verb_past_tense": "spent", 
+    "verb_category": "NULL"
+  },  
+  "teach" : {
+    "verb_id": 14, 
+    "verb_type": "irregular", 
+    "verb_base_form": "teach", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "taught", 
+    "verb_past_tense": "taught", 
+    "verb_category": "NULL"
+  },
+  "win" : {
+    "verb_id": 15, 
+    "verb_type": "irregular", 
+    "verb_base_form": "win", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "won", 
+    "verb_past_tense": "won", 
+    "verb_category": "NULL"
+  },
+  "write" : {
+    "verb_id": 16, 
+    "verb_type": "irregular", 
+    "verb_base_form": "write", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "written", 
+    "verb_past_tense": "wrote", 
+    "verb_category": "NULL"
+  },
+  "climb" : {
+    "verb_id": 17, 
+    "verb_type": "irregular", 
+    "verb_base_form": "climb", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "climbed", 
+    "verb_past_tense": "climbed", 
+    "verb_category": "NULL"
+  },
+  "cook" : {
+    "verb_id": 18, 
+    "verb_type": "irregular", 
+    "verb_base_form": "cook", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "cooked", 
+    "verb_past_tense": "cooked", 
+    "verb_category": "NULL"
+  },
+  "die" : {
+    "verb_id": 19, 
+    "verb_type": "irregular", 
+    "verb_base_form": "die", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "died", 
+    "verb_past_tense": "died", 
+    "verb_category": "NULL"
+  },
+  "protect" : {
+    "verb_id": 20, 
+    "verb_type": "irregular", 
+    "verb_base_form": "protect", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "protected", 
+    "verb_past_tense": "protected", 
+    "verb_category": "NULL"
+  },
+  "purchase" : {
+    "verb_id": 21, 
+    "verb_type": "irregular", 
+    "verb_base_form": "purchase", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "purchased", 
+    "verb_past_tense": "purchased", 
+    "verb_category": "NULL"
+  },
+  "run" : {
+    "verb_id": 22, 
+    "verb_type": "irregular", 
+    "verb_base_form": "run", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "run", 
+    "verb_past_tense": "ran", 
+    "verb_category": "NULL"
+  },
+  "talk" : {
+    "verb_id": 23, 
+    "verb_type": "irregular", 
+    "verb_base_form": "talk", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "talked", 
+    "verb_past_tense": "talked", 
+    "verb_category": "NULL"
+  },
+  "fail" : {
+    "verb_id": 24, 
+    "verb_type": "irregular", 
+    "verb_base_form": "fail", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "failed", 
+    "verb_past_tense": "failed", 
+    "verb_category": "NULL"
+  },
+  "awake" : {
+    "verb_id": 410, 
+    "verb_type": "irregular", 
+    "verb_base_form": "awake", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "awoken", 
+    "verb_past_tense": "awoke", 
+    "verb_category": "NULL"
+  },
+  "be" : {
+    "verb_id": 411, 
+    "verb_type": "irregular", 
+    "verb_base_form": "be", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "been", 
+    "verb_past_tense": "was, were", 
+    "verb_category": "NULL"
+  },
+  "bear" : {
+    "verb_id": 412, 
+    "verb_type": "irregular", 
+    "verb_base_form": "bear", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "born", 
+    "verb_past_tense": "bore", 
+    "verb_category": "NULL"
+  },  
+  "beat" : {
+    "verb_id": 413, 
+    "verb_type": "irregular", 
+    "verb_base_form": "beat", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "beat", 
+    "verb_past_tense": "beat", 
+    "verb_category": "NULL"
+  },
+  "become" : {
+    "verb_id": 414, 
+    "verb_type": "irregular", 
+    "verb_base_form": "become", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "become", 
+    "verb_past_tense": "became", 
+    "verb_category": "NULL"
+  },
+  "begin" : {
+    "verb_id": 415, 
+    "verb_type": "irregular", 
+    "verb_base_form": "begin", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "begun", 
+    "verb_past_tense": "began", 
+    "verb_category": "NULL"
+  },
+  "bend" : {
+    "verb_id": 416, 
+    "verb_type": "irregular", 
+    "verb_base_form": "bend", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "bent", 
+    "verb_past_tense": "bent", 
+    "verb_category": "NULL"
+  },
+  "beset" : {
+    "verb_id": 417, 
+    "verb_type": "irregular", 
+    "verb_base_form": "beset", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "beset", 
+    "verb_past_tense": "beset", 
+    "verb_category": "NULL"
+  },
+  "bet" : {
+    "verb_id": 418, 
+    "verb_type": "irregular", 
+    "verb_base_form": "bet", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "bet", 
+    "verb_past_tense": "bet", 
+    "verb_category": "NULL"
+  },
+  "bid" : {
+    "verb_id": 419, 
+    "verb_type": "irregular", 
+    "verb_base_form": "bid", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "bid / bidden", 
+    "verb_past_tense": "bid / bade", 
+    "verb_category": "NULL"
+  },
+  "bind" : {
+    "verb_id": 420, 
+    "verb_type": "irregular", 
+    "verb_base_form": "bind", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "bound", 
+    "verb_past_tense": "bound", 
+    "verb_category": "NULL"
+  },
+  "bite" : {
+    "verb_id": 421, 
+    "verb_type": "irregular", 
+    "verb_base_form": "bite", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "bitten", 
+    "verb_past_tense": "bit", 
+    "verb_category": "NULL"
+  },
+  "bleed" : {
+    "verb_id": 422, 
+    "verb_type": "irregular", 
+    "verb_base_form": "bleed", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "bled", 
+    "verb_past_tense": "bled", 
+    "verb_category": "NULL"
+  },
+  "blow" : {
+    "verb_id": 423, 
+    "verb_type": "irregular", 
+    "verb_base_form": "blow", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "blown", 
+    "verb_past_tense": "blew", 
+    "verb_category": "NULL"
+  },
+  "break" : {
+    "verb_id": 424, 
+    "verb_type": "irregular", 
+    "verb_base_form": "break", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "broken", 
+    "verb_past_tense": "broke", 
+    "verb_category": "NULL"
+  },
+  "breed" : {
+    "verb_id": 425, 
+    "verb_type": "irregular", 
+    "verb_base_form": "breed", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "bred", 
+    "verb_past_tense": "bred", 
+    "verb_category": "NULL"
+  },
+  "bring" : {
+    "verb_id": 426, 
+    "verb_type": "irregular", 
+    "verb_base_form": "bring", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "brought", 
+    "verb_past_tense": "brought", 
+    "verb_category": "NULL"
+  },
+  "broadcast" : {
+    "verb_id": 427, 
+    "verb_type": "irregular", 
+    "verb_base_form": "broadcast", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "broadcast", 
+    "verb_past_tense": "broadcast", 
+    "verb_category": "NULL"
+  },
+  "build" : {
+    "verb_id": 428, 
+    "verb_type": "irregular", 
+    "verb_base_form": "build", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "built", 
+    "verb_past_tense": "built", 
+    "verb_category": "NULL"
+  },
+  "burn" : {
+    "verb_id": 429, 
+    "verb_type": "irregular", 
+    "verb_base_form": "burn", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "burned / burnt", 
+    "verb_past_tense": "burned / burnt", 
+    "verb_category": "NULL"
+  },
+  "burst" : {
+    "verb_id": 430, 
+    "verb_type": "irregular", 
+    "verb_base_form": "burst", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "burst", 
+    "verb_past_tense": "burst", 
+    "verb_category": "NULL"
+  },
+  "buy" : {
+    "verb_id": 431, 
+    "verb_type": "irregular", 
+    "verb_base_form": "buy", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "bought", 
+    "verb_past_tense": "bought", 
+    "verb_category": "NULL"
+  },
+  "cast" : {
+    "verb_id": 432, 
+    "verb_type": "irregular", 
+    "verb_base_form": "cast", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "cast", 
+    "verb_past_tense": "cast", 
+    "verb_category": "NULL"
+  },
+  "choose" : {
+    "verb_id": 434, 
+    "verb_type": "irregular", 
+    "verb_base_form": "choose", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "chosen", 
+    "verb_past_tense": "chose", 
+    "verb_category": "NULL"
+  },
+  "cling" : {
+    "verb_id": 435, 
+    "verb_type": "irregular", 
+    "verb_base_form": "cling", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "clung", 
+    "verb_past_tense": "clung", 
+    "verb_category": "NULL"
+  },
+  "come" : {
+    "verb_id": 436, 
+    "verb_type": "irregular", 
+    "verb_base_form": "come", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "come", 
+    "verb_past_tense": "came", 
+    "verb_category": "NULL"
+  },
+  "creep" : {
+    "verb_id": 438, 
+    "verb_type": "irregular", 
+    "verb_base_form": "creep", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "crept", 
+    "verb_past_tense": "crept", 
+    "verb_category": "NULL"
+  },
+  "cut" : {
+    "verb_id": 439, 
+    "verb_type": "irregular", 
+    "verb_base_form": "cut", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "cut", 
+    "verb_past_tense": "cut", 
+    "verb_category": "NULL"
+  },
+  "deal" : {
+    "verb_id": 440, 
+    "verb_type": "irregular", 
+    "verb_base_form": "deal", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "dealt", 
+    "verb_past_tense": "dealt", 
+    "verb_category": "NULL"
+  },
+  "dig" : {
+    "verb_id": 441, 
+    "verb_type": "irregular", 
+    "verb_base_form": "dig", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "dug", 
+    "verb_past_tense": "dug", 
+    "verb_category": "NULL"
+  },
+  "dive" : {
+    "verb_id": 442, 
+    "verb_type": "irregular", 
+    "verb_base_form": "dive", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "dived", 
+    "verb_past_tense": "dived / dove", 
+    "verb_category": "NULL"
+  },
+  "do" : {
+    "verb_id": 443, 
+    "verb_type": "irregular", 
+    "verb_base_form": "do", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "done", 
+    "verb_past_tense": "did", 
+    "verb_category": "NULL"
+  },
+  "draw" : {
+    "verb_id": 444, 
+    "verb_type": "irregular", 
+    "verb_base_form": "draw", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "drawn", 
+    "verb_past_tense": "drew", 
+    "verb_category": "NULL"
+  },
+  "dream" : {
+    "verb_id": 445, 
+    "verb_type": "irregular", 
+    "verb_base_form": "dream", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "dreamed / dreamt", 
+    "verb_past_tense": "dreamed / dreamt", 
+    "verb_category": "NULL"
+  },
+  "fall" : {
+    "verb_id": 449, 
+    "verb_type": "irregular", 
+    "verb_base_form": "fall", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "fallen", 
+    "verb_past_tense": "fell", 
+    "verb_category": "NULL"
+  },
+  "feel" : {
+    "verb_id": 451, 
+    "verb_type": "irregular", 
+    "verb_base_form": "feel", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "felt", 
+    "verb_past_tense": "felt", 
+    "verb_category": "NULL"
+  },
+  "fight" : {
+    "verb_id": 452,
+    "verb_type": "irregular", 
+    "verb_base_form": "fight", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "fought", 
+    "verb_past_tense": "fought", 
+    "verb_category": "NULL"
+  },
+  "find" : {
+    "verb_id": 453, 
+    "verb_type": "irregular", 
+    "verb_base_form": "find", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "found", 
+    "verb_past_tense": "found", 
+    "verb_category": "NULL"
+  },
+  "fit" : {
+    "verb_id": 454,
+    "verb_type": "irregular", 
+    "verb_base_form": "fit", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "fit", 
+    "verb_past_tense": "fit", 
+    "verb_category": "NULL"
+  },
+  "flee" : {
+    "verb_id": 455, 
+    "verb_type": "irregular", 
+    "verb_base_form": "flee", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "fled", 
+    "verb_past_tense": "fled", 
+    "verb_category": "NULL"
+  },
+  "fling" : {
+    "verb_id": 456,
+    "verb_type": "irregular", 
+    "verb_base_form": "fling", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "flung", 
+    "verb_past_tense": "flung", 
+    "verb_category": "NULL"
+  },
+  "fly" : {
+    "verb_id": 457, 
+    "verb_type": "irregular", 
+    "verb_base_form": "fly", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "flown", 
+    "verb_past_tense": "flew", 
+    "verb_category": "NULL"
+  },
+  "forbid" : {
+    "verb_id": 458,
+    "verb_type": "irregular", 
+    "verb_base_form": "forbid", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "forbidden", 
+    "verb_past_tense": "forbade", 
+    "verb_category": "NULL"
+  },
+  "forget" : {
+    "verb_id": 459, 
+    "verb_type": "irregular", 
+    "verb_base_form": "forget", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "forgotten", 
+    "verb_past_tense": "forgot", 
+    "verb_category": "NULL"
+  },
+  "forego" : {
+    "verb_id": 460,
+    "verb_type": "irregular", 
+    "verb_base_form": "forego (forgo)", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "foregone", 
+    "verb_past_tense": "forewent", 
+    "verb_category": "NULL"
+  },
+  "forsake" : {
+    "verb_id": 462, 
+    "verb_type": "irregular", 
+    "verb_base_form": "forsake", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "forsaken", 
+    "verb_past_tense": "forsook", 
+    "verb_category": "NULL"
+  },
+  "freeze" : {
+    "verb_id": 463,
+    "verb_type": "irregular", 
+    "verb_base_form": "freeze", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "frozen", 
+    "verb_past_tense": "froze", 
+    "verb_category": "NULL"
+  },
+  "get" : {
+    "verb_id": 464, 
+    "verb_type": "irregular", 
+    "verb_base_form": "get", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "gotten", 
+    "verb_past_tense": "got", 
+    "verb_category": "NULL"
+  },
+  "go" : {
+    "verb_id": 466,
+    "verb_type": "irregular", 
+    "verb_base_form": "go", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "gone", 
+    "verb_past_tense": "went", 
+    "verb_category": "NULL"
+  },
+  "grind" : {
+    "verb_id": 467, 
+    "verb_type": "irregular", 
+    "verb_base_form": "grind", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "ground", 
+    "verb_past_tense": "ground", 
+    "verb_category": "NULL"
+  },
+  "hang" : {
+    "verb_id": 469,
+    "verb_type": "irregular", 
+    "verb_base_form": "hang", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "hung", 
+    "verb_past_tense": "hung", 
+    "verb_category": "NULL"
+  },
+  "hear" : {
+    "verb_id": 470, 
+    "verb_type": "irregular", 
+    "verb_base_form": "hear", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "heard", 
+    "verb_past_tense": "heard", 
+    "verb_category": "NULL"
+  },
+  "hide" : {
+    "verb_id": 471,
+    "verb_type": "irregular", 
+    "verb_base_form": "hide", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "hidden", 
+    "verb_past_tense": "hid", 
+    "verb_category": "NULL"
+  },
+  "hit" : {
+    "verb_id": 472, 
+    "verb_type": "irregular", 
+    "verb_base_form": "hit", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "hit", 
+    "verb_past_tense": "hit", 
+    "verb_category": "NULL"
+  },
+  "hurt" : {
+    "verb_id": 474,
+    "verb_type": "irregular", 
+    "verb_base_form": "hurt", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "hurt", 
+    "verb_past_tense": "hurt", 
+    "verb_category": "NULL"
+  },
+  "keep" : {
+    "verb_id": 475,
+    "verb_type": "irregular", 
+    "verb_base_form": "keep", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "kept", 
+    "verb_past_tense": "kept", 
+    "verb_category": "NULL"
+  },
+  "kneel" : {
+    "verb_id": 476,
+    "verb_type": "irregular", 
+    "verb_base_form": "kneel", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "knelt", 
+    "verb_past_tense": "knelt", 
+    "verb_category": "NULL"
+  },
+  "knit" : {
+    "verb_id": 477,
+    "verb_type": "irregular", 
+    "verb_base_form": "knit", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "knit", 
+    "verb_past_tense": "knit", 
+    "verb_category": "NULL"
+  },
+  "know" : {
+    "verb_id": 478,
+    "verb_type": "irregular", 
+    "verb_base_form": "know", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "know", 
+    "verb_past_tense": "knew", 
+    "verb_category": "NULL"
+  },
+  "lay" : {
+    "verb_id": 479,
+    "verb_type": "irregular", 
+    "verb_base_form": "lay", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "laid", 
+    "verb_past_tense": "laid", 
+    "verb_category": "NULL"
+  },
+  "lead" : {
+    "verb_id": 480,
+    "verb_type": "irregular", 
+    "verb_base_form": "lead", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "led", 
+    "verb_past_tense": "led", 
+    "verb_category": "NULL"
+  },
+  "leap" : {
+    "verb_id": 481,
+    "verb_type": "irregular", 
+    "verb_base_form": "leap", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "leaped / leapt", 
+    "verb_past_tense": "leaped / leapt", 
+    "verb_category": "NULL"
+  },
+  "learn" : {
+    "verb_id": 482,
+    "verb_type": "irregular", 
+    "verb_base_form": "learn", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "learned / learnt", 
+    "verb_past_tense": "learned / learnt", 
+    "verb_category": "NULL"
+  },
+  "leave" : {
+    "verb_id": 483,
+    "verb_type": "irregular", 
+    "verb_base_form": "leave", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "left", 
+    "verb_past_tense": "left", 
+    "verb_category": "NULL"
+  },
+  "lend" : {
+    "verb_id": 484,
+    "verb_type": "irregular", 
+    "verb_base_form": "lend", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "lent", 
+    "verb_past_tense": "lent", 
+    "verb_category": "NULL"
+  },
+  "let" : {
+    "verb_id": 485,
+    "verb_type": "irregular", 
+    "verb_base_form": "let", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "let", 
+    "verb_past_tense": "let", 
+    "verb_category": "NULL"
+  },
+  "lie" : {
+    "verb_id": 486,
+    "verb_type": "irregular", 
+    "verb_base_form": "lie", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "lain", 
+    "verb_past_tense": "lay", 
+    "verb_category": "NULL"
+  },
+  "light" : {
+    "verb_id": 487,
+    "verb_type": "irregular", 
+    "verb_base_form": "light", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "lighted", 
+    "verb_past_tense": "lighted/lit", 
+    "verb_category": "NULL"
+  },
+  "lose" : {
+    "verb_id": 488,
+    "verb_type": "irregular", 
+    "verb_base_form": "lose", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "lost", 
+    "verb_past_tense": "lost", 
+    "verb_category": "NULL"
+  },
+  "make" : {
+    "verb_id": 489,
+    "verb_type": "irregular", 
+    "verb_base_form": "make", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "made", 
+    "verb_past_tense": "made", 
+    "verb_category": "NULL"
+  },
+  "mean" : {
+    "verb_id": 490,
+    "verb_type": "irregular", 
+    "verb_base_form": "mean", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "meant", 
+    "verb_past_tense": "meant", 
+    "verb_category": "NULL"
+  },
+  "meet" : {
+    "verb_id": 491,
+    "verb_type": "irregular", 
+    "verb_base_form": "meet", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "met", 
+    "verb_past_tense": "met", 
+    "verb_category": "NULL"
+  },
+  "misspell" : {
+    "verb_id": 492,
+    "verb_type": "irregular", 
+    "verb_base_form": "misspell", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "misspelled / misspelt", 
+    "verb_past_tense": "misspelled / misspelt", 
+    "verb_category": "NULL"
+  },
+  "mistake" : {
+    "verb_id": 493,
+    "verb_type": "irregular", 
+    "verb_base_form": "mistake", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "mistaken", 
+    "verb_past_tense": "mistook", 
+    "verb_category": "NULL"
+  },
+  "mow" : {
+    "verb_id": 494,
+    "verb_type": "irregular", 
+    "verb_base_form": "mow", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "mowed / mown", 
+    "verb_past_tense": "mowed", 
+    "verb_category": "NULL"
+  },
+  "overcome" : {
+    "verb_id": 495,
+    "verb_type": "irregular", 
+    "verb_base_form": "overcome", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "overcome", 
+    "verb_past_tense": "overcame", 
+    "verb_category": "NULL"
+  },
+  "overdo" : {
+    "verb_id": 496,
+    "verb_type": "irregular", 
+    "verb_base_form": "overdo", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "overdone", 
+    "verb_past_tense": "overdid", 
+    "verb_category": "NULL"
+  },
+  "overtake" : {
+    "verb_id": 497,
+    "verb_type": "irregular", 
+    "verb_base_form": "overtake", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "overtaken", 
+    "verb_past_tense": "overtook", 
+    "verb_category": "NULL"
+  },
+  "overthrow" : {
+    "verb_id": 498,
+    "verb_type": "irregular", 
+    "verb_base_form": "overthrow", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "overthrown", 
+    "verb_past_tense": "overthrew", 
+    "verb_category": "NULL"
+  },
+  "paid" : {
+    "verb_id": 499,
+    "verb_type": "irregular", 
+    "verb_base_form": "paid", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "paid", 
+    "verb_past_tense": "paid", 
+    "verb_category": "NULL"
+  },
+  "plead" : {
+    "verb_id": 500,
+    "verb_type": "irregular", 
+    "verb_base_form": "plead", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "pleaded / pled", 
+    "verb_past_tense": "pleaded / pled", 
+    "verb_category": "NULL"
+  },
+  "prove" : {
+    "verb_id": 501,
+    "verb_type": "irregular", 
+    "verb_base_form": "prove", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "proved / proven", 
+    "verb_past_tense": "proved", 
+    "verb_category": "NULL"
+  },
+  "put" : {
+    "verb_id": 502,
+    "verb_type": "irregular", 
+    "verb_base_form": "put", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "put", 
+    "verb_past_tense": "put", 
+    "verb_category": "NULL"
+  },
+  "quit" : {
+    "verb_id": 503,
+    "verb_type": "irregular", 
+    "verb_base_form": "quit", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "quit", 
+    "verb_past_tense": "quit", 
+    "verb_category": "NULL"
+  },
+  "read" : {
+    "verb_id": 504,
+    "verb_type": "irregular", 
+    "verb_base_form": "read", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "read", 
+    "verb_past_tense": "read", 
+    "verb_category": "NULL"
+  },
+  "rid" : {
+    "verb_id": 505,
+    "verb_type": "irregular", 
+    "verb_base_form": "rid", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "rid", 
+    "verb_past_tense": "rid", 
+    "verb_category": "NULL"
+  },
+  "ride" : {
+    "verb_id": 506,
+    "verb_type": "irregular", 
+    "verb_base_form": "ride", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "ridden", 
+    "verb_past_tense": "rode", 
+    "verb_category": "NULL"
+  },
+  "ring" : {
+    "verb_id": 507,
+    "verb_type": "irregular", 
+    "verb_base_form": "ring", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "rung", 
+    "verb_past_tense": "rang", 
+    "verb_category": "NULL"
+  },
+  "rise" : {
+    "verb_id": 508,
+    "verb_type": "irregular", 
+    "verb_base_form": "rise", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "risen", 
+    "verb_past_tense": "rose", 
+    "verb_category": "NULL"
+  },
+  "saw" : {
+    "verb_id": 510,
+    "verb_type": "irregular", 
+    "verb_base_form": "saw", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "sawed / sawn", 
+    "verb_past_tense": "sawed", 
+    "verb_category": "NULL"
+  },
+  "say" : {
+    "verb_id": 511,
+    "verb_type": "irregular", 
+    "verb_base_form": "say", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "said", 
+    "verb_past_tense": "said", 
+    "verb_category": "NULL"
+  },
+  "see" : {
+    "verb_id": 512,
+    "verb_type": "irregular", 
+    "verb_base_form": "see", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "seen", 
+    "verb_past_tense": "saw", 
+    "verb_category": "NULL"
+  },
+  "seek" : {
+    "verb_id": 513,
+    "verb_type": "irregular", 
+    "verb_base_form": "seek", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "sought", 
+    "verb_past_tense": "sought", 
+    "verb_category": "NULL"
+  },
+  "send" : {
+    "verb_id": 515,
+    "verb_type": "irregular", 
+    "verb_base_form": "send", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "sent", 
+    "verb_past_tense": "sent", 
+    "verb_category": "NULL"
+  },
+  "set" : {
+    "verb_id": 516,
+    "verb_type": "irregular", 
+    "verb_base_form": "set", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "set", 
+    "verb_past_tense": "set", 
+    "verb_category": "NULL"
+  },
+  "sew" : {
+    "verb_id": 517,
+    "verb_type": "irregular", 
+    "verb_base_form": "sew", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "sewed / sewn", 
+    "verb_past_tense": "sewed", 
+    "verb_category": "NULL"
+  },
+  "shake" : {
+    "verb_id": 518,
+    "verb_type": "irregular", 
+    "verb_base_form": "shake", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "shaken", 
+    "verb_past_tense": "shook", 
+    "verb_category": "NULL"
+  },
+  "shave" : {
+    "verb_id": 519,
+    "verb_type": "irregular", 
+    "verb_base_form": "shave", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "shaved / shaven", 
+    "verb_past_tense": "shaved", 
+    "verb_category": "NULL"
+  },
+  "shear" : {
+    "verb_id": 520,
+    "verb_type": "irregular", 
+    "verb_base_form": "shear", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "sheared / shorn", 
+    "verb_past_tense": "sheared / shore", 
+    "verb_category": "NULL"
+  },
+  "shed" : {
+    "verb_id": 521,
+    "verb_type": "irregular", 
+    "verb_base_form": "shed", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "shed", 
+    "verb_past_tense": "shed", 
+    "verb_category": "NULL"
+  },
+  "shine" : {
+    "verb_id": 522,
+    "verb_type": "irregular", 
+    "verb_base_form": "shine", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "shone", 
+    "verb_past_tense": "shone", 
+    "verb_category": "NULL"
+  },
+  "shoe" : {
+    "verb_id": 523,
+    "verb_type": "irregular", 
+    "verb_base_form": "shoe", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "shod", 
+    "verb_past_tense": "shod", 
+    "verb_category": "NULL"
+  },
+  "shoot" : {
+    "verb_id": 524,
+    "verb_type": "irregular", 
+    "verb_base_form": "shoot", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "shot", 
+    "verb_past_tense": "shot", 
+    "verb_category": "NULL"
+  },
+  "show" : {
+    "verb_id": 525,
+    "verb_type": "irregular", 
+    "verb_base_form": "show", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "showed / shown", 
+    "verb_past_tense": "showed", 
+    "verb_category": "NULL"
+  },
+  "shrink" : {
+    "verb_id": 526,
+    "verb_type": "irregular", 
+    "verb_base_form": "shrink", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "shrunk", 
+    "verb_past_tense": "shrank", 
+    "verb_category": "NULL"
+  },
+  "shut" : {
+    "verb_id": 527,
+    "verb_type": "irregular", 
+    "verb_base_form": "shut", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "shut", 
+    "verb_past_tense": "shut", 
+    "verb_category": "NULL"
+  },
+  "sink" : {
+    "verb_id": 529,
+    "verb_type": "irregular", 
+    "verb_base_form": "sink", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "sunk", 
+    "verb_past_tense": "sank", 
+    "verb_category": "NULL"
+  },
+  "sit" : {
+    "verb_id": 530,
+    "verb_type": "irregular", 
+    "verb_base_form": "sit", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "sat", 
+    "verb_past_tense": "sat", 
+    "verb_category": "NULL"
+  },
+  "sleep" : {
+    "verb_id": 531,
+    "verb_type": "irregular", 
+    "verb_base_form": "sleep", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "slept", 
+    "verb_past_tense": "slept", 
+    "verb_category": "NULL"
+  },
+  "slay" : {
+    "verb_id": 532,
+    "verb_type": "irregular", 
+    "verb_base_form": "slay", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "slain", 
+    "verb_past_tense": "slew", 
+    "verb_category": "NULL"
+  },
+  "slide" : {
+    "verb_id": 533,
+    "verb_type": "irregular", 
+    "verb_base_form": "slide", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "slid", 
+    "verb_past_tense": "slid", 
+    "verb_category": "NULL"
+  },
+  "sling" : {
+    "verb_id": 534,
+    "verb_type": "irregular", 
+    "verb_base_form": "sling", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "slung", 
+    "verb_past_tense": "slung", 
+    "verb_category": "NULL"
+  },
+  "slit" : {
+    "verb_id": 535,
+    "verb_type": "irregular", 
+    "verb_base_form": "slit", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "slit", 
+    "verb_past_tense": "slit", 
+    "verb_category": "NULL"
+  },
+  "smite" : {
+    "verb_id": 536,
+    "verb_type": "irregular", 
+    "verb_base_form": "smite", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "smitten", 
+    "verb_past_tense": "smote", 
+    "verb_category": "NULL"
+  },
+  "sow" : {
+    "verb_id": 537,
+    "verb_type": "irregular", 
+    "verb_base_form": "sow", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "sowed / sown", 
+    "verb_past_tense": "sowed", 
+    "verb_category": "NULL"
+  },
+  "speak" : {
+    "verb_id": 538,
+    "verb_type": "irregular", 
+    "verb_base_form": "speak", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "spoken", 
+    "verb_past_tense": "spoke", 
+    "verb_category": "NULL"
+  },
+  "speed" : {
+    "verb_id": 539,
+    "verb_type": "irregular", 
+    "verb_base_form": "speed", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "sped", 
+    "verb_past_tense": "sped", 
+    "verb_category": "NULL"
+  },
+  "spill" : {
+    "verb_id": 541,
+    "verb_type": "irregular", 
+    "verb_base_form": "spill", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "spilled / spilt", 
+    "verb_past_tense": "spilled / spilt", 
+    "verb_category": "NULL"
+  },
+  "spin" : {
+    "verb_id": 542,
+    "verb_type": "irregular", 
+    "verb_base_form": "spin", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "spun", 
+    "verb_past_tense": "spun", 
+    "verb_category": "NULL"
+  },
+  "spit" : {
+    "verb_id": 543,
+    "verb_type": "irregular", 
+    "verb_base_form": "spit", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "spit", 
+    "verb_past_tense": "spit / spat", 
+    "verb_category": "NULL"
+  },
+  "split" : {
+    "verb_id": 544,
+    "verb_type": "irregular", 
+    "verb_base_form": "split", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "split", 
+    "verb_past_tense": "split", 
+    "verb_category": "NULL"
+  },
+  "spread" : {
+    "verb_id": 545,
+    "verb_type": "irregular", 
+    "verb_base_form": "spread", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "spread", 
+    "verb_past_tense": "spread", 
+    "verb_category": "NULL"
+  },
+  "spring" : {
+    "verb_id": 546,
+    "verb_type": "irregular", 
+    "verb_base_form": "spring", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "sprung", 
+    "verb_past_tense": "sprang / sprung", 
+    "verb_category": "NULL"
+  },
+  "stand" : {
+    "verb_id": 547,
+    "verb_type": "irregular", 
+    "verb_base_form": "stand", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "stood", 
+    "verb_past_tense": "stood", 
+    "verb_category": "NULL"
+  },
+  "steal" : {
+    "verb_id": 548,
+    "verb_type": "irregular", 
+    "verb_base_form": "steal", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "stolen", 
+    "verb_past_tense": "stole", 
+    "verb_category": "NULL"
+  },
+  "stick" : {
+    "verb_id": 549,
+    "verb_type": "irregular", 
+    "verb_base_form": "stick", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "stuck", 
+    "verb_past_tense": "stuck", 
+    "verb_category": "NULL"
+  },
+  "sting" : {
+    "verb_id": 550,
+    "verb_type": "irregular", 
+    "verb_base_form": "sting", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "stung", 
+    "verb_past_tense": "stung", 
+    "verb_category": "NULL"
+  },
+  "stink" : {
+    "verb_id": 551,
+    "verb_type": "irregular", 
+    "verb_base_form": "stink", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "stunk", 
+    "verb_past_tense": "stank", 
+    "verb_category": "NULL"
+  },
+  "stride" : {
+    "verb_id": 552,
+    "verb_type": "irregular", 
+    "verb_base_form": "stride", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "stridden", 
+    "verb_past_tense": "strode", 
+    "verb_category": "NULL"
+  },
+  "strike" : {
+    "verb_id": 553,
+    "verb_type": "irregular", 
+    "verb_base_form": "strike", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "struck", 
+    "verb_past_tense": "struck", 
+    "verb_category": "NULL"
+  },
+  "string" : {
+    "verb_id": 554,
+    "verb_type": "irregular", 
+    "verb_base_form": "string", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "strung", 
+    "verb_past_tense": "strung", 
+    "verb_category": "NULL"
+  },
+  "strive" : {
+    "verb_id": 555,
+    "verb_type": "irregular", 
+    "verb_base_form": "strive", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "striven", 
+    "verb_past_tense": "strove", 
+    "verb_category": "NULL"
+  },
+  "swear" : {
+    "verb_id": 556,
+    "verb_type": "irregular", 
+    "verb_base_form": "swear", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "sworn", 
+    "verb_past_tense": "swore", 
+    "verb_category": "NULL"
+  },
+  "sweep" : {
+    "verb_id": 557,
+    "verb_type": "irregular", 
+    "verb_base_form": "sweep", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "swept", 
+    "verb_past_tense": "swept", 
+    "verb_category": "NULL"
+  },
+  "swell" : {
+    "verb_id": 558,
+    "verb_type": "irregular", 
+    "verb_base_form": "swell", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "swelled / swollen", 
+    "verb_past_tense": "swelled", 
+    "verb_category": "NULL"
+  },
+  "swim" : {
+    "verb_id": 559,
+    "verb_type": "irregular", 
+    "verb_base_form": "swim", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "swum", 
+    "verb_past_tense": "swam", 
+    "verb_category": "NULL"
+  },
+  "swing" : {
+    "verb_id": 560,
+    "verb_type": "irregular", 
+    "verb_base_form": "swing", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "swung", 
+    "verb_past_tense": "swung", 
+    "verb_category": "NULL"
+  },
+  "take" : {
+    "verb_id": 561,
+    "verb_type": "irregular", 
+    "verb_base_form": "take", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "taken", 
+    "verb_past_tense": "took", 
+    "verb_category": "NULL"
+  },
+  "tear" : {
+    "verb_id": 563,
+    "verb_type": "irregular", 
+    "verb_base_form": "tear", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "torn", 
+    "verb_past_tense": "tore", 
+    "verb_category": "NULL"
+  },
+  "tell" : {
+    "verb_id": 564,
+    "verb_type": "irregular", 
+    "verb_base_form": "tell", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "told", 
+    "verb_past_tense": "told", 
+    "verb_category": "NULL"
+  },
+  "think" : {
+    "verb_id": 565,
+    "verb_type": "irregular", 
+    "verb_base_form": "think", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "thought", 
+    "verb_past_tense": "thought", 
+    "verb_category": "NULL"
+  },
+  "thrive" : {
+    "verb_id": 566,
+    "verb_type": "irregular", 
+    "verb_base_form": "thrive", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "thrived", 
+    "verb_past_tense": "thrived / throve", 
+    "verb_category": "NULL"
+  },
+  "throw" : {
+    "verb_id": 567,
+    "verb_type": "irregular", 
+    "verb_base_form": "throw", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "thrown", 
+    "verb_past_tense": "threw", 
+    "verb_category": "NULL"
+  },
+  "thrust" : {
+    "verb_id": 568,
+    "verb_type": "irregular", 
+    "verb_base_form": "thrust", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "thrust", 
+    "verb_past_tense": "thrust", 
+    "verb_category": "NULL"
+  },
+  "tread" : {
+    "verb_id": 569,
+    "verb_type": "irregular", 
+    "verb_base_form": "tread", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "trodden", 
+    "verb_past_tense": "trod", 
+    "verb_category": "NULL"
+  },
+  "understand" : {
+    "verb_id": 570,
+    "verb_type": "irregular", 
+    "verb_base_form": "understand", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "understood", 
+    "verb_past_tense": "understood", 
+    "verb_category": "NULL"
+  },
+  "uphold" : {
+    "verb_id": 571,
+    "verb_type": "irregular", 
+    "verb_base_form": "uphold", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "upheld", 
+    "verb_past_tense": "upheld", 
+    "verb_category": "NULL"
+  },
+  "upset" : {
+    "verb_id": 572,
+    "verb_type": "irregular", 
+    "verb_base_form": "upset", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "upset", 
+    "verb_past_tense": "upset", 
+    "verb_category": "NULL"
+  },
+  "wake" : {
+    "verb_id": 573,
+    "verb_type": "irregular", 
+    "verb_base_form": "wake", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "woken", 
+    "verb_past_tense": "woke", 
+    "verb_category": "NULL"
+  },
+  "wear" : {
+    "verb_id": 574,
+    "verb_type": "irregular", 
+    "verb_base_form": "wear", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "worn", 
+    "verb_past_tense": "wore", 
+    "verb_category": "NULL"
+  },
+  "weave" : {
+    "verb_id": 575,
+    "verb_type": "irregular", 
+    "verb_base_form": "weave", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "weaved / woven", 
+    "verb_past_tense": "weaved / wove", 
+    "verb_category": "NULL"
+  },
+  "wed" : {
+    "verb_id": 576,
+    "verb_type": "irregular", 
+    "verb_base_form": "wed", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "wed", 
+    "verb_past_tense": "wed", 
+    "verb_category": "NULL"
+  },
+  "weep" : {
+    "verb_id": 577,
+    "verb_type": "irregular", 
+    "verb_base_form": "weep", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "wept", 
+    "verb_past_tense": "wept", 
+    "verb_category": "NULL"
+  },
+  "wind" : {
+    "verb_id": 578,
+    "verb_type": "irregular", 
+    "verb_base_form": "wind", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "wound", 
+    "verb_past_tense": "wound", 
+    "verb_category": "NULL"
+  },
+  "withhold" : {
+    "verb_id": 580,
+    "verb_type": "irregular", 
+    "verb_base_form": "withhold", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "withheld", 
+    "verb_past_tense": "withheld", 
+    "verb_category": "NULL"
+  },
+  "withstand" : {
+    "verb_id": 581,
+    "verb_type": "irregular", 
+    "verb_base_form": "withstand", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "withstood", 
+    "verb_past_tense": "withstood", 
+    "verb_category": "NULL"
+  },
+  "wring" : {
+    "verb_id": 582,
+    "verb_type": "irregular", 
+    "verb_base_form": "wring", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "wrung", 
+    "verb_past_tense": "wrung", 
+    "verb_category": "NULL"
+  },
+  "accept" : {
+    "verb_id": 665,
+    "verb_type": "irregular", 
+    "verb_base_form": "accept", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "accepted", 
+    "verb_past_tense": "accepted", 
+    "verb_category": "NULL"
+  },
+  "act" : {
+    "verb_id": 666,
+    "verb_type": "irregular", 
+    "verb_base_form": "act", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "acted", 
+    "verb_past_tense": "acted", 
+    "verb_category": "NULL"
+  },
+  "achieve" : {
+    "verb_id": 667,
+    "verb_type": "irregular", 
+    "verb_base_form": "achieve", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "achieved", 
+    "verb_past_tense": "achieved", 
+    "verb_category": "NULL"
+  },
+  "admire" : {
+    "verb_id": 668,
+    "verb_type": "irregular", 
+    "verb_base_form": "admire", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "admired", 
+    "verb_past_tense": "admired", 
+    "verb_category": "NULL"
+  },
+  "advise" : {
+    "verb_id": 669,
+    "verb_type": "irregular", 
+    "verb_base_form": "advise", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "advised", 
+    "verb_past_tense": "advised", 
+    "verb_category": "NULL"
+  },
+  "affect" : {
+    "verb_id": 670,
+    "verb_type": "irregular", 
+    "verb_base_form": "affect", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "affected", 
+    "verb_past_tense": "affected", 
+    "verb_category": "NULL"
+  },
+  "agree" : {
+    "verb_id": 671,
+    "verb_type": "irregular", 
+    "verb_base_form": "agree", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "agreed", 
+    "verb_past_tense": "agreed", 
+    "verb_category": "NULL"
+  },
+  "amaze" : {
+    "verb_id": 672,
+    "verb_type": "irregular", 
+    "verb_base_form": "amaze", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "amazed", 
+    "verb_past_tense": "amazed", 
+    "verb_category": "NULL"
+  },
+  "amuse" : {
+    "verb_id": 673,
+    "verb_type": "irregular", 
+    "verb_base_form": "amuse", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "amused", 
+    "verb_past_tense": "amused", 
+    "verb_category": "NULL"
+  },
+  "answer" : {
+    "verb_id": 674,
+    "verb_type": "irregular", 
+    "verb_base_form": "answer", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "answered", 
+    "verb_past_tense": "answered", 
+    "verb_category": "NULL"
+  },
+  "appear" : {
+    "verb_id": 675,
+    "verb_type": "irregular", 
+    "verb_base_form": "appear", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "appeared", 
+    "verb_past_tense": "appeared", 
+    "verb_category": "NULL"
+  },
+  "arrange" : {
+    "verb_id": 676,
+    "verb_type": "irregular", 
+    "verb_base_form": "arrange", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "arranged", 
+    "verb_past_tense": "arranged", 
+    "verb_category": "NULL"
+  },
+  "arrive" : {
+    "verb_id": 677,
+    "verb_type": "irregular", 
+    "verb_base_form": "arrive", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "arrived", 
+    "verb_past_tense": "arrived", 
+    "verb_category": "NULL"
+  },
+  "ask" : {
+    "verb_id": 678,
+    "verb_type": "irregular", 
+    "verb_base_form": "ask", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "asked", 
+    "verb_past_tense": "asked", 
+    "verb_category": "NULL"
+  },
+  "attack" : {
+    "verb_id": 679,
+    "verb_type": "irregular", 
+    "verb_base_form": "attack", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "attacked", 
+    "verb_past_tense": "attacked", 
+    "verb_category": "NULL"
+  },
+  "bake" : {
+    "verb_id": 680,
+    "verb_type": "irregular", 
+    "verb_base_form": "bake", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "baked", 
+    "verb_past_tense": "baked", 
+    "verb_category": "NULL"
+  },
+  "behave" : {
+    "verb_id": 681,
+    "verb_type": "irregular", 
+    "verb_base_form": "behave", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "behaved", 
+    "verb_past_tense": "behaved", 
+    "verb_category": "NULL"
+  },
+  "believe" : {
+    "verb_id": 682,
+    "verb_type": "irregular", 
+    "verb_base_form": "believe", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "believed", 
+    "verb_past_tense": "believed", 
+    "verb_category": "NULL"
+  },
+  "belong" : {
+    "verb_id": 683,
+    "verb_type": "irregular", 
+    "verb_base_form": "belong", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "belonged", 
+    "verb_past_tense": "belonged", 
+    "verb_category": "NULL"
+  },
+  "blame" : {
+    "verb_id": 684,
+    "verb_type": "irregular", 
+    "verb_base_form": "blame", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "blamed", 
+    "verb_past_tense": "blamed", 
+    "verb_category": "NULL"
+  },
+  "borrow" : {
+    "verb_id": 685,
+    "verb_type": "irregular", 
+    "verb_base_form": "borrow", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "borrowed", 
+    "verb_past_tense": "borrowed", 
+    "verb_category": "NULL"
+  },
+  "bother" : {
+    "verb_id": 686,
+    "verb_type": "irregular", 
+    "verb_base_form": "bother", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "bothered", 
+    "verb_past_tense": "bothered", 
+    "verb_category": "NULL"
+  },
+  "call" : {
+    "verb_id": 687,
+    "verb_type": "irregular", 
+    "verb_base_form": "call", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "called", 
+    "verb_past_tense": "called", 
+    "verb_category": "NULL"
+  },
+  "cancel" : {
+    "verb_id": 688,
+    "verb_type": "irregular", 
+    "verb_base_form": "cancel", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "canceled", 
+    "verb_past_tense": "canceled", 
+    "verb_category": "NULL"
+  },
+  "carry" : {
+    "verb_id": 689,
+    "verb_type": "irregular", 
+    "verb_base_form": "carry", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "carried", 
+    "verb_past_tense": "carried", 
+    "verb_category": "NULL"
+  },
+  "cause" : {
+    "verb_id": 690,
+    "verb_type": "irregular", 
+    "verb_base_form": "cause", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "caused", 
+    "verb_past_tense": "caused", 
+    "verb_category": "NULL"
+  },
+  "celebrate" : {
+    "verb_id": 691,
+    "verb_type": "irregular", 
+    "verb_base_form": "celebrate", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "celebrated", 
+    "verb_past_tense": "celebrated", 
+    "verb_category": "NULL"
+  },
+  "clean" : {
+    "verb_id": 692,
+    "verb_type": "irregular", 
+    "verb_base_form": "clean", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "cleaned", 
+    "verb_past_tense": "cleaned", 
+    "verb_category": "NULL"
+  },
+  "clear" : {
+    "verb_id": 693,
+    "verb_type": "irregular", 
+    "verb_base_form": "clear", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "cleared", 
+    "verb_past_tense": "cleared", 
+    "verb_category": "NULL"
+  },
+  "close" : {
+    "verb_id": 695,
+    "verb_type": "irregular", 
+    "verb_base_form": "close", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "closed", 
+    "verb_past_tense": "closed", 
+    "verb_category": "NULL"
+  },
+  "compare" : {
+    "verb_id": 696,
+    "verb_type": "irregular", 
+    "verb_base_form": "compare", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "compared", 
+    "verb_past_tense": "compared", 
+    "verb_category": "NULL"
+  },
+  "compete" : {
+    "verb_id": 697,
+    "verb_type": "irregular", 
+    "verb_base_form": "compete", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "competed", 
+    "verb_past_tense": "competed", 
+    "verb_category": "NULL"
+  },
+  "complete" : {
+    "verb_id": 698,
+    "verb_type": "irregular", 
+    "verb_base_form": "complete", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "completed", 
+    "verb_past_tense": "completed", 
+    "verb_category": "NULL"
+  },
+  "contain" : {
+    "verb_id": 699,
+    "verb_type": "irregular", 
+    "verb_base_form": "contain", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "contained", 
+    "verb_past_tense": "contained", 
+    "verb_category": "NULL"
+  },
+  "continue" : {
+    "verb_id": 700,
+    "verb_type": "irregular", 
+    "verb_base_form": "continue", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "continued", 
+    "verb_past_tense": "continued", 
+    "verb_category": "NULL"
+  },
+  "correct" : {
+    "verb_id": 702,
+    "verb_type": "irregular", 
+    "verb_base_form": "correct", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "corrected", 
+    "verb_past_tense": "corrected", 
+    "verb_category": "NULL"
+  },
+  "cough" : {
+    "verb_id": 703,
+    "verb_type": "irregular", 
+    "verb_base_form": "cough", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "coughed", 
+    "verb_past_tense": "coughed", 
+    "verb_category": "NULL"
+  },
+  "count" : {
+    "verb_id": 704,
+    "verb_type": "irregular", 
+    "verb_base_form": "count", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "counted", 
+    "verb_past_tense": "counted", 
+    "verb_category": "NULL"
+  },
+  "crash" : {
+    "verb_id": 705,
+    "verb_type": "irregular", 
+    "verb_base_form": "crash", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "crashed", 
+    "verb_past_tense": "crashed", 
+    "verb_category": "NULL"
+  },
+  "create" : {
+    "verb_id": 706,
+    "verb_type": "irregular", 
+    "verb_base_form": "create", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "created", 
+    "verb_past_tense": "created", 
+    "verb_category": "NULL"
+  },
+  "cross" : {
+    "verb_id": 707,
+    "verb_type": "irregular", 
+    "verb_base_form": "cross", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "crossed", 
+    "verb_past_tense": "crossed", 
+    "verb_category": "NULL"
+  },
+  "curse" : {
+    "verb_id": 708,
+    "verb_type": "irregular", 
+    "verb_base_form": "curse", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "cursed", 
+    "verb_past_tense": "cursed", 
+    "verb_category": "NULL"
+  },
+  "change" : {
+    "verb_id": 709,
+    "verb_type": "irregular", 
+    "verb_base_form": "change", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "changed", 
+    "verb_past_tense": "changed", 
+    "verb_category": "NULL"
+  },
+  "chase" : {
+    "verb_id": 710,
+    "verb_type": "irregular", 
+    "verb_base_form": "chase", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "chased", 
+    "verb_past_tense": "chased", 
+    "verb_category": "NULL"
+  },
+  "chat" : {
+    "verb_id": 711,
+    "verb_type": "irregular", 
+    "verb_base_form": "chat", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "chatted", 
+    "verb_past_tense": "chatted", 
+    "verb_category": "NULL"
+  },
+  "check" : {
+    "verb_id": 712,
+    "verb_type": "irregular", 
+    "verb_base_form": "check", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "checked", 
+    "verb_past_tense": "checked", 
+    "verb_category": "NULL"
+  },
+  "damage" : {
+    "verb_id": 713,
+    "verb_type": "irregular", 
+    "verb_base_form": "damage", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "damaged", 
+    "verb_past_tense": "damaged", 
+    "verb_category": "NULL"
+  },
+  "dance" : {
+    "verb_id": 714,
+    "verb_type": "irregular", 
+    "verb_base_form": "dance", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "danced", 
+    "verb_past_tense": "danced", 
+    "verb_category": "NULL"
+  },
+  "date" : {
+    "verb_id": 715,
+    "verb_type": "irregular", 
+    "verb_base_form": "date", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "dated", 
+    "verb_past_tense": "dated", 
+    "verb_category": "NULL"
+  },
+  "decide" : {
+    "verb_id": 716,
+    "verb_type": "irregular", 
+    "verb_base_form": "decide", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "decided", 
+    "verb_past_tense": "decided", 
+    "verb_category": "NULL"
+  },
+  "deliver" : {
+    "verb_id": 717,
+    "verb_type": "irregular", 
+    "verb_base_form": "deliver", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "delivered", 
+    "verb_past_tense": "delivered", 
+    "verb_category": "NULL"
+  },
+  "depend" : {
+    "verb_id": 718,
+    "verb_type": "irregular", 
+    "verb_base_form": "depend", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "depended", 
+    "verb_past_tense": "depended", 
+    "verb_category": "NULL"
+  },
+  "describe" : {
+    "verb_id": 719,
+    "verb_type": "irregular", 
+    "verb_base_form": "describe", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "described", 
+    "verb_past_tense": "described", 
+    "verb_category": "NULL"
+  },
+  "design" : {
+    "verb_id": 720,
+    "verb_type": "irregular", 
+    "verb_base_form": "design", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "designed", 
+    "verb_past_tense": "designed", 
+    "verb_category": "NULL"
+  },
+  "destroy" : {
+    "verb_id": 721,
+    "verb_type": "irregular", 
+    "verb_base_form": "destroy", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "destroyed", 
+    "verb_past_tense": "destroyed", 
+    "verb_category": "NULL"
+  },
+  "dicrease" : {
+    "verb_id": 722,
+    "verb_type": "irregular", 
+    "verb_base_form": "dicrease", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "dicreased", 
+    "verb_past_tense": "dicreased", 
+    "verb_category": "NULL"
+  },
+  "disagree" : {
+    "verb_id": 724,
+    "verb_type": "irregular", 
+    "verb_base_form": "disagree", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "disagreed", 
+    "verb_past_tense": "disagreed", 
+    "verb_category": "NULL"
+  },
+  "discover" : {
+    "verb_id": 725,
+    "verb_type": "irregular", 
+    "verb_base_form": "discover", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "discovered", 
+    "verb_past_tense": "discovered", 
+    "verb_category": "NULL"
+  },
+  "discuss" : {
+    "verb_id": 726,
+    "verb_type": "irregular", 
+    "verb_base_form": "discuss", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "discussed", 
+    "verb_past_tense": "discussed", 
+    "verb_category": "NULL"
+  },
+  "disturb" : {
+    "verb_id": 727,
+    "verb_type": "irregular", 
+    "verb_base_form": "disturb", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "disturbed", 
+    "verb_past_tense": "disturbed", 
+    "verb_category": "NULL"
+  },
+  "dress" : {
+    "verb_id": 728,
+    "verb_type": "irregular", 
+    "verb_base_form": "dress", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "dressed", 
+    "verb_past_tense": "dressed", 
+    "verb_category": "NULL"
+  },
+  "dry" : {
+    "verb_id": 729,
+    "verb_type": "irregular", 
+    "verb_base_form": "dry", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "dried", 
+    "verb_past_tense": "dried", 
+    "verb_category": "NULL"
+  },
+  "eliminate" : {
+    "verb_id": 730,
+    "verb_type": "irregular", 
+    "verb_base_form": "eliminate", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "eliminated", 
+    "verb_past_tense": "eliminated", 
+    "verb_category": "NULL"
+  },
+  "end" : {
+    "verb_id": 731,
+    "verb_type": "irregular", 
+    "verb_base_form": "end", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "ended", 
+    "verb_past_tense": "ended", 
+    "verb_category": "NULL"
+  },
+  "enjoy" : {
+    "verb_id": 732,
+    "verb_type": "irregular", 
+    "verb_base_form": "enjoy", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "enjoyed", 
+    "verb_past_tense": "enjoyed", 
+    "verb_category": "NULL"
+  },
+  "entertain" : {
+    "verb_id": 733,
+    "verb_type": "irregular", 
+    "verb_base_form": "entertain", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "entertained", 
+    "verb_past_tense": "entertained", 
+    "verb_category": "NULL"
+  },
+  "excuse" : {
+    "verb_id": 734,
+    "verb_type": "irregular", 
+    "verb_base_form": "excuse", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "excused", 
+    "verb_past_tense": "excused", 
+    "verb_category": "NULL"
+  },
+  "exercise" : {
+    "verb_id": 735,
+    "verb_type": "irregular", 
+    "verb_base_form": "exercise", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "exercised", 
+    "verb_past_tense": "exercised", 
+    "verb_category": "NULL"
+  },
+  "exhibit" : {
+    "verb_id": 736,
+    "verb_type": "irregular", 
+    "verb_base_form": "exhibit", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "exhibited", 
+    "verb_past_tense": "exhibited", 
+    "verb_category": "NULL"
+  },
+  "expect" : {
+    "verb_id": 737,
+    "verb_type": "irregular", 
+    "verb_base_form": "expect", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "expected", 
+    "verb_past_tense": "expected", 
+    "verb_category": "NULL"
+  },
+  "express" : {
+    "verb_id": 738,
+    "verb_type": "irregular", 
+    "verb_base_form": "express", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "expressed", 
+    "verb_past_tense": "expressed", 
+    "verb_category": "NULL"
+  },
+  "film" : {
+    "verb_id": 739,
+    "verb_type": "irregular", 
+    "verb_base_form": "film", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "filmed", 
+    "verb_past_tense": "filmed", 
+    "verb_category": "NULL"
+  },
+  "fill" : {
+    "verb_id": 740,
+    "verb_type": "irregular", 
+    "verb_base_form": "fill", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "filled", 
+    "verb_past_tense": "filled", 
+    "verb_category": "NULL"
+  },
+  "fish" : {
+    "verb_id": 741,
+    "verb_type": "irregular", 
+    "verb_base_form": "fish", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "fished", 
+    "verb_past_tense": "fished", 
+    "verb_category": "NULL"
+  },
+  "fix" : {
+    "verb_id": 742,
+    "verb_type": "irregular", 
+    "verb_base_form": "fix", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "fixed", 
+    "verb_past_tense": "fixed", 
+    "verb_category": "NULL"
+  },
+  "follow" : {
+    "verb_id": 743,
+    "verb_type": "irregular", 
+    "verb_base_form": "follow", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "followed", 
+    "verb_past_tense": "followed", 
+    "verb_category": "NULL"
+  },
+  "freeze" : {
+    "verb_id": 744,
+    "verb_type": "irregular", 
+    "verb_base_form": "freeze", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "freezed", 
+    "verb_past_tense": "freezed", 
+    "verb_category": "NULL"
+  },
+  "fry" : {
+    "verb_id": 745,
+    "verb_type": "irregular", 
+    "verb_base_form": "fry", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "fried", 
+    "verb_past_tense": "fried", 
+    "verb_category": "NULL"
+  },
+  "greet" : {
+    "verb_id": 746,
+    "verb_type": "irregular", 
+    "verb_base_form": "greet", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "greeted", 
+    "verb_past_tense": "greeted", 
+    "verb_category": "NULL"
+  },
+  "guess" : {
+    "verb_id": 747,
+    "verb_type": "irregular", 
+    "verb_base_form": "guess", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "guessed", 
+    "verb_past_tense": "guessed", 
+    "verb_category": "NULL"
+  },
+  "hail" : {
+    "verb_id": 748,
+    "verb_type": "irregular", 
+    "verb_base_form": "hail", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "hailed", 
+    "verb_past_tense": "hailed", 
+    "verb_category": "NULL"
+  },
+  "handle" : {
+    "verb_id": 749,
+    "verb_type": "irregular", 
+    "verb_base_form": "handle", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "handled", 
+    "verb_past_tense": "handled", 
+    "verb_category": "NULL"
+  },
+  "happen" : {
+    "verb_id": 750,
+    "verb_type": "irregular", 
+    "verb_base_form": "happen", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "happened", 
+    "verb_past_tense": "happened", 
+    "verb_category": "NULL"
+  },
+  "hate" : {
+    "verb_id": 751,
+    "verb_type": "irregular", 
+    "verb_base_form": "hate", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "hated", 
+    "verb_past_tense": "hated", 
+    "verb_category": "NULL"
+  },
+  "help" : {
+    "verb_id": 752,
+    "verb_type": "irregular", 
+    "verb_base_form": "help", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "helped", 
+    "verb_past_tense": "helped", 
+    "verb_category": "NULL"
+  },
+  "hope" : {
+    "verb_id": 753,
+    "verb_type": "irregular", 
+    "verb_base_form": "hope", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "hoped", 
+    "verb_past_tense": "hoped", 
+    "verb_category": "NULL"
+  },
+  "hunt" : {
+    "verb_id": 754,
+    "verb_type": "irregular", 
+    "verb_base_form": "hunt", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "hunted", 
+    "verb_past_tense": "hunted", 
+    "verb_category": "NULL"
+  },
+  "identify" : {
+    "verb_id": 755,
+    "verb_type": "irregular", 
+    "verb_base_form": "identify", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "identified", 
+    "verb_past_tense": "identified", 
+    "verb_category": "NULL"
+  },
+  "ignore" : {
+    "verb_id": 756,
+    "verb_type": "irregular", 
+    "verb_base_form": "ignore", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "ignored", 
+    "verb_past_tense": "ignored", 
+    "verb_category": "NULL"
+  },
+  "imagine" : {
+    "verb_id": 757,
+    "verb_type": "irregular", 
+    "verb_base_form": "imagine", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "imagined", 
+    "verb_past_tense": "imagined", 
+    "verb_category": "NULL"
+  },
+  "impress" : {
+    "verb_id": 758,
+    "verb_type": "irregular", 
+    "verb_base_form": "impress", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "impressed", 
+    "verb_past_tense": "impressed", 
+    "verb_category": "NULL"
+  },
+  "improve" : {
+    "verb_id": 759,
+    "verb_type": "irregular", 
+    "verb_base_form": "improve", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "improved", 
+    "verb_past_tense": "improved", 
+    "verb_category": "NULL"
+  },
+  "include" : {
+    "verb_id": 760,
+    "verb_type": "irregular", 
+    "verb_base_form": "include", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "included", 
+    "verb_past_tense": "included", 
+    "verb_category": "NULL"
+  },
+  "increase" : {
+    "verb_id": 761,
+    "verb_type": "irregular", 
+    "verb_base_form": "increase", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "increased", 
+    "verb_past_tense": "increased", 
+    "verb_category": "NULL"
+  },
+  "interview" : {
+    "verb_id": 762,
+    "verb_type": "irregular", 
+    "verb_base_form": "interview", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "interviewed", 
+    "verb_past_tense": "interviewed", 
+    "verb_category": "NULL"
+  },
+  "introduce" : {
+    "verb_id": 763,
+    "verb_type": "irregular", 
+    "verb_base_form": "introduce", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "introduced", 
+    "verb_past_tense": "introduced", 
+    "verb_category": "NULL"
+  },
+  "invite" : {
+    "verb_id": 764,
+    "verb_type": "irregular", 
+    "verb_base_form": "invite", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "invited", 
+    "verb_past_tense": "invited", 
+    "verb_category": "NULL"
+  },
+  "jog" : {
+    "verb_id": 765,
+    "verb_type": "irregular", 
+    "verb_base_form": "jog", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "jogged", 
+    "verb_past_tense": "jogged", 
+    "verb_category": "NULL"
+  },
+  "join" : {
+    "verb_id": 766,
+    "verb_type": "irregular", 
+    "verb_base_form": "join", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "joined", 
+    "verb_past_tense": "joined", 
+    "verb_category": "NULL"
+  },
+  "jump" : {
+    "verb_id": 767,
+    "verb_type": "irregular", 
+    "verb_base_form": "jump", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "jumped", 
+    "verb_past_tense": "jumped", 
+    "verb_category": "NULL"
+  },
+  "knock" : {
+    "verb_id": 768,
+    "verb_type": "irregular", 
+    "verb_base_form": "knock", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "knocked", 
+    "verb_past_tense": "knocked", 
+    "verb_category": "NULL"
+  },
+  "label" : {
+    "verb_id": 769,
+    "verb_type": "irregular", 
+    "verb_base_form": "label", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "labeled", 
+    "verb_past_tense": "labeled", 
+    "verb_category": "NULL"
+  },
+  "land" : {
+    "verb_id": 770,
+    "verb_type": "irregular", 
+    "verb_base_form": "land", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "landed", 
+    "verb_past_tense": "landed", 
+    "verb_category": "NULL"
+  },
+  "last" : {
+    "verb_id": 771,
+    "verb_type": "irregular", 
+    "verb_base_form": "last", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "lasted", 
+    "verb_past_tense": "lasted", 
+    "verb_category": "NULL"
+  },
+  "learn" : {
+    "verb_id": 772,
+    "verb_type": "irregular", 
+    "verb_base_form": "learn", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "learned", 
+    "verb_past_tense": "learned", 
+    "verb_category": "NULL"
+  },
+  "like" : {
+    "verb_id": 773,
+    "verb_type": "irregular", 
+    "verb_base_form": "like", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "liked", 
+    "verb_past_tense": "liked", 
+    "verb_category": "NULL"
+  },
+  "link" : {
+    "verb_id": 774,
+    "verb_type": "irregular", 
+    "verb_base_form": "link", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "linked", 
+    "verb_past_tense": "linked", 
+    "verb_category": "NULL"
+  },
+  "list" : {
+    "verb_id": 775,
+    "verb_type": "irregular", 
+    "verb_base_form": "list", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "listed", 
+    "verb_past_tense": "listed", 
+    "verb_category": "NULL"
+  },
+  "listen" : {
+    "verb_id": 776,
+    "verb_type": "irregular", 
+    "verb_base_form": "listen", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "listened", 
+    "verb_past_tense": "listened", 
+    "verb_category": "NULL"
+  },
+  "live" : {
+    "verb_id": 777,
+    "verb_type": "irregular", 
+    "verb_base_form": "live", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "lived", 
+    "verb_past_tense": "lived", 
+    "verb_category": "NULL"
+  },
+  "locate" : {
+    "verb_id": 778,
+    "verb_type": "irregular", 
+    "verb_base_form": "locate", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "located", 
+    "verb_past_tense": "located", 
+    "verb_category": "NULL"
+  },
+  "look" : {
+    "verb_id": 779,
+    "verb_type": "irregular", 
+    "verb_base_form": "look", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "looked", 
+    "verb_past_tense": "looked", 
+    "verb_category": "NULL"
+  },
+  "love" : {
+    "verb_id": 780,
+    "verb_type": "irregular", 
+    "verb_base_form": "love", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "loved", 
+    "verb_past_tense": "loved", 
+    "verb_category": "NULL"
+  },
+  "manage" : {
+    "verb_id": 781,
+    "verb_type": "irregular", 
+    "verb_base_form": "manage", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "managed", 
+    "verb_past_tense": "managed", 
+    "verb_category": "NULL"
+  },
+  "mark" : {
+    "verb_id": 782,
+    "verb_type": "irregular", 
+    "verb_base_form": "mark", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "marked", 
+    "verb_past_tense": "marked", 
+    "verb_category": "NULL"
+  },
+  "match" : {
+    "verb_id": 783,
+    "verb_type": "irregular", 
+    "verb_base_form": "match", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "matched", 
+    "verb_past_tense": "matched", 
+    "verb_category": "NULL"
+  },
+  "measure" : {
+    "verb_id": 784,
+    "verb_type": "irregular", 
+    "verb_base_form": "measure", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "measured", 
+    "verb_past_tense": "measured", 
+    "verb_category": "NULL"
+  },
+  "mention" : {
+    "verb_id": 785,
+    "verb_type": "irregular", 
+    "verb_base_form": "mention", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "mentioned", 
+    "verb_past_tense": "mentioned", 
+    "verb_category": "NULL"
+  },
+  "miss" : {
+    "verb_id": 786,
+    "verb_type": "irregular", 
+    "verb_base_form": "miss", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "missed", 
+    "verb_past_tense": "missed", 
+    "verb_category": "NULL"
+  },
+  "move" : {
+    "verb_id": 787,
+    "verb_type": "irregular", 
+    "verb_base_form": "move", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "moved", 
+    "verb_past_tense": "moved", 
+    "verb_category": "NULL"
+  },
+  "name" : {
+    "verb_id": 788,
+    "verb_type": "irregular", 
+    "verb_base_form": "name", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "named", 
+    "verb_past_tense": "named", 
+    "verb_category": "NULL"
+  },
+  "need" : {
+    "verb_id": 789,
+    "verb_type": "irregular", 
+    "verb_base_form": "need", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "needed", 
+    "verb_past_tense": "needed", 
+    "verb_category": "NULL"
+  },
+  "note" : {
+    "verb_id": 790,
+    "verb_type": "irregular", 
+    "verb_base_form": "note", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "noted", 
+    "verb_past_tense": "noted", 
+    "verb_category": "NULL"
+  },
+  "notice" : {
+    "verb_id": 791,
+    "verb_type": "irregular", 
+    "verb_base_form": "notice", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "noticed", 
+    "verb_past_tense": "noticed", 
+    "verb_category": "NULL"
+  },
+  "number" : {
+    "verb_id": 792,
+    "verb_type": "irregular", 
+    "verb_base_form": "number", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "numbered", 
+    "verb_past_tense": "numbered", 
+    "verb_category": "NULL"
+  },
+  "offer" : {
+    "verb_id": 793,
+    "verb_type": "irregular", 
+    "verb_base_form": "offer", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "offered", 
+    "verb_past_tense": "offered", 
+    "verb_category": "NULL"
+  },
+  "open" : {
+    "verb_id": 794,
+    "verb_type": "irregular", 
+    "verb_base_form": "open", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "opened", 
+    "verb_past_tense": "opened", 
+    "verb_category": "NULL"
+  },
+  "order" : {
+    "verb_id": 795,
+    "verb_type": "irregular", 
+    "verb_base_form": "order", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "ordered", 
+    "verb_past_tense": "ordered", 
+    "verb_category": "NULL"
+  },
+  "organize" : {
+    "verb_id": 796,
+    "verb_type": "irregular", 
+    "verb_base_form": "organize", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "organized", 
+    "verb_past_tense": "organized", 
+    "verb_category": "NULL"
+  },
+  "pack" : {
+    "verb_id": 797,
+    "verb_type": "irregular", 
+    "verb_base_form": "pack", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "packed", 
+    "verb_past_tense": "packed", 
+    "verb_category": "NULL"
+  },
+  "paint" : {
+    "verb_id": 798,
+    "verb_type": "irregular", 
+    "verb_base_form": "paint", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "painted", 
+    "verb_past_tense": "painted", 
+    "verb_category": "NULL"
+  },
+  "pamper" : {
+    "verb_id": 799,
+    "verb_type": "irregular", 
+    "verb_base_form": "pamper", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "pampered", 
+    "verb_past_tense": "pampered", 
+    "verb_category": "NULL"
+  },
+  "pardon" : {
+    "verb_id": 800,
+    "verb_type": "irregular", 
+    "verb_base_form": "pardon", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "pardoned", 
+    "verb_past_tense": "pardoned", 
+    "verb_category": "NULL"
+  },
+  "park" : {
+    "verb_id": 801,
+    "verb_type": "irregular", 
+    "verb_base_form": "park", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "parked", 
+    "verb_past_tense": "parked", 
+    "verb_category": "NULL"
+  },
+  "participate" : {
+    "verb_id": 802,
+    "verb_type": "irregular", 
+    "verb_base_form": "participate", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "participated", 
+    "verb_past_tense": "participated", 
+    "verb_category": "NULL"
+  },
+  "pass" : {
+    "verb_id": 803,
+    "verb_type": "irregular", 
+    "verb_base_form": "pass", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "passed", 
+    "verb_past_tense": "passed", 
+    "verb_category": "NULL"
+  },
+  "participate" : {
+    "verb_id": 802,
+    "verb_type": "irregular", 
+    "verb_base_form": "participate", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "participated", 
+    "verb_past_tense": "participated", 
+    "verb_category": "NULL"
+  },
+  "pass" : {
+    "verb_id": 803,
+    "verb_type": "irregular", 
+    "verb_base_form": "pass", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "passed", 
+    "verb_past_tense": "passed", 
+    "verb_category": "NULL"
+  },
+  "perform" : {
+    "verb_id": 804,
+    "verb_type": "irregular", 
+    "verb_base_form": "perform", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "performed", 
+    "verb_past_tense": "performed", 
+    "verb_category": "NULL"
+  },
+  "persuade" : {
+    "verb_id": 805,
+    "verb_type": "irregular", 
+    "verb_base_form": "persuade", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "persuaded", 
+    "verb_past_tense": "persuaded", 
+    "verb_category": "NULL"
+  },
+  "pick" : {
+    "verb_id": 806,
+    "verb_type": "irregular", 
+    "verb_base_form": "pick", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "picked", 
+    "verb_past_tense": "picked", 
+    "verb_category": "NULL"
+  },
+  "plan" : {
+    "verb_id": 807,
+    "verb_type": "irregular", 
+    "verb_base_form": "plan", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "planned", 
+    "verb_past_tense": "planned", 
+    "verb_category": "NULL"
+  },
+  "play" : {
+    "verb_id": 808,
+    "verb_type": "irregular", 
+    "verb_base_form": "play", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "played", 
+    "verb_past_tense": "played", 
+    "verb_category": "NULL"
+  },
+  "please" : {
+    "verb_id": 809,
+    "verb_type": "irregular", 
+    "verb_base_form": "please", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "pleased", 
+    "verb_past_tense": "pleased", 
+    "verb_category": "NULL"
+  },
+  "practice" : {
+    "verb_id": 810,
+    "verb_type": "irregular", 
+    "verb_base_form": "practice", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "practiced", 
+    "verb_past_tense": "practiced", 
+    "verb_category": "NULL"
+  },
+  "predict" : {
+    "verb_id": 811,
+    "verb_type": "irregular", 
+    "verb_base_form": "predict", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "predicted", 
+    "verb_past_tense": "predicted", 
+    "verb_category": "NULL"
+  },
+  "prefer" : {
+    "verb_id": 812,
+    "verb_type": "irregular", 
+    "verb_base_form": "prefer", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "preferred", 
+    "verb_past_tense": "preferred", 
+    "verb_category": "NULL"
+  },
+  "present" : {
+    "verb_id": 813,
+    "verb_type": "irregular", 
+    "verb_base_form": "present", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "presented", 
+    "verb_past_tense": "presented", 
+    "verb_category": "NULL"
+  },
+  "program" : {
+    "verb_id": 814,
+    "verb_type": "irregular", 
+    "verb_base_form": "program", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "programmed", 
+    "verb_past_tense": "programmed", 
+    "verb_category": "NULL"
+  },
+  "provide" : {
+    "verb_id": 816,
+    "verb_type": "irregular", 
+    "verb_base_form": "provide", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "provided", 
+    "verb_past_tense": "provided", 
+    "verb_category": "NULL"
+  },
+  "push" : {
+    "verb_id": 818,
+    "verb_type": "irregular", 
+    "verb_base_form": "push", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "pushed", 
+    "verb_past_tense": "pushed", 
+    "verb_category": "NULL"
+  },
+  "rain" : {
+    "verb_id": 819,
+    "verb_type": "irregular", 
+    "verb_base_form": "rain", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "rain", 
+    "verb_past_tense": "rain", 
+    "verb_category": "NULL"
+  },
+  "receive" : {
+    "verb_id": 820,
+    "verb_type": "irregular", 
+    "verb_base_form": "receive", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "received", 
+    "verb_past_tense": "received", 
+    "verb_category": "NULL"
+  },
+  "recommend" : {
+    "verb_id": 821,
+    "verb_type": "irregular", 
+    "verb_base_form": "recommend", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "recommended", 
+    "verb_past_tense": "recommended", 
+    "verb_category": "NULL"
+  },
+  "relate" : {
+    "verb_id": 822,
+    "verb_type": "irregular", 
+    "verb_base_form": "relate", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "related", 
+    "verb_past_tense": "related", 
+    "verb_category": "NULL"
+  },
+  "relax" : {
+    "verb_id": 823,
+    "verb_type": "irregular", 
+    "verb_base_form": "relax", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "relaxed", 
+    "verb_past_tense": "relaxed", 
+    "verb_category": "NULL"
+  },
+  "release" : {
+    "verb_id": 824,
+    "verb_type": "irregular", 
+    "verb_base_form": "release", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "released", 
+    "verb_past_tense": "released", 
+    "verb_category": "NULL"
+  },
+  "remember" : {
+    "verb_id": 825,
+    "verb_type": "irregular", 
+    "verb_base_form": "remember", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "remembered", 
+    "verb_past_tense": "remembered", 
+    "verb_category": "NULL"
+  },
+  "repair" : {
+    "verb_id": 826,
+    "verb_type": "irregular", 
+    "verb_base_form": "repair", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "repaired", 
+    "verb_past_tense": "repaired", 
+    "verb_category": "NULL"
+  },
+  "repeat" : {
+    "verb_id": 827,
+    "verb_type": "irregular", 
+    "verb_base_form": "repeat", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "repeated", 
+    "verb_past_tense": "repeated", 
+    "verb_category": "NULL"
+  },
+  "resist" : {
+    "verb_id": 828,
+    "verb_type": "irregular", 
+    "verb_base_form": "resist", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "resisted", 
+    "verb_past_tense": "resisted", 
+    "verb_category": "NULL"
+  },
+  "rest" : {
+    "verb_id": 829,
+    "verb_type": "irregular", 
+    "verb_base_form": "rest", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "rested", 
+    "verb_past_tense": "rested", 
+    "verb_category": "NULL"
+  },
+  "return" : {
+    "verb_id": 830,
+    "verb_type": "irregular", 
+    "verb_base_form": "return", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "returned", 
+    "verb_past_tense": "returned", 
+    "verb_category": "NULL"
+  },
+  "review" : {
+    "verb_id": 831,
+    "verb_type": "irregular", 
+    "verb_base_form": "review", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "reviewed", 
+    "verb_past_tense": "reviewed", 
+    "verb_category": "NULL"
+  },
+  "sail" : {
+    "verb_id": 832,
+    "verb_type": "irregular", 
+    "verb_base_form": "sail", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "sailed", 
+    "verb_past_tense": "sailed", 
+    "verb_category": "NULL"
+  },
+  "save" : {
+    "verb_id": 833,
+    "verb_type": "irregular", 
+    "verb_base_form": "save", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "saved", 
+    "verb_past_tense": "saved", 
+    "verb_category": "NULL"
+  },
+  "scan" : {
+    "verb_id": 834,
+    "verb_type": "irregular", 
+    "verb_base_form": "scan", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "scanned", 
+    "verb_past_tense": "scanned", 
+    "verb_category": "NULL"
+  },
+  "scare" : {
+    "verb_id": 835,
+    "verb_type": "irregular", 
+    "verb_base_form": "scare", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "scared", 
+    "verb_past_tense": "scared", 
+    "verb_category": "NULL"
+  },
+  "share" : {
+    "verb_id": 836,
+    "verb_type": "irregular", 
+    "verb_base_form": "share", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "shared", 
+    "verb_past_tense": "shared", 
+    "verb_category": "NULL"
+  },
+  "shop" : {
+    "verb_id": 837,
+    "verb_type": "irregular", 
+    "verb_base_form": "shop", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "shopped", 
+    "verb_past_tense": "shopped", 
+    "verb_category": "NULL"
+  },
+  "shout" : {
+    "verb_id": 838,
+    "verb_type": "irregular", 
+    "verb_base_form": "shout", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "shouted", 
+    "verb_past_tense": "shouted", 
+    "verb_category": "NULL"
+  },
+  "skate" : {
+    "verb_id": 839,
+    "verb_type": "irregular", 
+    "verb_base_form": "skate", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "skated", 
+    "verb_past_tense": "skated", 
+    "verb_category": "NULL"
+  },
+  "ski" : {
+    "verb_id": 840,
+    "verb_type": "irregular", 
+    "verb_base_form": "ski", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "skied", 
+    "verb_past_tense": "skied", 
+    "verb_category": "NULL"
+  },
+  "slow" : {
+    "verb_id": 841,
+    "verb_type": "irregular", 
+    "verb_base_form": "slow", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "slowed", 
+    "verb_past_tense": "slowed", 
+    "verb_category": "NULL"
+  },
+  "sneeze" : {
+    "verb_id": 842,
+    "verb_type": "irregular", 
+    "verb_base_form": "sneeze", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "sneezed", 
+    "verb_past_tense": "sneezed", 
+    "verb_category": "NULL"
+  },
+  "snow" : {
+    "verb_id": 843,
+    "verb_type": "irregular", 
+    "verb_base_form": "snow", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "snowed", 
+    "verb_past_tense": "snowed", 
+    "verb_category": "NULL"
+  },
+  "solve" : {
+    "verb_id": 844,
+    "verb_type": "irregular", 
+    "verb_base_form": "solve", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "solved", 
+    "verb_past_tense": "solved", 
+    "verb_category": "NULL"
+  },
+  "spell" : {
+    "verb_id": 845,
+    "verb_type": "irregular", 
+    "verb_base_form": "spell", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "spelled", 
+    "verb_past_tense": "spelled", 
+    "verb_category": "NULL"
+  },
+  "start" : {
+    "verb_id": 846,
+    "verb_type": "irregular", 
+    "verb_base_form": "start", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "started", 
+    "verb_past_tense": "started", 
+    "verb_category": "NULL"
+  },
+  "step" : {
+    "verb_id": 847,
+    "verb_type": "irregular", 
+    "verb_base_form": "step", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "stepped", 
+    "verb_past_tense": "stepped", 
+    "verb_category": "NULL"
+  },
+  "stop" : {
+    "verb_id": 848,
+    "verb_type": "irregular", 
+    "verb_base_form": "stop", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "stopped", 
+    "verb_past_tense": "stopped", 
+    "verb_category": "NULL"
+  },
+  "stress" : {
+    "verb_id": 849,
+    "verb_type": "irregular", 
+    "verb_base_form": "stress", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "stressed", 
+    "verb_past_tense": "stressed", 
+    "verb_category": "NULL"
+  },
+  "study" : {
+    "verb_id": 850,
+    "verb_type": "irregular", 
+    "verb_base_form": "study", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "studied", 
+    "verb_past_tense": "studied", 
+    "verb_category": "NULL"
+  },
+  "substitute" : {
+    "verb_id": 851,
+    "verb_type": "irregular", 
+    "verb_base_form": "substitute", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "substituted", 
+    "verb_past_tense": "substituted", 
+    "verb_category": "NULL"
+  },
+  "suggest" : {
+    "verb_id": 852,
+    "verb_type": "irregular", 
+    "verb_base_form": "suggest", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "suggested", 
+    "verb_past_tense": "suggested", 
+    "verb_category": "NULL"
+  },
+  "surprise" : {
+    "verb_id": 853,
+    "verb_type": "irregular", 
+    "verb_base_form": "surprise", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "surprised", 
+    "verb_past_tense": "surprised", 
+    "verb_category": "NULL"
+  },
+  "taste" : {
+    "verb_id": 855,
+    "verb_type": "irregular", 
+    "verb_base_form": "taste", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "tasted", 
+    "verb_past_tense": "tasted", 
+    "verb_category": "NULL"
+  },
+  "terrorize" : {
+    "verb_id": 856,
+    "verb_type": "irregular", 
+    "verb_base_form": "terrorize", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "terrorized", 
+    "verb_past_tense": "terrorized", 
+    "verb_category": "NULL"
+  },
+  "thank" : {
+    "verb_id": 857,
+    "verb_type": "irregular", 
+    "verb_base_form": "thank", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "thanked", 
+    "verb_past_tense": "thanked", 
+    "verb_category": "NULL"
+  },
+  "touch" : {
+    "verb_id": 858,
+    "verb_type": "irregular", 
+    "verb_base_form": "touch", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "touched", 
+    "verb_past_tense": "touched", 
+    "verb_category": "NULL"
+  },
+  "travel" : {
+    "verb_id": 859,
+    "verb_type": "irregular", 
+    "verb_base_form": "travel", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "traveled", 
+    "verb_past_tense": "traveled", 
+    "verb_category": "NULL"
+  },
+  "try" : {
+    "verb_id": 860,
+    "verb_type": "irregular", 
+    "verb_base_form": "try", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "tried", 
+    "verb_past_tense": "tried", 
+    "verb_category": "NULL"
+  },
+  "tune" : {
+    "verb_id": 855,
+    "verb_type": "irregular", 
+    "verb_base_form": "tune", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "tuned", 
+    "verb_past_tense": "tuned", 
+    "verb_category": "NULL"
+  },
+  "turn" : {
+    "verb_id": 856,
+    "verb_type": "irregular", 
+    "verb_base_form": "turn", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "turned", 
+    "verb_past_tense": "turned", 
+    "verb_category": "NULL"
+  },
+  "underline" : {
+    "verb_id": 863,
+    "verb_type": "irregular", 
+    "verb_base_form": "underline", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "underlined", 
+    "verb_past_tense": "underlined", 
+    "verb_category": "NULL"
+  },
+  "use" : {
+    "verb_id": 864,
+    "verb_type": "irregular", 
+    "verb_base_form": "use", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "used", 
+    "verb_past_tense": "used", 
+    "verb_category": "NULL"
+  },
+  "vary" : {
+    "verb_id": 865,
+    "verb_type": "irregular", 
+    "verb_base_form": "vary", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "varied", 
+    "verb_past_tense": "varied", 
+    "verb_category": "NULL"
+  },
+  "wait" : {
+    "verb_id": 866,
+    "verb_type": "irregular", 
+    "verb_base_form": "wait", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "waited", 
+    "verb_past_tense": "waited", 
+    "verb_category": "NULL"
+  },
+  "walk" : {
+    "verb_id": 867,
+    "verb_type": "irregular", 
+    "verb_base_form": "walk", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "walked", 
+    "verb_past_tense": "walked", 
+    "verb_category": "NULL"
+  },
+  "want" : {
+    "verb_id": 868,
+    "verb_type": "irregular", 
+    "verb_base_form": "want", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "wanted", 
+    "verb_past_tense": "wanted", 
+    "verb_category": "NULL"
+  },
+  "warn" : {
+    "verb_id": 869,
+    "verb_type": "irregular", 
+    "verb_base_form": "warn", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "warned", 
+    "verb_past_tense": "warned", 
+    "verb_category": "NULL"
+  },
+  "wash" : {
+    "verb_id": 870,
+    "verb_type": "irregular", 
+    "verb_base_form": "wash", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "washed", 
+    "verb_past_tense": "washed", 
+    "verb_category": "NULL"
+  },
+  "watch" : {
+    "verb_id": 871,
+    "verb_type": "irregular", 
+    "verb_base_form": "watch", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "watched", 
+    "verb_past_tense": "watched", 
+    "verb_category": "NULL"
+  },
+  "water" : {
+    "verb_id": 872,
+    "verb_type": "irregular", 
+    "verb_base_form": "water", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "watered", 
+    "verb_past_tense": "watered", 
+    "verb_category": "NULL"
+  },
+  "welcome" : {
+    "verb_id": 873,
+    "verb_type": "irregular", 
+    "verb_base_form": "welcome", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "welcomed", 
+    "verb_past_tense": "welcomed", 
+    "verb_category": "NULL"
+  },
+  "wish" : {
+    "verb_id": 874,
+    "verb_type": "irregular", 
+    "verb_base_form": "wish", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "wished", 
+    "verb_past_tense": "wished", 
+    "verb_category": "NULL"
+  },
+  "witness" : {
+    "verb_id": 875,
+    "verb_type": "irregular", 
+    "verb_base_form": "witness", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "witnessed", 
+    "verb_past_tense": "witnessed", 
+    "verb_category": "NULL"
+  },
+  "work" : {
+    "verb_id": 876,
+    "verb_type": "irregular", 
+    "verb_base_form": "work", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "worked", 
+    "verb_past_tense": "worked", 
+    "verb_category": "NULL"
+  },
+  "worry" : {
+    "verb_id": 877,
+    "verb_type": "irregular", 
+    "verb_base_form": "worry", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "worried", 
+    "verb_past_tense": "worried", 
+    "verb_category": "NULL"
+  },
+  "wrestle" : {
+    "verb_id": 878,
+    "verb_type": "irregular", 
+    "verb_base_form": "wrestle", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "wrestled", 
+    "verb_past_tense": "wrestled", 
+    "verb_category": "NULL"
+  },
+  "inform" : {
+    "verb_id": 879,
+    "verb_type": "irregular", 
+    "verb_base_form": "inform", 
+    "verb_present_participle": "NULL", 
+    "verb_past_participle": "informed", 
+    "verb_past_tense": "informed", 
+    "verb_category": "NULL"
+  }   
+}

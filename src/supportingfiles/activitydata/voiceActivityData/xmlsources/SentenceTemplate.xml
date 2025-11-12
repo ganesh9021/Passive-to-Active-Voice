@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<template>
+<sentence id="1" type = "simple">
+    <subject>
+    <article type="any">
+    </article>
+        <noun type = "person"/>
+    </subject>   
+    <predicate>
+        <verb category = "Transitive">
+            <infinitive type = "eat" tense = "present">
+                 <subverb type = "-"/>
+            </infinitive>infinitiveType
+        </verb>
+        <object>        
+        <article type="any">
+        </article>
+            <noun type = "eatable"/>
+        </object>
+    </predicate>
+</sentence>
+<!-- ******************************************* -->
+<sentence id="2" type = "simple">
+        
+    <subject>
+    <article type="any">
+        </article>
+        <noun type = "person"/>
+    </subject>   
+    <predicate>
+        <verb category = "Transitive">
+            <infinitive type = "buy" tense = "present">
+                 <subverb type = "-"/>
+            </infinitive>
+        </verb>
+        <object>        
+        <article type="article">
+        </article>
+            <noun type = "buyable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!-- ******************************************* -->
+ <sentence id="3" type = "simple">
+        
+    <subject>
+    <article type="any">
+    </article>
+        <noun type = "person"/>
+    </subject>   
+    <predicate>
+        <verb category = "Transitive">
+            <infinitive type = "bake" tense = "present">
+                 <subverb type = "-"/>
+            </infinitive>
+        </verb>
+        <object>
+        <article type="article">
+        </article>
+            <noun type = "bakeable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!-- ******************************************* -->
+<sentence id="4" type = "simple">
+
+    <subject>
+        <article type="any">
+        </article>
+        <noun type = "person"/>
+    </subject>   
+    <predicate>
+        <verb category = "Transitive">
+            <infinitive type = "play" tense = "present">
+                 <subverb type = "-"/>
+            </infinitive>
+        </verb>
+        <object>
+        <article type="any">
+        </article>
+            <noun type = "playable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!-- ******************************************* -->
+<sentence id="5" type = "simple">
+    <subject>
+    <article type="any">
+    </article>
+        <noun type = "person"/>
+    </subject>   
+    <predicate>
+        <verb category = "Transitive">
+            <infinitive type = "drink" tense = "present">
+                 <subverb type = "-"/>
+            </infinitive>
+        </verb>
+        <object>
+       	<article type="article">
+    	</article>
+            <noun type = "drinkable"/>
+        </object>
+    </predicate>
+</sentence>
+<!-- ******************************************* -->
+
+<sentence id="6" type = "simple">
+    <subject>
+    <article type="any">
+    </article>
+        <noun type = "person"/>
+    </subject>   
+    <predicate>
+        <verb category = "Transitive">
+            <infinitive type = "catch" tense = "present">
+                 <subverb type = "-"/>
+            </infinitive>
+        </verb>
+        <object>
+        <article type="article">
+    	</article>
+            <noun type = "catchable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!-- *******************************************-->
+<sentence id="7" type = "simple">
+    <subject>
+    <article type="any">
+    </article>
+        <noun type = "person"/>
+    </subject>   
+    <predicate>
+        <verb category = "Transitive">
+            <infinitive type = "clean" tense = "present">
+                 <subverb type = "-"/>
+            </infinitive>
+        </verb>
+        <object>
+        <article type="any">
+    	</article>
+            <noun type = "cleanable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!-- ******************************************* -->
+<sentence id="8" type = "simple">
+    <subject>
+    <article type="any">
+    </article>
+        <noun type = "person"/>
+    </subject>   
+    <predicate>
+        <verb category = "Transitive">
+            <infinitive type = "drive" tense = "present">
+                 <subverb type = "-"/>
+            </infinitive>
+        </verb>
+        <object>
+        <article type="any">
+    	</article>
+            <noun type = "driveable"/>
+        </object>
+    </predicate>
+</sentence>
+
+</template>

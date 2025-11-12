@@ -1,0 +1,38 @@
+[
+  {
+    "activity_id": 1,
+    "activity_name": "Picture Based Activity",
+    "activity_type": "picture_based_activity",
+    "activity_desc": "Picture based activity to learn preposition."
+  },
+  {
+    "activity_id": 2,
+    "activity_name": "Comprehension",
+    "activity_type": "comprehension",
+    "activity_desc": "Learning Comprehension Skills"
+  },
+  {
+    "activity_id": 3,
+    "activity_name": "Word Order",
+    "activity_type": "word_order",
+    "activity_desc": ""
+  },
+  {
+    "activity_id": 4,
+    "activity_name": "Drag and Drop",
+    "activity_type": "drag_drop",
+    "activity_desc": "Drag the words and Drop in the perticular boxes"
+  },
+  {
+    "activity_id": 5,
+    "activity_name": "Drop down selection",
+    "activity_type": "drop_down_selection",
+    "activity_desc": "Select correct option from the drop down list"
+  },
+  {
+    "activity_id": 6,
+    "activity_name": "Spot the Error",
+    "activity_type": "Correct the error",
+    "activity_desc": "Identify the error in the sentence"
+  }
+]

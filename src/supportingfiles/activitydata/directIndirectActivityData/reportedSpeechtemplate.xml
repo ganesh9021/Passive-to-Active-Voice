@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<template>
+	<sentence id="1" type="any">
+		<reporting_speech>
+			<subject type="he" person="third" />
+			<verb type="say" category="irregular" tense="past" />
+			<object type="NULL" />
+		</reporting_speech>
+		<reported_speech tense="any">
+			<subject category="person" />
+			<verb category="regular" type="play" />
+			<preposition type="-" />
+			<object category="playable" />
+			<adverb type="any" />
+		</reported_speech>
+	</sentence>
+
+	<!--place -->
+	<sentence id="2" type="any">
+		<reporting_speech>
+			<subject type="she" person="third" />
+			<verb type="say" category="irregular" tense="past" />
+			<object type="NULL" />
+		</reporting_speech>
+		<reported_speech tense="any">
+			<subject category="person" />
+			<verb category="irregular" type="go" />
+			<preposition type="to" />
+			<object category="place" />
+			<adverb type=" any" />
+		</reported_speech>
+	</sentence>
+	<!--buyable -->
+	<sentence id="3" type="any">
+		<reporting_speech>
+			<subject type="they" person="third" />
+			<verb type="say" category="irregular" tense="past" />
+			<object type="NULL" />
+		</reporting_speech>
+		<reported_speech tense="any">
+			<subject category="person" />
+			<verb category="irregular" type="buy" />
+			<preposition type="" />
+			<object category="buyable" />
+			<adverb type="any" />
+		</reported_speech>
+	</sentence>
+	<!--listenable -->
+	<sentence id="4" type="any">
+		<reporting_speech>
+			<subject type="he" person="third" />
+			<verb type="say" category="irregular" tense="past" />
+			<object type="NULL" />
+		</reporting_speech>
+		<reported_speech tense="any">
+			<subject category="person" />
+			<verb category="regular" type="listen" />
+			<preposition type="to" />
+			<object category="listenable" />
+			<adverb type="any" />
+		</reported_speech>
+	</sentence>
+	<!--writeable -->
+	<sentence id="5" type="any">
+		<reporting_speech>
+			<subject type="he" person="third" />
+			<verb type="say" category="irregular" tense="past" />
+			<object type="NULL" />
+		</reporting_speech>
+		<reported_speech tense="any">
+			<subject category="person" />
+			<verb category="irregular" type="write" />
+			<preposition type="" />
+			<object category="writable" />
+			<adverb type="any" />
+		</reported_speech>
+	</sentence>
+	<!--readable -->
+	<sentence id="6" type="any">
+		<reporting_speech>
+			<subject type="she" person="third" />
+			<verb type="say" category="irregular" tense="past" />
+			<object type="NULL" />
+		</reporting_speech>
+		<reported_speech tense="any">
+			<subject category="person" />
+			<verb category="irregular" type="read" />
+			<preposition type="-" />
+			<object category="readable" />
+			<adverb type="any" />
+		</reported_speech>
+	</sentence>
+	<!--playable -->
+	<sentence id="7" type="any">
+		<reporting_speech>
+			<subject type="she" person="third" />
+			<verb type="say" category="irregular" tense="past" />
+			<object type="me" />
+		</reporting_speech>
+		<reported_speech tense="any">
+			<subject category="person" />
+			<verb category="irregular" type="eat" />
+			<preposition type="-" />
+			<object category="fruit" />
+			<adverb type="any" />
+		</reported_speech>
+	</sentence>
+
+	<!--drivable -->
+	<sentence id="8" type="any">
+		<reporting_speech>
+			<subject type="he" person="third" />
+			<verb type="say" category="irregular" tense="past" />
+			<object type="me" />
+		</reporting_speech>
+		<reported_speech tense="any">
+			<subject category="person" />
+			<verb category="irregular" type="drive" />
+			<preposition type="-" />
+			<object category="drivable" />
+			<adverb type="any" />
+		</reported_speech>
+	</sentence>
+	<!--purchasable -->
+	<sentence id="9" type="any">
+		<reporting_speech>
+			<subject type="she" person="third" />
+			<verb type="say" category="irregular" tense="past" />
+			<object type="NULL" />
+		</reporting_speech>
+		<reported_speech tense="any">
+			<subject category="person" />
+			<verb category="regular" type="purchase" />
+			<preposition type="" />
+			<object category="purchasable" />
+			<adverb type="any" />
+		</reported_speech>
+	</sentence>
+	<!--paintable -->
+	<sentence id="10" type="any">
+		<reporting_speech>
+			<subject type="she" person="third" />
+			<verb type="say" category="irregular" tense="past" />
+			<object type="NULL" />
+		</reporting_speech>
+		<reported_speech tense="any">
+			<subject category="person" />
+			<verb category="regular" type="paint" />
+			<preposition type="" />
+			<object category="paintable" />
+			<adverb type="any" />
+		</reported_speech>
+	</sentence>
+	<!--receiveable -->
+	<sentence id="11" type="any">
+		<reporting_speech>
+			<subject type="he" person="third" />
+			<verb type="say" category="irregular" tense="past" />
+			<object type="me" />
+		</reporting_speech>
+		<reported_speech tense="any">
+			<subject category="person" />
+			<verb category="regular" type="receive" />
+			<preposition type="-" />
+			<object category="receivable" />
+			<adverb type="any" />
+		</reported_speech>
+	</sentence>
+	<!--borrowable -->
+	<sentence id="12" type="any">
+		<reporting_speech>
+			<subject type="she" person="third" />
+			<verb type="say" category="irregular" tense="past" />
+			<object type="NULL" />
+		</reporting_speech>
+		<reported_speech tense="any">
+			<subject category="person" />
+			<verb category="regular" type="borrow" />
+			<preposition type="-" />
+			<object category="borrowable" />
+			<adverb type="any" />
+		</reported_speech>
+	</sentence>
+	<!--baked_item -->
+	<sentence id="13" type="any">
+		<reporting_speech>
+			<subject type="he" person="third" />
+			<verb type="say" category="irregular" tense="past" />
+			<object type="NULL" />
+		</reporting_speech>
+		<reported_speech tense="any">
+			<subject category="person" />
+			<verb category="regular" type="bake" />
+			<preposition type="-" />
+			<object category="baked_item" />
+			<adverb type="any" />
+		</reported_speech>
+	</sentence>
+	<!--language -->
+	<sentence id="14" type="any">
+		<reporting_speech>
+			<subject type="he" person="third" />
+			<verb type="say" category="irregular" tense="past" />
+			<object type="me" />
+		</reporting_speech>
+		<reported_speech tense="any">
+			<subject category="person" />
+			<verb category="irregular" type="speak" />
+			<preposition type="-" />
+			<object category="language" />
+			<adverb type="any" />
+		</reported_speech>
+	</sentence>
+	<!--learnable -->
+	<sentence id="15" type="any">
+		<reporting_speech>
+			<subject type="she" person="third" />
+			<verb type="say" category="irregular" tense="past" />
+			<object type="NULL" />
+		</reporting_speech>
+		<reported_speech tense="any">
+			<subject category="person" />
+			<verb category="regular" type="learn" />
+			<preposition type="" />
+			<object category="learnable" />
+			<adverb type="any" />
+		</reported_speech>
+	</sentence>
+	<!--climbable -->
+	<sentence id="16" type="any">
+		<reporting_speech>
+			<subject type="she" person="third" />
+			<verb type="say" category="irregular" tense="past" />
+			<object type="NULL" />
+		</reporting_speech>
+		<reported_speech tense="any">
+			<subject category="person" />
+			<verb category="regular" type="climb" />
+			<preposition type="" />
+			<object category="climbable" />
+			<adverb type="any" />
+		</reported_speech>
+	</sentence>
+	<!--cleanable -->
+	<sentence id="17" type="any">
+		<reporting_speech>
+			<subject type="she" person="third" />
+			<verb type="say" category="irregular" tense="past" />
+			<object type="NULL" />
+		</reporting_speech>
+		<reported_speech tense="any">
+			<subject category="person" />
+			<verb category="regular" type="clean" />
+			<preposition type="" />
+			<object category="cleanable" />
+			<adverb type="any" />
+		</reported_speech>
+	</sentence>
+	<!--person -->
+	<sentence id="18" type="any">
+		<reporting_speech>
+			<subject type="she" person="third" />
+			<verb type="say" category="irregular" tense="past" />
+			<object type="NULL" />
+		</reporting_speech>
+		<reported_speech tense="any">
+			<subject category="person" />
+			<verb category="regular" type="talk" />
+			<preposition type="to" />
+			<object category="person" />
+			<adverb type="any" />
+		</reported_speech>
+	</sentence>
+</template>

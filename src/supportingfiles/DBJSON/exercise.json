@@ -1,0 +1,68 @@
+[
+  {
+    "activity_id": 1,
+    "activity_name": "Convert Passive Voice to Active Voice",
+    "activity_type": "Select the desired tense.\\nThe sentence displayed is in Passive voice.\\nNow",
+    "activity_desc": "rearrange the given words below to construct the corresponding Active voice of the given sentence.\\nClick on Hints to view  hints.\\nClick on Submit to check whether the Active voice is properly constructed.\\nClick on Next to view the next sentence."
+  },
+  {
+    "activity_id": 3,
+    "activity_name": "Convert Active Voice to Passive Voice",
+    "activity_type": "Select the desired tense.\\nThe sentence displayed is in Active voice.\\nNow",
+    "activity_desc": "rearrange the given words below to construct the corresponding Passive voice of the given sentence.\\nClick on Hints to view  hints.\\nClick on Submit to check whether the Passive voice is properly constructed.\\nClick on Next to view the next sentence."
+  },
+  {
+    "activity_id": 4,
+    "activity_name": "Tense Conversion",
+    "activity_type": "Select the desired tense.\\nAccording to the selected tense",
+    "activity_desc": "the sentence will be displayed below.\\nNow select the tense to which the sentence needs to be converted.\\nDrag and Drop the appropriate form of the verb to complete this sentence.\\nClick on Hint for view hints.\\nClick on Submit to check whether selected form of the verb is correct.\\nClick on Next to view the next sentence."
+  },
+  {
+    "activity_id": 8,
+    "activity_name": "An Exemplary Boss",
+    "activity_type": "NULL",
+    "activity_desc": "story_sentence_ordering"
+  },
+  {
+    "activity_id": 17,
+    "activity_name": "Ball in the living room",
+    "activity_type": "According to the question",
+    "activity_desc": "drag and place the Ball at the appropriate position in the given picture of the living room."
+  },
+  {
+    "activity_id": 18,
+    "activity_name": "Lionel",
+    "activity_type": "",
+    "activity_desc": "story_sentence_ordering"
+  },
+  {
+    "activity_id": 20,
+    "activity_name": "The Frog and the Nightingale.",
+    "activity_type": "NULL",
+    "activity_desc": "story_sentence_ordering"
+  },
+  {
+    "activity_id": 21,
+    "activity_name": "Direct to Indirect Speech Conversion",
+    "activity_type": "1)Punctuate given direct speech sentence.\\n2) Convert the punctuated sentence into its appropriate indirect speech form.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 22,
+    "activity_name": "Transformation_of_Sentences",
+    "activity_type": "You Have to select the two sentence types. One to convert and another to be converted into.\\r\\nRead the sentence of the selected type and rearrange the given words to construct correct Sentence.\\r\\nClick on Hint for help.Click on Submit to check whether submitted answer is correctly constructed.\\r\\nClick on Next to view next sentence.",
+    "activity_desc": "drag and drop"
+  },
+  {
+    "activity_id": 24,
+    "activity_name": "The midnight visitor.",
+    "activity_type": "NULL",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 25,
+    "activity_name": "Adventure Sports",
+    "activity_type": "NULL",
+    "activity_desc": "NULL"
+  }
+]

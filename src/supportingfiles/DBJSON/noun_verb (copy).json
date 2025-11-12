@@ -1,0 +1,502 @@
+[
+  {
+    "Noun_verb_id": 1,
+    "Noun_verb_nounid": 4,
+    "Noun_verb_verbid": 5
+  },
+  {
+    "Noun_verb_id": 2,
+    "Noun_verb_nounid": 5,
+    "Noun_verb_verbid": 431
+  },
+  {
+    "Noun_verb_id": 3,
+    "Noun_verb_nounid": 2,
+    "Noun_verb_verbid": 5
+  },
+  {
+    "Noun_verb_id": 4,
+    "Noun_verb_nounid": 6,
+    "Noun_verb_verbid": 1
+  },
+  {
+    "Noun_verb_id": 5,
+    "Noun_verb_nounid": 18,
+    "Noun_verb_verbid": 680
+  },
+  {
+    "Noun_verb_id": 6,
+    "Noun_verb_nounid": 19,
+    "Noun_verb_verbid": 680
+  },
+  {
+    "Noun_verb_id": 7,
+    "Noun_verb_nounid": 20,
+    "Noun_verb_verbid": 4
+  },
+  {
+    "Noun_verb_id": 8,
+    "Noun_verb_nounid": 21,
+    "Noun_verb_verbid": 4
+  },
+  {
+    "Noun_verb_id": 9,
+    "Noun_verb_nounid": 22,
+    "Noun_verb_verbid": 4
+  },
+  {
+    "Noun_verb_id": 10,
+    "Noun_verb_nounid": 40,
+    "Noun_verb_verbid": 4
+  },
+  {
+    "Noun_verb_id": 11,
+    "Noun_verb_nounid": 36,
+    "Noun_verb_verbid": 3
+  },
+  {
+    "Noun_verb_id": 12,
+    "Noun_verb_nounid": 37,
+    "Noun_verb_verbid": 3
+  },
+  {
+    "Noun_verb_id": 13,
+    "Noun_verb_nounid": 38,
+    "Noun_verb_verbid": 3
+  },
+  {
+    "Noun_verb_id": 14,
+    "Noun_verb_nounid": 34,
+    "Noun_verb_verbid": 692
+  },
+  {
+    "Noun_verb_id": 15,
+    "Noun_verb_nounid": 35,
+    "Noun_verb_verbid": 692
+  },
+  {
+    "Noun_verb_id": 16,
+    "Noun_verb_nounid": 25,
+    "Noun_verb_verbid": 808
+  },
+  {
+    "Noun_verb_id": 17,
+    "Noun_verb_nounid": 26,
+    "Noun_verb_verbid": 808
+  },
+  {
+    "Noun_verb_id": 18,
+    "Noun_verb_nounid": 27,
+    "Noun_verb_verbid": 808
+  },
+  {
+    "Noun_verb_id": 19,
+    "Noun_verb_nounid": 28,
+    "Noun_verb_verbid": 808
+  },
+  {
+    "Noun_verb_id": 20,
+    "Noun_verb_nounid": 29,
+    "Noun_verb_verbid": 808
+  },
+  {
+    "Noun_verb_id": 21,
+    "Noun_verb_nounid": 30,
+    "Noun_verb_verbid": 808
+  },
+  {
+    "Noun_verb_id": 22,
+    "Noun_verb_nounid": 31,
+    "Noun_verb_verbid": 808
+  },
+  {
+    "Noun_verb_id": 23,
+    "Noun_verb_nounid": 8,
+    "Noun_verb_verbid": 431
+  },
+  {
+    "Noun_verb_id": 24,
+    "Noun_verb_nounid": 18,
+    "Noun_verb_verbid": 431
+  },
+  {
+    "Noun_verb_id": 29,
+    "Noun_verb_nounid": 27,
+    "Noun_verb_verbid": 808
+  },
+  {
+    "Noun_verb_id": 34,
+    "Noun_verb_nounid": 132,
+    "Noun_verb_verbid": 2
+  },
+  {
+    "Noun_verb_id": 35,
+    "Noun_verb_nounid": 134,
+    "Noun_verb_verbid": 4
+  },
+  {
+    "Noun_verb_id": 36,
+    "Noun_verb_nounid": 19,
+    "Noun_verb_verbid": 5
+  },
+  {
+    "Noun_verb_id": 37,
+    "Noun_verb_nounid": 23,
+    "Noun_verb_verbid": 5
+  },
+  {
+    "Noun_verb_id": 38,
+    "Noun_verb_nounid": 24,
+    "Noun_verb_verbid": 5
+  },
+  {
+    "Noun_verb_id": 39,
+    "Noun_verb_nounid": 13,
+    "Noun_verb_verbid": 6
+  },
+  {
+    "Noun_verb_id": 40,
+    "Noun_verb_nounid": 54,
+    "Noun_verb_verbid": 6
+  },
+  {
+    "Noun_verb_id": 41,
+    "Noun_verb_nounid": 55,
+    "Noun_verb_verbid": 6
+  },
+  {
+    "Noun_verb_id": 42,
+    "Noun_verb_nounid": 56,
+    "Noun_verb_verbid": 6
+  },
+  {
+    "Noun_verb_id": 43,
+    "Noun_verb_nounid": 57,
+    "Noun_verb_verbid": 6
+  },
+  {
+    "Noun_verb_id": 44,
+    "Noun_verb_nounid": 58,
+    "Noun_verb_verbid": 6
+  },
+  {
+    "Noun_verb_id": 45,
+    "Noun_verb_nounid": 126,
+    "Noun_verb_verbid": 6
+  },
+  {
+    "Noun_verb_id": 46,
+    "Noun_verb_nounid": 109,
+    "Noun_verb_verbid": 7
+  },
+  {
+    "Noun_verb_id": 47,
+    "Noun_verb_nounid": 113,
+    "Noun_verb_verbid": 7
+  },
+  {
+    "Noun_verb_id": 48,
+    "Noun_verb_nounid": 114,
+    "Noun_verb_verbid": 7
+  },
+  {
+    "Noun_verb_id": 49,
+    "Noun_verb_nounid": 119,
+    "Noun_verb_verbid": 7
+  },
+  {
+    "Noun_verb_id": 50,
+    "Noun_verb_nounid": 4,
+    "Noun_verb_verbid": 8
+  },
+  {
+    "Noun_verb_id": 51,
+    "Noun_verb_nounid": 132,
+    "Noun_verb_verbid": 8
+  },
+  {
+    "Noun_verb_id": 52,
+    "Noun_verb_nounid": 131,
+    "Noun_verb_verbid": 8
+  },
+  {
+    "Noun_verb_id": 53,
+    "Noun_verb_nounid": 106,
+    "Noun_verb_verbid": 8
+  },
+  {
+    "Noun_verb_id": 54,
+    "Noun_verb_nounid": 106,
+    "Noun_verb_verbid": 8
+  },
+  {
+    "Noun_verb_id": 55,
+    "Noun_verb_nounid": 120,
+    "Noun_verb_verbid": 8
+  },
+  {
+    "Noun_verb_id": 56,
+    "Noun_verb_nounid": 104,
+    "Noun_verb_verbid": 10
+  },
+  {
+    "Noun_verb_id": 57,
+    "Noun_verb_nounid": 106,
+    "Noun_verb_verbid": 10
+  },
+  {
+    "Noun_verb_id": 58,
+    "Noun_verb_nounid": 106,
+    "Noun_verb_verbid": 10
+  },
+  {
+    "Noun_verb_id": 59,
+    "Noun_verb_nounid": 6,
+    "Noun_verb_verbid": 10
+  },
+  {
+    "Noun_verb_id": 60,
+    "Noun_verb_nounid": 11,
+    "Noun_verb_verbid": 10
+  },
+  {
+    "Noun_verb_id": 61,
+    "Noun_verb_nounid": 13,
+    "Noun_verb_verbid": 10
+  },
+  {
+    "Noun_verb_id": 62,
+    "Noun_verb_nounid": 5,
+    "Noun_verb_verbid": 11
+  },
+  {
+    "Noun_verb_id": 63,
+    "Noun_verb_nounid": 6,
+    "Noun_verb_verbid": 11
+  },
+  {
+    "Noun_verb_id": 64,
+    "Noun_verb_nounid": 7,
+    "Noun_verb_verbid": 11
+  },
+  {
+    "Noun_verb_id": 65,
+    "Noun_verb_nounid": 8,
+    "Noun_verb_verbid": 11
+  },
+  {
+    "Noun_verb_id": 66,
+    "Noun_verb_nounid": 9,
+    "Noun_verb_verbid": 11
+  },
+  {
+    "Noun_verb_id": 67,
+    "Noun_verb_nounid": 16,
+    "Noun_verb_verbid": 11
+  },
+  {
+    "Noun_verb_id": 68,
+    "Noun_verb_nounid": 131,
+    "Noun_verb_verbid": 11
+  },
+  {
+    "Noun_verb_id": 69,
+    "Noun_verb_nounid": 164,
+    "Noun_verb_verbid": 12
+  },
+  {
+    "Noun_verb_id": 70,
+    "Noun_verb_nounid": 132,
+    "Noun_verb_verbid": 13
+  },
+  {
+    "Noun_verb_id": 71,
+    "Noun_verb_nounid": 118,
+    "Noun_verb_verbid": 14
+  },
+  {
+    "Noun_verb_id": 72,
+    "Noun_verb_nounid": 114,
+    "Noun_verb_verbid": 14
+  },
+  {
+    "Noun_verb_id": 73,
+    "Noun_verb_nounid": 113,
+    "Noun_verb_verbid": 14
+  },
+  {
+    "Noun_verb_id": 74,
+    "Noun_verb_nounid": 112,
+    "Noun_verb_verbid": 14
+  },
+  {
+    "Noun_verb_id": 75,
+    "Noun_verb_nounid": 132,
+    "Noun_verb_verbid": 15
+  },
+  {
+    "Noun_verb_id": 76,
+    "Noun_verb_nounid": 155,
+    "Noun_verb_verbid": 15
+  },
+  {
+    "Noun_verb_id": 77,
+    "Noun_verb_nounid": 154,
+    "Noun_verb_verbid": 15
+  },
+  {
+    "Noun_verb_id": 78,
+    "Noun_verb_nounid": 158,
+    "Noun_verb_verbid": 16
+  },
+  {
+    "Noun_verb_id": 79,
+    "Noun_verb_nounid": 159,
+    "Noun_verb_verbid": 16
+  },
+  {
+    "Noun_verb_id": 80,
+    "Noun_verb_nounid": 120,
+    "Noun_verb_verbid": 16
+  },
+  {
+    "Noun_verb_id": 81,
+    "Noun_verb_nounid": 122,
+    "Noun_verb_verbid": 16
+  },
+  {
+    "Noun_verb_id": 82,
+    "Noun_verb_nounid": 32,
+    "Noun_verb_verbid": 17
+  },
+  {
+    "Noun_verb_id": 83,
+    "Noun_verb_nounid": 33,
+    "Noun_verb_verbid": 17
+  },
+  {
+    "Noun_verb_id": 84,
+    "Noun_verb_nounid": 98,
+    "Noun_verb_verbid": 17
+  },
+  {
+    "Noun_verb_id": 85,
+    "Noun_verb_nounid": 131,
+    "Noun_verb_verbid": 18
+  },
+  {
+    "Noun_verb_id": 86,
+    "Noun_verb_nounid": 13,
+    "Noun_verb_verbid": 20
+  },
+  {
+    "Noun_verb_id": 87,
+    "Noun_verb_nounid": 113,
+    "Noun_verb_verbid": 20
+  },
+  {
+    "Noun_verb_id": 88,
+    "Noun_verb_nounid": 2,
+    "Noun_verb_verbid": 21
+  },
+  {
+    "Noun_verb_id": 89,
+    "Noun_verb_nounid": 4,
+    "Noun_verb_verbid": 21
+  },
+  {
+    "Noun_verb_id": 90,
+    "Noun_verb_nounid": 5,
+    "Noun_verb_verbid": 21
+  },
+  {
+    "Noun_verb_id": 91,
+    "Noun_verb_nounid": 6,
+    "Noun_verb_verbid": 21
+  },
+  {
+    "Noun_verb_id": 92,
+    "Noun_verb_nounid": 7,
+    "Noun_verb_verbid": 21
+  },
+  {
+    "Noun_verb_id": 93,
+    "Noun_verb_nounid": 8,
+    "Noun_verb_verbid": 21
+  },
+  {
+    "Noun_verb_id": 94,
+    "Noun_verb_nounid": 9,
+    "Noun_verb_verbid": 21
+  },
+  {
+    "Noun_verb_id": 95,
+    "Noun_verb_nounid": 16,
+    "Noun_verb_verbid": 21
+  },
+  {
+    "Noun_verb_id": 96,
+    "Noun_verb_nounid": 119,
+    "Noun_verb_verbid": 24
+  },
+  {
+    "Noun_verb_id": 97,
+    "Noun_verb_nounid": 117,
+    "Noun_verb_verbid": 24
+  },
+  {
+    "Noun_verb_id": 98,
+    "Noun_verb_nounid": 113,
+    "Noun_verb_verbid": 24
+  },
+  {
+    "Noun_verb_id": 99,
+    "Noun_verb_nounid": 114,
+    "Noun_verb_verbid": 24
+  },
+  {
+    "Noun_verb_id": 100,
+    "Noun_verb_nounid": 109,
+    "Noun_verb_verbid": 24
+  },
+  {
+    "Noun_verb_id": 101,
+    "Noun_verb_nounid": 70,
+    "Noun_verb_verbid": 16
+  },
+  {
+    "Noun_verb_id": 102,
+    "Noun_verb_nounid": 71,
+    "Noun_verb_verbid": 16
+  },
+  {
+    "Noun_verb_id": 103,
+    "Noun_verb_nounid": 82,
+    "Noun_verb_verbid": 23
+  },
+  {
+    "Noun_verb_id": 104,
+    "Noun_verb_nounid": 83,
+    "Noun_verb_verbid": 23
+  },
+  {
+    "Noun_verb_id": 105,
+    "Noun_verb_nounid": 84,
+    "Noun_verb_verbid": 23
+  },
+  {
+    "Noun_verb_id": 106,
+    "Noun_verb_nounid": 85,
+    "Noun_verb_verbid": 23
+  },
+  {
+    "Noun_verb_id": 107,
+    "Noun_verb_nounid": 86,
+    "Noun_verb_verbid": 23
+  },
+  {
+    "Noun_verb_id": 108,
+    "Noun_verb_nounid": 87,
+    "Noun_verb_verbid": 23
+  }
+]

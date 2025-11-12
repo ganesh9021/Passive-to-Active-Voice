@@ -1,0 +1,146 @@
+[
+  {
+    "activity_id": 10,
+    "activity_name": "gullible",
+    "activity_type": "Easily tricked",
+    "activity_desc": "41"
+  },
+  {
+    "activity_id": 11,
+    "activity_name": "innocent",
+    "activity_type": "Without experience or malicious intent",
+    "activity_desc": "41"
+  },
+  {
+    "activity_id": 12,
+    "activity_name": "naive",
+    "activity_type": "Lacking sophistication/simple",
+    "activity_desc": "41"
+  },
+  {
+    "activity_id": 13,
+    "activity_name": "humble",
+    "activity_type": "Conscious of ones failings",
+    "activity_desc": "41"
+  },
+  {
+    "activity_id": 14,
+    "activity_name": "creative",
+    "activity_type": "Imagninative or inventive",
+    "activity_desc": "41"
+  },
+  {
+    "activity_id": 15,
+    "activity_name": "melodious",
+    "activity_type": "pleasing to the ear",
+    "activity_desc": "41"
+  },
+  {
+    "activity_id": 16,
+    "activity_name": "fawning",
+    "activity_type": "to show flattery",
+    "activity_desc": "41"
+  },
+  {
+    "activity_id": 17,
+    "activity_name": "timid",
+    "activity_type": "shy/not bold",
+    "activity_desc": "41"
+  },
+  {
+    "activity_id": 18,
+    "activity_name": "stupid",
+    "activity_type": "lacking intelligence",
+    "activity_desc": "41"
+  },
+  {
+    "activity_id": 19,
+    "activity_name": "deduce",
+    "activity_type": "to infer by logical reasoning.",
+    "activity_desc": "46"
+  },
+  {
+    "activity_id": 20,
+    "activity_name": "detective",
+    "activity_type": "a person who investigates crime and gathers information.",
+    "activity_desc": "46"
+  },
+  {
+    "activity_id": 21,
+    "activity_name": "spy",
+    "activity_type": "(military) a secret agent hired by a state to obtain information about its enemies or by a business to obtain industrial secrets from competitors.",
+    "activity_desc": "46"
+  },
+  {
+    "activity_id": 22,
+    "activity_name": "mystery",
+    "activity_type": "something that is secret and unknown.",
+    "activity_desc": "46"
+  },
+  {
+    "activity_id": 23,
+    "activity_name": "victim",
+    "activity_type": "someone who is harmed or suffers some loss.",
+    "activity_desc": "46"
+  },
+  {
+    "activity_id": 24,
+    "activity_name": "clue",
+    "activity_type": "a fact or object that helps to solve mysteries.",
+    "activity_desc": "46"
+  },
+  {
+    "activity_id": 25,
+    "activity_name": "witness",
+    "activity_type": "someone who saw or can give a firsthand account of something.",
+    "activity_desc": "46"
+  },
+  {
+    "activity_id": 26,
+    "activity_name": "motive",
+    "activity_type": "an inner drive that causes a person to do something or act in a certain way.",
+    "activity_desc": "46"
+  },
+  {
+    "activity_id": 27,
+    "activity_name": "evidence",
+    "activity_type": "something",
+    "activity_desc": "such as a witness statement or object that is used as proof in a crime."
+  },
+  {
+    "activity_id": 28,
+    "activity_name": "suspect",
+    "activity_type": "a person who is suspected of a crime.",
+    "activity_desc": "46"
+  },
+  {
+    "activity_id": 29,
+    "activity_name": "espionage",
+    "activity_type": "the systematic use of spies to get military or political secrets.",
+    "activity_desc": "46"
+  },
+  {
+    "activity_id": 30,
+    "activity_name": "alibi",
+    "activity_type": "an excuse that an accused person uses to show that he/she was somewhere else than at the scene of the crime.",
+    "activity_desc": "46"
+  },
+  {
+    "activity_id": 31,
+    "activity_name": "sleuth",
+    "activity_type": "another name of a detective.",
+    "activity_desc": "46"
+  },
+  {
+    "activity_id": 32,
+    "activity_name": "crime",
+    "activity_type": "an act commited in violation of law.",
+    "activity_desc": "46"
+  },
+  {
+    "activity_id": 33,
+    "activity_name": "hunch",
+    "activity_type": "a guess or feeling not based on known facts.",
+    "activity_desc": "46"
+  }
+]

@@ -1,0 +1,458 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "participants": ["Customer at shop", "Man at shop"],
+      "conv": [
+        {
+          "user": 1,
+          "said": "The bread I bought yesterday had too much baking powder in it."
+        },
+        {
+          "user": 2,
+          "said": "That, sir, is because we only serve the people who wish to rise and shine."
+        }
+      ],
+      "indirect": "A customer walked into a shop and {0} {1} the bread he {2} {3} had too much baking powder in it. The man at the shop {4} him {5} {6} because {7} only served {8} people who {9} to rise and shine.",
+      "distract": [
+        {
+          "d": ["requested", "complained"],
+          "h": "Given sentence complain about something",
+          "f": "Here reporting verb is 'complained'"
+        },
+        {
+          "d": ["if", "that"],
+          "h": "Reported speech sentence is declarative sentence",
+          "f": "'that' acts as a connector between reported speech and reporting speech for declarative sentence."
+        },
+        {
+          "d": ["bought", "have bought", "had bought"],
+          "h": "Sentence in 'Simple Past Tense'in direct speech changes to ' Past Perfect Tense 'in indirect speech.",
+          "f": "Use Past form of 'to Have' form and Past form main verb."
+        },
+        {
+          "d": ["yesterday", "the previous day", "the day before"],
+          "h": "Words expressing nearness in time are  changed into words expressing distance in time",
+          "f": "Here 'yesterday' changes to 'the previous day'"
+        },
+        {
+          "d": ["asked", "told"],
+          "h": "Given sentence ask someone to do something",
+          "f": "Here reporting verb is 'told'."
+        },
+        {
+          "d": ["if", "that"],
+          "h": "Reported speech sentence is declarative sentence",
+          "f": "'that' acts as a connector between reported speech and reporting speech for declarative sentence."
+        },
+        {
+          "d": ["is", "were", "was"],
+          "h": "Sentence in 'Simple Present Tense'in direct speech changes to 'Simple Past Tense'in indirect speech.",
+          "f": "Use Past form  of Helping verb"
+        },
+        {
+          "d": ["we", "they", "us"],
+          "h": "Second person of the reported speech changes according to the object of reporting speech.",
+          "f": "Here 'we' changes to 'they'."
+        },
+        {
+          "d": ["the", "that", "those"],
+          "h": "Words expressing nearness in time are changed into words expressing distance in time",
+          "f": "Here 'those', is used."
+        },
+        {
+          "d": ["wishes", "wished", "wish"],
+          "h": "Sentence in 'Simple Present Tense'in direct speech changes to 'Simple Past Tense 'in indirect speech.",
+          "f": "Use Past form of the main verb"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "participants": ["the traveller", "peasant"],
+      "conv": [
+        { "user": 1, "said": "Can you tell me the way to the nearest inn?" },
+        {
+          "user": 2,
+          "said": "Yes, do you want one in which you can spend the night?"
+        },
+        { "user": 1, "said": "No,I only want a meal." }
+      ],
+      "indirect": "The traveller {0} the peasant {1} he {2} tell {3} the way to the nearest inn. The peasant {4} {5} he {6} , and {7} {8} the traveller {9} one in which he {10} spend the night. The traveller {11} that {12} {13} wish to stay there, but only wanted a meal.",
+      "distract": [
+        {
+          "d": ["said", "asked"],
+          "h": "Given sentence ask someone to do something",
+          "f": "Here reporting verb is 'asked'."
+        },
+        {
+          "d": ["that", "if"],
+          "h": "Reported speech sentence is interrogative sentences starting with “Auxiliary verb” Question",
+          "f": "'if' acts as a connector between reported speech and reporting speech for interrogative sentence."
+        },
+        {
+          "d": ["can", "could", "could be"],
+          "h": "Sentence in 'Simple Present Tense' indirect speech changes to 'Simple Past Tense' in indirect speech.",
+          "f": "Use past form of the helping verb."
+        },
+        {
+          "d": ["me", "him"],
+          "h": "First person of the reported speech changes according to the subject of reporting speech.",
+          "f": "Here 'me' changes to 'him'"
+        },
+        {
+          "d": ["said", "replied"],
+          "h": "Given sentence gives reply to asked question.",
+          "f": "Here reporting verb is 'replied'."
+        },
+        {
+          "d": ["if", "that"],
+          "h": "Reported speech sentence is declarative sentence",
+          "f": "'that' acts as a connector between reported speech and reporting speech for declarative sentence."
+        },
+        {
+          "d": ["can", "could", "could be"],
+          "h": "Sentence in'Simple Present Tense' indirect speech changes to 'Simple Past Tense'in indirect speech.",
+          "f": "Use past form of the helping verb."
+        },
+        {
+          "d": ["said", "asked"],
+          "h": "Given sentence ask someone to do something",
+          "f": "Here reporting verb is 'asked'."
+        },
+        {
+          "d": ["that", "if", "whether"],
+          "h": "Reported speech sentence is interrogative sentences starting with “Auxiliary verb” Question",
+          "f": "'whether' acts as a connector between reported speech and reporting speech for interrogative sentence."
+        },
+        {
+          "d": ["want", "wanted", "wants"],
+          "h": "Sentence in 'Simple Present Tense' indirect speech changes to 'Simple Past Tense'in indirect speech.",
+          "f": "Use past form of verb."
+        },
+        {
+          "d": ["can", "could", "could be"],
+          "h": "Sentence in'Simple Present Tense'indirect speech changes to 'Simple Past Tense' in indirect speech.",
+          "f": "Use past form of the helping verb."
+        },
+        {
+          "d": ["asked", "answered"],
+          "h": "Given sentence answers to asked question.",
+          "f": "Here reporting verb is 'answered'."
+        },
+        {
+          "d": ["I", "me", "he"],
+          "h": "First person of the reported speech changes according to the subject of reporting speech.",
+          "f": "Here 'I' changes to'he'"
+        },
+        {
+          "d": ["don't", "did not"],
+          "h": "Use 'to do' as an auxiliary verb to create negative sentence since the answer given is in negative",
+          "f": "Use Past form of 'do not'."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "participants": ["Antony", "Peter"],
+      "conv": [
+        { "user": 1, "said": "Where are you going?" },
+        { "user": 2, "said": "To the market, ..." },
+        { "user": 1, "said": " May I join you?" },
+        { "user": 2, "said": "It will be a pleasure." }
+      ],
+      "indirect": " Antony {0} Peter {1} he {2} . Peter {3} {4} he {5} to the market. Antony {6} {7} he {8} join {9} . Peter {10}  that it {11} be pleasure.",
+      "distract": [
+        {
+          "d": ["asked", "said"],
+          "h": "Given sentence ask someone to do something",
+          "f": "Here reporting verb is 'asked'."
+        },
+        {
+          "d": ["where", "whether"],
+          "h": "Reported speech sentence is interrogative sentences starting with \"Wh\" Question",
+          "f": "'Wh-Question'word acts as a connector between reported speech and reporting speech for interrogative sentence."
+        },
+        {
+          "d": ["are going", "was going", "were going"],
+          "h": "Sentence in'Present Continuous Tense' indirect speech changes to 'Past Continuous Tense' in indirect speech.",
+          "f": "Use past form of verb."
+        },
+        {
+          "d": ["told", "replied"],
+          "h": "Given sentence gives reply to asked question.",
+          "f": "Here reporting verb is 'asked'."
+        },
+        {
+          "d": ["whether", "that", "if"],
+          "h": "Reported speech sentence is declarative sentence",
+          "f": "'that' acts as a connector between reported speech and reporting speech for declarative sentence."
+        },
+        {
+          "d": ["are going", "was going", "were going"],
+          "h": "Sentence is in 'Present Continuous Tense' indirect speech changes to 'Past Continuous Tense' in indirect speech.",
+          "f": "Use past form of verb."
+        },
+        {
+          "d": ["asked", "replied"],
+          "h": "Given sentence ask someone to do something",
+          "f": "Here reporting verb is 'asked'."
+        },
+        {
+          "d": ["that", "if", "whether"],
+          "h": "Reported speech sentence is interrogative sentences starting with “Auxiliary verb” Question",
+          "f": "'if' acts as a connector between reported speech and reporting speech for interrogative sentence."
+        },
+        {
+          "d": ["can", "could"],
+          "h": "Sentence in 'Simple Present Tense' indirect speech changes to 'Simple Past Tense' in indirect speech.",
+          "f": "Use past form of verb."
+        },
+        {
+          "d": ["you", "him"],
+          "h": "Second person of the reported speech changes according to the object of reporting speech",
+          "f": "Here 'you' changes to 'him'."
+        },
+        {
+          "d": ["said", "asked"],
+          "h": "Given sentence ask someone to do something",
+          "f": "Here reporting verb is 'asked'."
+        },
+        {
+          "d": ["will", "would"],
+          "h": "Sentence in 'Simple Present Tense' indirect speech changes to 'Simple Past Tense'in indirect speech.",
+          "f": "Use past form of verb."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "participants": ["Father", "Son"],
+      "conv": [
+        { "user": 1, "said": "Is tomorrow a holiday?" },
+        { "user": 2, "said": "Yes, it is Sunday and so it is a holiday." }
+      ],
+      "indirect": "Father {0} son {1} {2} {3} a holiday. Son {4} in the positive and added {5} being Sunday it {6} a holiday.",
+      "distract": [
+        {
+          "d": ["asked", "said"],
+          "h": "Given sentence ask someone to do something",
+          "f": "Here reporting verb is 'asked'."
+        },
+        {
+          "d": ["that", "if"],
+          "h": "Reported speech sentence is interrogative sentences starting with auxiliary verb",
+          "f": "'if' acts as a connector between reported speech and reporting speech for interrogative sentence."
+        },
+        {
+          "d": ["tomorrow", "the next day"],
+          "h": "Words expressing nearness in time are  changed into words expressing distance in time.",
+          "f": "Here 'tomorrow' changes to 'the next day'."
+        },
+        {
+          "d": ["is", "was", "were"],
+          "h": "Sentence in'Simple Present Tense'in direct speech changes to'Simple Past Tense'in indirect speech.",
+          "f": "Use past form of the helping verb."
+        },
+        {
+          "d": ["said", "replied"],
+          "h": "Given sentence gives reply to asked question.",
+          "f": "Here reporting verb is 'replied'."
+        },
+        {
+          "d": ["if", "that"],
+          "h": "Reported speech sentence is declarative sentence",
+          "f": "'that'acts as a connector between reported speech and reporting speech for declarative sentence."
+        },
+        {
+          "d": ["is", "were", "was"],
+          "h": "Sentence in 'Simple Present Tense' indirect speech changes to 'Simple Past Tense' in indirect speech.",
+          "f": "Use past form of the helping verb."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "participants": ["Allen", "Ben"],
+      "conv": [
+        {
+          "user": 1,
+          "said": "Why don't you get up? We can go for a long walk "
+        },
+        { "user": 2, "said": "If you like, you can go." },
+        { "user": 1, "said": "Why? Are you not well?" }
+      ],
+      "indirect": "Allen {0} to Ben to get up and {1} {2} {3} for a long walk. Ben {4} him curtly {5} if {6} {7} , he {8} go. Allen {9} whether he {10} not well.",
+      "distract": [
+        {
+          "d": ["said", "suggested"],
+          "h": "Given sentence  suggest to do something.",
+          "f": "Here reporting verb is 'suggested'."
+        },
+        {
+          "d": ["we", "they"],
+          "h": "Second person of reported speech changes according to the object of reporting speech.",
+          "f": "Here 'we' changes to 'they'."
+        },
+        {
+          "d": ["can", "could"],
+          "h": "Sentence in 'Simple Present Tense' indirect speech changes to 'Simple Past Tense' in indirect speech.",
+          "f": "Use past form of the helping verb."
+        },
+        {
+          "d": ["went", "go", "gone"],
+          "h": "Sentence in'Simple Present Tense'in direct speech remains unchanged if the reporting verb is in present tense.",
+          "f": "Use Present form of the verb."
+        },
+        {
+          "d": ["asked", "told"],
+          "h": "Given sentence is of the pattern 'verb+to+object'",
+          "f": "Here reporting verb is 'told'."
+        },
+        {
+          "d": ["if", "that"],
+          "h": "Reported speech sentence is declarative sentence",
+          "f": "'that' acts as a connector between reported speech and reporting speech for declarative sentence."
+        },
+        {
+          "d": ["you", "he"],
+          "h": "Second person of reported speech changes according to the object of reporting speech",
+          "f": "Here 'you' changes to 'he'."
+        },
+        {
+          "d": ["likes", "like", "liked"],
+          "h": "Sentence in 'Simple Present Tense' in direct speech changes to 'Simple Past Tense' in indirect speech.",
+          "f": "Use past form of the main verb."
+        },
+        {
+          "d": ["could", "can"],
+          "h": "Sentence in'Simple Present Tense' in direct speech changes to 'Simple Past Tense' in indirect speech.",
+          "f": "Use past form of the helping verb."
+        },
+        {
+          "d": ["said", "enquired"],
+          "h": "Given sentence  enquires about something.",
+          "f": "Here reporting verb is 'enquired'."
+        },
+        {
+          "d": ["is", "was", "were"],
+          "h": "Sentence in'Simple Present Tense'in direct speech changes to'Simple Past Tense'in indirect speech.",
+          "f": "Use past form of the helping verb."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "participants": ["Veena", "Venu"],
+      "conv": [
+        {
+          "user": 1,
+          "said": "I need to complete the assignment and submit it tomorrow."
+        },
+        { "user": 2, "said": "I already completed it last week." },
+        { "user": 1, "said": "I was not in the city over the weekend." },
+        { "user": 2, "said": "I guess you need to stay up late." },
+        {
+          "user": 1,
+          "said": "Yes, I have to stay up late and complete the assignment."
+        }
+      ],
+      "indirect": "Veena {0} that {1} needed to complete the assignment and submit it the {2} . Venu {3} that he had already completed it the {4} . Veena {5} that she was not in the city over the weekend. Venu {6} that he guessed that she would have to stay up late {7} day. Veena {8} that she {9} to stay up late and complete the assignment.",
+      "distract": [
+        { "d": ["commented", "said", "asked"], "h": "---", "f": "---" },
+        { "d": ["Veena", "she", "her"], "h": "---", "f": "---" },
+        { "d": ["that", "this day", "next"], "h": "---", "f": "---" },
+        { "d": ["exclaimed", "said", "questioned"], "h": "---", "f": "---" },
+        {
+          "d": ["before week", "week ago", "previous week", "week before"],
+          "h": "---",
+          "f": "---"
+        },
+        {
+          "d": ["advised", "requested", "suggested", "said"],
+          "h": "---",
+          "f": "---"
+        },
+        { "d": ["said", "agreed", "answered"], "h": "---", "f": "---" },
+        {
+          "d": ["this", "that", "the previous", "the following"],
+          "h": "---",
+          "f": "---"
+        },
+        { "d": ["answered", "agreed", "commented"], "h": "---", "f": "---" },
+        { "d": ["had", "have", "has"], "h": "---", "f": "---" }
+      ]
+    },
+    {
+      "id": 6,
+      "participants": ["Judge", "Prisoner"],
+      "conv": [
+        { "user": 1, "said": "What are you charged with?" },
+        { "user": 2, "said": "Sir, for doing my Diwali shopping early." },
+        {
+          "user": 1,
+          "said": "But that's not an offense! And how early were you exactly doing it?"
+        },
+        {
+          "user": 2,
+          "said": "Well Sir! To avoid the rush, I thought it would be better if I completed it before the store opened."
+        }
+      ],
+      "indirect": "The judge being in a good mood before the Diwali festivals {0} the prisoner what {1} was charged with. The prisoner, sensing his good mood, politely {2} that he was doing his Diwali shopping early. The surprised judge {3} that it wasn't an offence. He further {4} how early {5} been exactly doing it. Humbly the prisoner {6} that to avoid the rush, he had thought it would be better if he had completed it before the store had opened.",
+      "distract": [
+        { "d": ["said", "told", "asked", "warned"], "h": "---", "f": "---" },
+        { "d": ["the prisoner", "he", "him"], "h": "---", "f": "---" },
+        { "d": ["told", "explained", "replied"], "h": "---", "f": "---" },
+        { "d": ["suggested", "declared", "advised"], "h": "---", "f": "---" },
+        { "d": ["inquired", "argue", "questioned"], "h": "---", "f": "---" },
+        { "d": ["had he", "have you", "has he"], "h": "---", "f": "---" },
+        { "d": ["described", "revealed", "replied"], "h": "---", "f": "---" }
+      ]
+    },
+    {
+      "id": 7,
+      "participants": ["Patient", "Receptionist"],
+      "conv": [
+        {
+          "user": 1,
+          "said": "Can I have an appointment with the doctor this evening?"
+        },
+        {
+          "user": 2,
+          "said": "I'm sorry. I can't fit you in for at least two weeks."
+        },
+        { "user": 1, "said": "But I could be dead by then." },
+        {
+          "user": 2,
+          "said": "No problem. If your wife informs me I will cancel the appointment."
+        }
+      ],
+      "indirect": "A patient went to his doctor’s clinic and {0} the receptionist for an appointment with the doctor that {1} . The receptionist apologized {2} that she couldn’t fit him in for at least two weeks. The disappointed patient {3} that he could be dead by then. The receptionist calmly {4} that  it won’t be a problem and {5} him that if his wife {6} her, she would cancel the appointment.",
+      "distract": [
+        { "d": ["questioned", "requested", "asked"], "h": "---", "f": "---" },
+        {
+          "d": ["the evening", "this evening", "evening"],
+          "h": "---",
+          "f": "---"
+        },
+        {
+          "d": ["suggesting", "advising", "saying", "insisting"],
+          "h": "---",
+          "f": "---"
+        },
+        {
+          "d": ["argued", "said", "exclaimed", "begged"],
+          "h": "---",
+          "f": "---"
+        },
+        {
+          "d": ["explained", "decided", "promised", "replied"],
+          "h": "---",
+          "f": "---"
+        },
+        { "d": ["reassured", "promised", "requested"], "h": "---", "f": "---" },
+        { "d": ["requested", "claimed", "informed"], "h": "---", "f": "---" }
+      ]
+    }
+  ]
+}

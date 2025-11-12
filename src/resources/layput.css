@@ -1,0 +1,13 @@
+.buttondiv {
+	display: flex;
+	padding-top: 10px;
+}
+
+.textchange {
+	display: flex;
+}
+
+section {
+  display: inline-block;
+  width: 30%;
+}

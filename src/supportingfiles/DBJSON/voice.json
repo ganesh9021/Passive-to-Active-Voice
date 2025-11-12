@@ -1,0 +1,14 @@
+[
+  {
+    "activity_id": 1,
+    "activity_name": "Active voice",
+    "activity_type": "The voice used to indicate that the grammatical subject of the verb is performing the action or causing the happening denoted by the verb.",
+    "activity_desc": "The boy threw the ball."
+  },
+  {
+    "activity_id": 2,
+    "activity_name": "Passive voice",
+    "activity_type": "The voice used to indicate that the grammatical subject of the verb is the recipient (not the source) of the action denoted by the verb.",
+    "activity_desc": "The ball was thrown by the boy."
+  }
+]

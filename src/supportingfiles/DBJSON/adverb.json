@@ -1,0 +1,1562 @@
+[
+  {
+    "activity_id": 1,
+    "activity_name": "now",
+    "activity_type": "then",
+    "activity_desc": "present"
+  },
+  {
+    "activity_id": 2,
+    "activity_name": "today",
+    "activity_type": "that day",
+    "activity_desc": "present"
+  },
+  {
+    "activity_id": 3,
+    "activity_name": "yesterday",
+    "activity_type": "the day before",
+    "activity_desc": "past"
+  },
+  {
+    "activity_id": 4,
+    "activity_name": "this morning",
+    "activity_type": "that morning",
+    "activity_desc": "present"
+  },
+  {
+    "activity_id": 5,
+    "activity_name": "here",
+    "activity_type": "there",
+    "activity_desc": "place"
+  },
+  {
+    "activity_id": 6,
+    "activity_name": "tomorrow",
+    "activity_type": "the next day",
+    "activity_desc": "future"
+  },
+  {
+    "activity_id": 7,
+    "activity_name": "next week",
+    "activity_type": "the following week",
+    "activity_desc": "future"
+  },
+  {
+    "activity_id": 8,
+    "activity_name": "the next month",
+    "activity_type": "the following month",
+    "activity_desc": "future"
+  },
+  {
+    "activity_id": 9,
+    "activity_name": "ago",
+    "activity_type": "before",
+    "activity_desc": "past"
+  },
+  {
+    "activity_id": 10,
+    "activity_name": "thus",
+    "activity_type": "so",
+    "activity_desc": "reason"
+  },
+  {
+    "activity_id": 11,
+    "activity_name": "last night",
+    "activity_type": "the night before",
+    "activity_desc": "past"
+  },
+  {
+    "activity_id": 12,
+    "activity_name": "this",
+    "activity_type": "that",
+    "activity_desc": "place"
+  },
+  {
+    "activity_id": 13,
+    "activity_name": "these",
+    "activity_type": "those",
+    "activity_desc": "place"
+  },
+  {
+    "activity_id": 14,
+    "activity_name": "hither",
+    "activity_type": "thither",
+    "activity_desc": "place"
+  },
+  {
+    "activity_id": 15,
+    "activity_name": "hence",
+    "activity_type": "thence",
+    "activity_desc": "reason"
+  },
+  {
+    "activity_id": 16,
+    "activity_name": "come",
+    "activity_type": "go",
+    "activity_desc": "action"
+  },
+  {
+    "activity_id": 17,
+    "activity_name": "last week",
+    "activity_type": "the week before",
+    "activity_desc": "past"
+  },
+  {
+    "activity_id": 18,
+    "activity_name": "almost",
+    "activity_type": "almost",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 19,
+    "activity_name": "absolutely",
+    "activity_type": "absolutely",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 20,
+    "activity_name": "awfully",
+    "activity_type": "awfully",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 21,
+    "activity_name": "badly",
+    "activity_type": "badly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 22,
+    "activity_name": "barely",
+    "activity_type": "barely",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 23,
+    "activity_name": "completely",
+    "activity_type": "completely",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 24,
+    "activity_name": "decidedly",
+    "activity_type": "decidedly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 25,
+    "activity_name": "deeply",
+    "activity_type": "deeply",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 26,
+    "activity_name": "enough",
+    "activity_type": "enough",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 27,
+    "activity_name": "enormously",
+    "activity_type": "enormously",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 28,
+    "activity_name": "entirely",
+    "activity_type": "entirely",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 29,
+    "activity_name": "extremely",
+    "activity_type": "extremely",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 30,
+    "activity_name": "fairly",
+    "activity_type": "fairly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 31,
+    "activity_name": "far",
+    "activity_type": "far",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 32,
+    "activity_name": "fully",
+    "activity_type": "fully",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 33,
+    "activity_name": "greatly",
+    "activity_type": "greatly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 34,
+    "activity_name": "hardly",
+    "activity_type": "hardly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 35,
+    "activity_name": "highly",
+    "activity_type": "highly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 36,
+    "activity_name": "how",
+    "activity_type": "how",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 37,
+    "activity_name": "incredibly",
+    "activity_type": "incredibly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 38,
+    "activity_name": "indeed",
+    "activity_type": "indeed",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 39,
+    "activity_name": "intensely",
+    "activity_type": "intensely",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 40,
+    "activity_name": "just",
+    "activity_type": "just",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 41,
+    "activity_name": "least",
+    "activity_type": "least",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 42,
+    "activity_name": "less",
+    "activity_type": "less",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 43,
+    "activity_name": "little",
+    "activity_type": "little",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 44,
+    "activity_name": "lots",
+    "activity_type": "lots",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 45,
+    "activity_name": "most",
+    "activity_type": "most",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 46,
+    "activity_name": "much",
+    "activity_type": "much",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 47,
+    "activity_name": "nearly",
+    "activity_type": "nearly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 48,
+    "activity_name": "perfectly",
+    "activity_type": "perfectly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 49,
+    "activity_name": "positively",
+    "activity_type": "positively",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 50,
+    "activity_name": "practically",
+    "activity_type": "practically",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 51,
+    "activity_name": "pretty*",
+    "activity_type": "pretty*",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 52,
+    "activity_name": "purely",
+    "activity_type": "purely",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 53,
+    "activity_name": "quite",
+    "activity_type": "quite",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 54,
+    "activity_name": "rather",
+    "activity_type": "rather",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 55,
+    "activity_name": "really",
+    "activity_type": "really",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 56,
+    "activity_name": "scarcely",
+    "activity_type": "scarcely",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 57,
+    "activity_name": "simply",
+    "activity_type": "simply",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 58,
+    "activity_name": "so",
+    "activity_type": "so",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 59,
+    "activity_name": "somewhat",
+    "activity_type": "somewhat",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 60,
+    "activity_name": "strongly",
+    "activity_type": "strongly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 61,
+    "activity_name": "terribly",
+    "activity_type": "terribly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 62,
+    "activity_name": "thoroughly",
+    "activity_type": "thoroughly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 63,
+    "activity_name": "too",
+    "activity_type": "too",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 64,
+    "activity_name": "totally",
+    "activity_type": "totally",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 65,
+    "activity_name": "utterly",
+    "activity_type": "utterly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 66,
+    "activity_name": "very",
+    "activity_type": "very",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 67,
+    "activity_name": "virtually",
+    "activity_type": "virtually",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 68,
+    "activity_name": "well",
+    "activity_type": "well",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 69,
+    "activity_name": "accidentally",
+    "activity_type": "accidentally",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 70,
+    "activity_name": "angrily",
+    "activity_type": "angrily",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 71,
+    "activity_name": "anxiously",
+    "activity_type": "anxiously",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 72,
+    "activity_name": "awkwardly",
+    "activity_type": "awkwardly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 73,
+    "activity_name": "badly",
+    "activity_type": "badly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 74,
+    "activity_name": "beautifully",
+    "activity_type": "beautifully",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 75,
+    "activity_name": "blindly",
+    "activity_type": "blindly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 76,
+    "activity_name": "boldly",
+    "activity_type": "boldly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 77,
+    "activity_name": "bravely",
+    "activity_type": "bravely",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 78,
+    "activity_name": "brightly",
+    "activity_type": "brightly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 79,
+    "activity_name": "busily",
+    "activity_type": "busily",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 80,
+    "activity_name": "calmly",
+    "activity_type": "calmly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 81,
+    "activity_name": "carefully",
+    "activity_type": "carefully",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 82,
+    "activity_name": "carelessly",
+    "activity_type": "carelessly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 83,
+    "activity_name": "cautiously",
+    "activity_type": "cautiously",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 84,
+    "activity_name": "cheerfully",
+    "activity_type": "cheerfully",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 85,
+    "activity_name": "clearly",
+    "activity_type": "clearly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 86,
+    "activity_name": "closely",
+    "activity_type": "closely",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 87,
+    "activity_name": "correctly",
+    "activity_type": "correctly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 88,
+    "activity_name": "courageously",
+    "activity_type": "courageously",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 89,
+    "activity_name": "cruelly",
+    "activity_type": "cruelly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 90,
+    "activity_name": "daringly",
+    "activity_type": "daringly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 91,
+    "activity_name": "deliberately",
+    "activity_type": "deliberately",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 92,
+    "activity_name": "doubtfully",
+    "activity_type": "doubtfully",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 93,
+    "activity_name": "eagerly",
+    "activity_type": "eagerly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 94,
+    "activity_name": "easily",
+    "activity_type": "easily",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 95,
+    "activity_name": "elegantly",
+    "activity_type": "elegantly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 96,
+    "activity_name": "enormously",
+    "activity_type": "enormously",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 97,
+    "activity_name": "enthusiastically",
+    "activity_type": "enthusiastically",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 98,
+    "activity_name": "equally",
+    "activity_type": "equally",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 99,
+    "activity_name": "eventually",
+    "activity_type": "eventually",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 100,
+    "activity_name": "exactly",
+    "activity_type": "exactly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 101,
+    "activity_name": "faithfully",
+    "activity_type": "faithfully",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 102,
+    "activity_name": "fast",
+    "activity_type": "fast",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 103,
+    "activity_name": "fatally",
+    "activity_type": "fatally",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 104,
+    "activity_name": "fiercely",
+    "activity_type": "fiercely",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 105,
+    "activity_name": "fondly",
+    "activity_type": "fondly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 106,
+    "activity_name": "foolishly",
+    "activity_type": "foolishly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 107,
+    "activity_name": "fortunately",
+    "activity_type": "fortunately",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 108,
+    "activity_name": "frankly",
+    "activity_type": "frankly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 109,
+    "activity_name": "frantically",
+    "activity_type": "frantically",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 110,
+    "activity_name": "generously",
+    "activity_type": "generously",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 111,
+    "activity_name": "gently",
+    "activity_type": "gently",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 112,
+    "activity_name": "gladly",
+    "activity_type": "gladly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 113,
+    "activity_name": "gracefully",
+    "activity_type": "gracefully",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 114,
+    "activity_name": "greedily",
+    "activity_type": "greedily",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 115,
+    "activity_name": "happily",
+    "activity_type": "happily",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 116,
+    "activity_name": "hard",
+    "activity_type": "hard",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 117,
+    "activity_name": "hastily",
+    "activity_type": "hastily",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 118,
+    "activity_name": "healthily",
+    "activity_type": "healthily",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 119,
+    "activity_name": "honestly",
+    "activity_type": "honestly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 120,
+    "activity_name": "hungrily",
+    "activity_type": "hungrily",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 121,
+    "activity_name": "hurriedly",
+    "activity_type": "hurriedly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 122,
+    "activity_name": "inadequately",
+    "activity_type": "inadequately",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 123,
+    "activity_name": "ingeniously",
+    "activity_type": "ingeniously",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 124,
+    "activity_name": "innocently",
+    "activity_type": "innocently",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 125,
+    "activity_name": "inquisitively",
+    "activity_type": "inquisitively",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 126,
+    "activity_name": "irritably",
+    "activity_type": "irritably",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 127,
+    "activity_name": "joyously",
+    "activity_type": "joyously",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 128,
+    "activity_name": "justly",
+    "activity_type": "justly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 129,
+    "activity_name": "kindly",
+    "activity_type": "kindly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 130,
+    "activity_name": "lazily",
+    "activity_type": "lazily",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 131,
+    "activity_name": "loosely",
+    "activity_type": "loosely",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 132,
+    "activity_name": "loudly",
+    "activity_type": "loudly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 133,
+    "activity_name": "madly",
+    "activity_type": "madly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 134,
+    "activity_name": "mortally",
+    "activity_type": "mortally",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 135,
+    "activity_name": "mysteriously",
+    "activity_type": "mysteriously",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 136,
+    "activity_name": "neatly",
+    "activity_type": "neatly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 137,
+    "activity_name": "nervously",
+    "activity_type": "nervously",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 138,
+    "activity_name": "noisily",
+    "activity_type": "noisily",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 139,
+    "activity_name": "obediently",
+    "activity_type": "obediently",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 140,
+    "activity_name": "openly",
+    "activity_type": "openly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 141,
+    "activity_name": "painfully",
+    "activity_type": "painfully",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 142,
+    "activity_name": "patiently",
+    "activity_type": "patiently",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 143,
+    "activity_name": "perfectly",
+    "activity_type": "perfectly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 144,
+    "activity_name": "politely",
+    "activity_type": "politely",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 145,
+    "activity_name": "poorly",
+    "activity_type": "poorly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 146,
+    "activity_name": "powerfully",
+    "activity_type": "powerfully",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 147,
+    "activity_name": "promptly",
+    "activity_type": "promptly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 148,
+    "activity_name": "punctually",
+    "activity_type": "punctually",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 149,
+    "activity_name": "quickly",
+    "activity_type": "quickly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 150,
+    "activity_name": "quietly",
+    "activity_type": "quietly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 151,
+    "activity_name": "rapidly",
+    "activity_type": "rapidly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 152,
+    "activity_name": "rarely",
+    "activity_type": "rarely",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 153,
+    "activity_name": "really",
+    "activity_type": "really",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 154,
+    "activity_name": "recklessly",
+    "activity_type": "recklessly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 155,
+    "activity_name": "regularly",
+    "activity_type": "regularly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 156,
+    "activity_name": "reluctantly",
+    "activity_type": "reluctantly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 157,
+    "activity_name": "repeatedly",
+    "activity_type": "repeatedly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 158,
+    "activity_name": "rightfully",
+    "activity_type": "rightfully",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 159,
+    "activity_name": "roughly",
+    "activity_type": "roughly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 160,
+    "activity_name": "rudely",
+    "activity_type": "rudely",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 161,
+    "activity_name": "sadly",
+    "activity_type": "sadly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 162,
+    "activity_name": "safely",
+    "activity_type": "safely",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 163,
+    "activity_name": "selfishly",
+    "activity_type": "selfishly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 164,
+    "activity_name": "sensibly",
+    "activity_type": "sensibly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 165,
+    "activity_name": "seriously",
+    "activity_type": "seriously",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 166,
+    "activity_name": "sharply",
+    "activity_type": "sharply",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 167,
+    "activity_name": "shyly",
+    "activity_type": "shyly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 168,
+    "activity_name": "silently",
+    "activity_type": "silently",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 169,
+    "activity_name": "sleepily",
+    "activity_type": "sleepily",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 170,
+    "activity_name": "slowly",
+    "activity_type": "slowly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 171,
+    "activity_name": "smoothly",
+    "activity_type": "smoothly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 172,
+    "activity_name": "so",
+    "activity_type": "so",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 173,
+    "activity_name": "softly",
+    "activity_type": "softly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 174,
+    "activity_name": "solemnly",
+    "activity_type": "solemnly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 175,
+    "activity_name": "speedily",
+    "activity_type": "speedily",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 176,
+    "activity_name": "stealthily",
+    "activity_type": "stealthily",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 177,
+    "activity_name": "sternly",
+    "activity_type": "sternly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 178,
+    "activity_name": "straight",
+    "activity_type": "straight",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 179,
+    "activity_name": "stupidly",
+    "activity_type": "stupidly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 180,
+    "activity_name": "successfully",
+    "activity_type": "successfully",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 181,
+    "activity_name": "suddenly",
+    "activity_type": "suddenly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 182,
+    "activity_name": "suspiciously",
+    "activity_type": "suspiciously",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 183,
+    "activity_name": "swiftly",
+    "activity_type": "swiftly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 184,
+    "activity_name": "tenderly",
+    "activity_type": "tenderly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 185,
+    "activity_name": "tensely",
+    "activity_type": "tensely",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 186,
+    "activity_name": "thoughtfully",
+    "activity_type": "thoughtfully",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 187,
+    "activity_name": "tightly",
+    "activity_type": "tightly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 188,
+    "activity_name": "truthfully",
+    "activity_type": "truthfully",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 189,
+    "activity_name": "unexpectedly",
+    "activity_type": "unexpectedly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 190,
+    "activity_name": "victoriously",
+    "activity_type": "victoriously",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 191,
+    "activity_name": "violently",
+    "activity_type": "violently",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 192,
+    "activity_name": "vivaciously",
+    "activity_type": "vivaciously",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 193,
+    "activity_name": "warmly",
+    "activity_type": "warmly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 194,
+    "activity_name": "weakly",
+    "activity_type": "weakly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 195,
+    "activity_name": "wearily",
+    "activity_type": "wearily",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 196,
+    "activity_name": "well",
+    "activity_type": "well",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 197,
+    "activity_name": "wildly",
+    "activity_type": "wildly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 198,
+    "activity_name": "wisely",
+    "activity_type": "wisely",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 199,
+    "activity_name": "about",
+    "activity_type": "about",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 200,
+    "activity_name": "above",
+    "activity_type": "above",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 201,
+    "activity_name": "abroad",
+    "activity_type": "abroad",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 202,
+    "activity_name": "anywhere",
+    "activity_type": "anywhere",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 203,
+    "activity_name": "away",
+    "activity_type": "away",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 204,
+    "activity_name": "back",
+    "activity_type": "back",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 205,
+    "activity_name": "backward",
+    "activity_type": "backward",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 206,
+    "activity_name": "behind",
+    "activity_type": "behind",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 207,
+    "activity_name": "below",
+    "activity_type": "below",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 208,
+    "activity_name": "down",
+    "activity_type": "down",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 209,
+    "activity_name": "downstairs",
+    "activity_type": "downstairs",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 210,
+    "activity_name": "east (etc)",
+    "activity_type": "east (etc)",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 211,
+    "activity_name": "elsewhere",
+    "activity_type": "elsewhere",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 212,
+    "activity_name": "far",
+    "activity_type": "far",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 213,
+    "activity_name": "in",
+    "activity_type": "in",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 214,
+    "activity_name": "indoors",
+    "activity_type": "indoors",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 215,
+    "activity_name": "inside",
+    "activity_type": "inside",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 216,
+    "activity_name": "near",
+    "activity_type": "near",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 217,
+    "activity_name": "nearby",
+    "activity_type": "nearby",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 218,
+    "activity_name": "off",
+    "activity_type": "off",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 219,
+    "activity_name": "on",
+    "activity_type": "on",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 220,
+    "activity_name": "out",
+    "activity_type": "out",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 221,
+    "activity_name": "outside",
+    "activity_type": "outside",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 222,
+    "activity_name": "over",
+    "activity_type": "over",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 223,
+    "activity_name": "there",
+    "activity_type": "there",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 224,
+    "activity_name": "towards",
+    "activity_type": "towards",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 225,
+    "activity_name": "under",
+    "activity_type": "under",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 226,
+    "activity_name": "up",
+    "activity_type": "up",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 227,
+    "activity_name": "upstairs",
+    "activity_type": "upstairs",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 228,
+    "activity_name": "where",
+    "activity_type": "where",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 229,
+    "activity_name": "always",
+    "activity_type": "always",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 230,
+    "activity_name": "constantly",
+    "activity_type": "constantly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 231,
+    "activity_name": "ever",
+    "activity_type": "ever",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 232,
+    "activity_name": "frequently",
+    "activity_type": "frequently",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 233,
+    "activity_name": "generally",
+    "activity_type": "generally",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 234,
+    "activity_name": "infrequently",
+    "activity_type": "infrequently",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 235,
+    "activity_name": "never",
+    "activity_type": "never",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 236,
+    "activity_name": "normally",
+    "activity_type": "normally",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 237,
+    "activity_name": "occasionally",
+    "activity_type": "occasionally",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 238,
+    "activity_name": "often",
+    "activity_type": "often",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 239,
+    "activity_name": "rarely",
+    "activity_type": "rarely",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 240,
+    "activity_name": "regularly",
+    "activity_type": "regularly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 241,
+    "activity_name": "seldom",
+    "activity_type": "seldom",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 242,
+    "activity_name": "sometimes",
+    "activity_type": "sometimes",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 243,
+    "activity_name": "regularly",
+    "activity_type": "regularly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 244,
+    "activity_name": "usually",
+    "activity_type": "usually",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 245,
+    "activity_name": "already",
+    "activity_type": "already",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 246,
+    "activity_name": "before",
+    "activity_type": "before",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 247,
+    "activity_name": "early",
+    "activity_type": "early",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 248,
+    "activity_name": "earlier",
+    "activity_type": "earlier",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 249,
+    "activity_name": "eventually",
+    "activity_type": "eventually",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 250,
+    "activity_name": "finally",
+    "activity_type": "finally",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 251,
+    "activity_name": "first",
+    "activity_type": "first",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 252,
+    "activity_name": "formerly",
+    "activity_type": "formerly",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 253,
+    "activity_name": "just",
+    "activity_type": "just",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 254,
+    "activity_name": "last",
+    "activity_type": "last",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 255,
+    "activity_name": "late",
+    "activity_type": "late",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 256,
+    "activity_name": "later",
+    "activity_type": "later",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 257,
+    "activity_name": "lately",
+    "activity_type": "lately",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 258,
+    "activity_name": "next",
+    "activity_type": "next",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 259,
+    "activity_name": "previously",
+    "activity_type": "previously",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 260,
+    "activity_name": "recently",
+    "activity_type": "recently",
+    "activity_desc": "NULL"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "activity_id": 1,
+    "activity_name": "Exclamation ",
+    "activity_type": "",
+    "activity_desc": "Apple! How nice!"
+  },
+  {
+    "activity_id": 2,
+    "activity_name": "declarative",
+    "activity_type": "NULL",
+    "activity_desc": "My friends are here"
+  },
+  {
+    "activity_id": 3,
+    "activity_name": "imperative",
+    "activity_type": "NULL",
+    "activity_desc": "Can you handle this?"
+  },
+  {
+    "activity_id": 4,
+    "activity_name": "interrogative",
+    "activity_type": "NULL",
+    "activity_desc": "Where are you going?"
+  }
+]

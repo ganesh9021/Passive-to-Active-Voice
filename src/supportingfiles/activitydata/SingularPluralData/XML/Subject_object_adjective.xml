@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<template>
+
+
+
+<sentence id="1" type = "simple">
+    
+    <article>
+    </article>
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="catch">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="color/size">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "catchable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="2" type = "simple">
+    
+    <article>
+    </article>
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="drive">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="color">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "driveable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<!--****************************************-->
+
+<sentence id="4" type = "simple">
+    
+    <article>
+    </article>
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="eat">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="taste">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "eatable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="5" type = "simple">
+    
+    <article>
+    </article>
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="feed">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="feelings/condition/qualities/appearance/age">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "feedable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="6" type = "simple">
+    
+    <article>
+    </article>
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="forgive">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="feelings/condition/qualities/appearance/age">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "person"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="7" type = "simple">
+    
+    <article>
+    </article>
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="give">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="color/size">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "thing"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="8" type = "simple">
+    
+    <article>
+    </article>
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="hold">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="color/size">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "holdable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="9" type = "simple">
+    
+    <article>
+    </article>
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="sell">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="size/color">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "sellable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<!--****************************************-->
+
+<sentence id="11" type = "simple">
+    
+    <article>
+    </article>
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="teach">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="feelings/condition/qualities/appearance/age">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "person"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<!--****************************************-->
+
+<!--****************************************-->
+
+<sentence id="14" type = "simple">
+    
+    <article>
+    </article>
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="climb">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="size">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "climbable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="15" type = "simple">
+    
+    <article>
+    </article>
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="cook">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="taste">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "cookable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="16" type = "simple">
+    
+    <article>
+    </article>
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="protect">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="feelings/condition/qualities/appearance/age">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "protectable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="17" type = "simple">
+    
+    <article>
+    </article>
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="eat">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="taste">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "eatable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="18" type = "simple">
+    
+    <article>
+    </article>
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="purchase">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="size/color">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "purchaseable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<sentence id="19" type = "simple">
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="proper" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="catch">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="color/size">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "catchable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="20" type = "simple">
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="proper" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="drive">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="color">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "driveable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<!--****************************************-->
+
+<sentence id="21" type = "simple">
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="proper" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="eat">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="taste">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "eatable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="22" type = "simple">
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="proper" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="feed">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="feelings/condition/qualities/appearance/age">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "feedable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="23" type = "simple">
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="proper" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="forgive">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="feelings/condition/qualities/appearance/age">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "person"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="24" type = "simple">
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="proper" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="give">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="color/size">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "thing"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="25" type = "simple">
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="proper" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="hold">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="color/size">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "holdable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="26" type = "simple">
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="proper" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="sell">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="size/color">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "sellable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<!--****************************************-->
+
+<sentence id="27" type = "simple">
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="proper" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="teach">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="feelings/condition/qualities/appearance/age">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "person"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<!--****************************************-->
+
+<!--****************************************-->
+
+<sentence id="29" type = "simple">
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="proper" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="climb">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="size">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "climbable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="30" type = "simple">
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="proper" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="cook">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="taste">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "cookable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="31" type = "simple">
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="proper" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="protect">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="feelings/condition/qualities/appearance/age">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "protectable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="32" type = "simple">
+    
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="proper" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="eat">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="taste">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "eatable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="33" type = "simple">
+
+
+    <adjective type="feelings/condition/qualities/appearance/age">
+    </adjective>
+
+    <subject>
+        <noun type="proper" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="purchase">
+        </verb>
+        <article>
+        </article>
+        
+        <adjective type="size/color">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "purchaseable"/>
+        </object>
+    </predicate>
+</sentence>
+
+
+<sentence id="38" type = "simple">
+    
+    <adjective type="size">
+    </adjective>
+    <subject>
+        <noun type="proper" case = "animal"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="grow">
+        </verb>
+        <article>
+        </article>
+        <adjective type="size">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "purchaseable"/>
+        </object>
+    </predicate>
+</sentence>
+
+<sentence id="40" type = "simple">
+    
+    <adjective type="size">
+    </adjective>
+    <subject>
+        <noun type="proper" case = "wild_animal"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="grow">
+        </verb>
+        <article>
+        </article>
+        <adjective type="size">
+        </adjective>
+
+        <object>
+            <noun type="common" case = "purchaseable"/>
+        </object>
+    </predicate>
+</sentence>
+
+</template>

@@ -1,0 +1,12 @@
+{
+"object_Diagnosis" : "'Object' is incorrectly placed, should be at the end of the sentence.",
+"subject_Diagnosis" : "'Subject' is incorrectly placed, should be in the beginning of the sentence.",	
+"useOfBy_Diagnosis" : "'by' is incorrectly placed, should precede the 'Object' in the passive voice.",
+"mainVerb_Diagnosis" : "'Main Verb' is incorrectly placed, should be between 'Subject' and 'Object'.",
+"helpingVerb_Diagnosis" : "'Helping Verb' is incorrectly placed, should precede the 'Main verb'.",
+"object_Remedy" : "Place 'Object' at end of the sentence in passive voice.",
+"subject_Remedy" : "Place 'Subject' at start of the sentence in passive voice.",
+"useOfBy_Remedy" : "Place 'by' at appropriate position.",
+"mainVerb_Remedy" : "Place 'Main Verb' between 'Subject' and 'Object'.",
+"helpingVerb_Remedy" : "Place 'Helping Verb' preceding the 'Main Verb'."
+}

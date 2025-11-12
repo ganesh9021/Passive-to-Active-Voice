@@ -1,0 +1,38 @@
+[
+  {
+    "activity_id": 1,
+    "activity_name": "q_normal_sentence_ordering",
+    "activity_type": "Arrange the given jumbled sentences in order as per the passage."
+  },
+  {
+    "activity_id": 3,
+    "activity_name": "q_truefalse",
+    "activity_type": "For each sentence",
+    "activity_desc": "check if the sentence is True."
+  },
+  {
+    "activity_id": 4,
+    "activity_name": "q_image_sentence_ordering",
+    "activity_type": "Look at the images and arrange sentences given below in order accordingly."
+  },
+  {
+    "activity_id": 5,
+    "activity_name": "q_simple_question",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 6,
+    "activity_name": "q_complex_question",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 7,
+    "activity_name": "q_crossword",
+    "activity_type": "Read the passage carefully. Complete the crossword with the help of given clues."
+  },
+  {
+    "activity_id": 8,
+    "activity_name": "q_mcq",
+    "activity_type": "Complete the sentences choosing an appropriate option."
+  }
+]

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<template>
+
+
+<!--****************************************-->
+
+
+<sentence id="1" type = "simple">
+    
+    <article>
+    </article>
+    
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="catch">
+        </verb>
+        <article>
+        </article>
+        <object>
+            <noun type="common" case = "catchable"/>
+        </object>
+
+        <preposition>
+        </preposition>
+        
+        <article>
+        </article>
+
+        <noun type="common" case = "place"/>   
+
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="2" type = "simple">
+    
+    <article>
+    </article>
+    
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="drive">
+        </verb>
+        <article>
+        </article>
+        <object>
+            <noun type="common" case = "driveable"/>
+        </object>
+
+        <preposition>
+        </preposition>
+        
+        <article>
+        </article>
+
+        <noun type="common" case = "place"/>   
+
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="3" type = "simple">
+    
+    <article>
+    </article>
+    
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="eat">
+        </verb>
+        <article>
+        </article>
+        <object>
+            <noun type="common" case = "driveable"/>
+        </object>
+
+        <preposition>
+        </preposition>
+        
+        <article>
+        </article>
+
+        <noun type="common" case = "place"/>   
+
+    </predicate>
+</sentence>
+
+
+<sentence id="4" type = "simple">
+    
+    <article>
+    </article>
+    
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="eat">
+        </verb>
+        <article>
+        </article>
+        <object>
+            <noun type="common" case = "driveable"/>
+        </object>
+
+        <preposition>
+        </preposition>
+        
+        <article>
+        </article>
+
+        <noun type="common" case = "time"/>   
+
+    </predicate>
+</sentence>
+
+
+<!--****************************************-->
+
+<sentence id="5" type = "simple">
+    
+    <article>
+    </article>
+    
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="sell">
+        </verb>
+        <article>
+        </article>
+        <object>
+            <noun type="common" case = "driveable"/>
+        </object>
+
+        <preposition>
+        </preposition>
+        
+        <article>
+        </article>
+
+        <noun type="common" case = "place"/>   
+
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="6" type = "simple">
+    
+    <article>
+    </article>
+    
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="run">
+        </verb>
+        <article>
+        </article>
+        <object>
+            <noun type="common" case = "driveable"/>
+        </object>
+
+        <preposition>
+        </preposition>
+        
+        <article>
+        </article>
+
+        <noun type="common" case = "place"/>   
+
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="7" type = "simple">
+    
+    <article>
+    </article>
+    
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="drink">
+        </verb>
+        <article>
+        </article>
+        <object>
+            <noun type="common" case = "driveable"/>
+        </object>
+
+        <preposition>
+        </preposition>
+        
+        <article>
+        </article>
+
+        <noun type="common" case = "place"/>   
+
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="8" type = "simple">
+    
+    <article>
+    </article>
+    
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="run">
+        </verb>
+        <article>
+        </article>
+        <object>
+            <noun type="common" case = "driveable"/>
+        </object>
+
+        <preposition>
+        </preposition>
+        
+        <article>
+        </article>
+
+        <noun type="common" case = "place"/>   
+
+    </predicate>
+</sentence>
+
+<!--****************************************-->
+
+<sentence id="9" type = "simple">
+    
+    <article>
+    </article>
+    
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    
+    <predicate>
+        <verb type="run">
+        </verb>
+        <article>
+        </article>
+        <object>
+            <noun type="common" case = "driveable"/>
+        </object>
+
+        <preposition>
+        </preposition>
+        
+        <article>
+        </article>
+
+        <noun type="common" case = "time"/>   
+
+    </predicate>
+</sentence>
+
+</template>

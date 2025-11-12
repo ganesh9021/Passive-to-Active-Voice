@@ -1,0 +1,94 @@
+.componentLetter {
+  margin: 0 auto;
+  //border: 1px solid #e6e6e6;
+  padding: 3px 0px;
+  margin-top: 2px;
+}
+
+.letterImg {
+  margin: 0 auto;
+  border: 3px solid #e6e6e6;
+  display: block;
+  width: 70%; 
+  margin: auto;  
+}
+
+.background {
+  width: 100px;
+  height: 50px;
+  padding: 0;
+  margin: 0;
+}
+
+.background > div {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.line {
+  width: 112px;
+  height: 47px;
+  border-bottom: 1px solid red;
+  border-bottom-width: 1px;
+  border-bottom-style: solid; 
+  border-bottom-color: rgb(0, 0, 0);  
+  transform: translateY(-20px) translateX(5px) rotate(27deg);
+  position: absolute;
+  z-index: 1;
+}
+
+.top {
+  position: absolute;
+  top: 1px;
+  right: 1px;
+}
+
+.bottom {
+  position: absolute;
+  bottom: 1px;
+  left: 1px;
+}
+
+.tdBodyStyle{
+  padding: 2px 3px;
+  vertical-align: bottom;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: rgb(0, 0, 0);
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(0, 0, 0);
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: rgb(0, 0, 0); 
+  text-align: center;
+}
+
+.tdStyle {
+  padding: 2px 3px;
+  vertical-align: bottom;
+  background: rgb(204, 153, 102); 
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: rgb(0, 0, 0); 
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(0, 0, 0); 
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: rgb(0, 0, 0); 
+  text-align: center;
+}
+
+.t2BodyStyle {
+  padding: 2px 3px;
+  vertical-align: bottom;
+  background: rgb(255, 255, 255);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  font-weight: bold;  
+}

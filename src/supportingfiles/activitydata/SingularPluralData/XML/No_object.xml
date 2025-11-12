@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<template>
+
+
+<sentence id="1" type = "simple">
+    
+    <article>
+    </article>
+    
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    <verb type = "grow">
+    </verb>
+</sentence>
+
+
+<!--****************************************-->
+
+
+<sentence id="2" type = "simple">
+    
+    <article>
+    </article>
+    
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    <verb type = "grow">
+    </verb>
+</sentence>
+
+
+<!--****************************************-->
+
+<!-- <sentence id="3" type = "simple">
+    
+    <article>
+    </article>
+    
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    <verb type = "die">
+    </verb>
+</sentence>
+ -->
+
+<!--****************************************-->
+
+
+<sentence id="4" type = "simple">
+    
+    <article>
+    </article>
+    
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    <verb type = "talk">
+    </verb>
+</sentence>
+
+
+<!--****************************************-->
+
+
+<sentence id="5" type = "simple">
+    
+    <article>
+    </article>
+    
+    <subject>
+        <noun type="common" case = "person"/>
+    </subject>   
+    <verb type = "run">
+    </verb>
+</sentence>
+
+
+<sentence id="6" type = "simple">
+    
+    <subject>
+        <noun type="proper" case = "person"/>
+    </subject>   
+    <verb type = "grow">
+    </verb>
+</sentence>
+
+
+<!--****************************************-->
+
+
+<sentence id="7" type = "simple">
+    
+    <subject>
+        <noun type="proper" case = "person"/>
+    </subject>   
+    <verb type = "grow">
+    </verb>
+</sentence>
+
+
+<!--****************************************-->
+
+<!-- <sentence id="8" type = "simple">
+    
+    <subject>
+        <noun type="proper" case = "person"/>
+    </subject>   
+    <verb type = "die">
+    </verb>
+</sentence>
+ -->
+
+<!--****************************************-->
+
+
+<sentence id="9" type = "simple">
+    
+    <subject>
+        <noun type="proper" case = "person"/>
+    </subject>   
+    <verb type = "talk">
+    </verb>
+</sentence>
+
+
+<!--****************************************-->
+
+
+<sentence id="10" type = "simple">
+    
+    <subject>
+        <noun type="proper" case = "person"/>
+    </subject>   
+    <verb type = "run">
+    </verb>
+</sentence>
+
+</template>

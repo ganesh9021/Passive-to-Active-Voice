@@ -1,0 +1,12 @@
+[
+  {
+    "activity_id": 1,
+    "activity_name": "/activitydata/voiceActivityData/xmlsources/SentenceTemplate.xml",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 2,
+    "activity_name": "/xmlsources/transformationofsentences.xml",
+    "activity_type": "NULL"
+  }
+]

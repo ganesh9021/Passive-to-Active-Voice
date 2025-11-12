@@ -1,0 +1,408 @@
+[
+  {
+    "activity_id": 34,
+    "activity_name": "Scientists were working for 12-18 hours at Thumba.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 35,
+    "activity_name": "Scientists had heavy work pressure but they were loyal.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 36,
+    "activity_name": "A scientist approached the boss for permission to leave at 5.30 pm to take\\nhis children to the exhibition.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 37,
+    "activity_name": "The boss consented.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 38,
+    "activity_name": "The scientist became so engrossed in his work that he continued working\\ntill 8.15 pm.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 39,
+    "activity_name": "Suddenly",
+    "activity_type": "he remembered his promise to his children.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 40,
+    "activity_name": "The scientist rushed home anticipating the disappointment of his children.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 41,
+    "activity_name": "To his surprise",
+    "activity_type": "he learnt that his boss had kept his appointment for him.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 42,
+    "activity_name": "Scientist were working 12-18 hrs a day.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 43,
+    "activity_name": "The scientist took children to exhibition.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 44,
+    "activity_name": "Boss did not grant him permission.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 45,
+    "activity_name": "Boss was APJ Abdul Kalam",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 56,
+    "activity_name": "Lionel could not be saved as he had lost too much blood . ",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 57,
+    "activity_name": "One elderly gentleman was especially heart-broken because  he could no longer enjoy Lionels company. ",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 58,
+    "activity_name": "The school children were devastated because Lionel waited for the bus along with them.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 59,
+    "activity_name": "Nola received many condolences from friends and strangers. She felt touched. ",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 60,
+    "activity_name": "The word closest in meaning to condolence is sympathy .",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 61,
+    "activity_name": "The school master ran his school in a garden . ",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 62,
+    "activity_name": "The school master can be best described as  knowledgeable and funny. ",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 63,
+    "activity_name": "The days disaster refers to  a natural calamity. ",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 64,
+    "activity_name": "The only skill where he could be defeated was arguing .",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 65,
+    "activity_name": "...they gazed",
+    "activity_type": "and still the wonder grew.",
+    "activity_desc": "this line suggests that the schoolmaster was respected."
+  },
+  {
+    "activity_id": 66,
+    "activity_name": "A frog croaked all night in a bog",
+    "activity_type": "in an unpleasant voice.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 67,
+    "activity_name": "One night a nightingale began to sing in a melodious voice.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 68,
+    "activity_name": "All the creatures in the bog cheered and clapped at her beautiful song. So the frog could sing unrivalled in the bog once more.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 69,
+    "activity_name": "Soon the nightingale became famous",
+    "activity_type": "and creatures from miles around came to \\r\\nhear her sing.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 70,
+    "activity_name": "The next night the frog introduced himself.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 71,
+    "activity_name": "He offered to train the nightingale",
+    "activity_type": "so that she could sing even more beautifully.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 72,
+    "activity_name": "The frog charged an admission fee",
+    "activity_type": "and earned a lot of money from these \\r\\nconcerts.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 73,
+    "activity_name": "But the frog made the nightingale rehearse continuously in the rain.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 74,
+    "activity_name": "As a result",
+    "activity_type": "her voice lost its beauty",
+    "activity_desc": "and the other creatures stopped coming to \\r\\nhear her sing."
+  },
+  {
+    "activity_id": 75,
+    "activity_name": "Finally the nightingale burst a vein and died.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 76,
+    "activity_name": "So the frog could sing unrivalled in the bog once more.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 77,
+    "activity_name": "The frog croaked on the Sumac tree.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 78,
+    "activity_name": "The animals reacted to the frogs song with hatred.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 79,
+    "activity_name": "The frog claimed to be the king of the Bog.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 80,
+    "activity_name": "I dont think the songs divine",
+    "activity_type": "But - oh - well - at least its mine. These lines by the nightingale show that she is haughty.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 81,
+    "activity_name": "So the frog and the nightingale journeyed up and down the scale. This line refers to the high and low notes of a musical scale.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 82,
+    "activity_name": "The frog says that the nightingale was far too prone to influence. This statement is \\r\\nironical because it was the frog who was prone to influence ",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 83,
+    "activity_name": "The nightingale became morose because the ticket office had crashed.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 84,
+    "activity_name": "In the line You must aim for better billing",
+    "activity_type": "billing refers to clearing the debts of the nightingale.",
+    "activity_desc": "NULL"
+  },
+  {
+    "activity_id": 85,
+    "activity_name": "The joy was both sweet and bitter. It was sweet for the frog because he was earning a lot of money.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 86,
+    "activity_name": "The joy was both sweet and bitter. It was bitter for the frog because  he was jealous of the nightingale.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 87,
+    "activity_name": "in Bingle bog.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 88,
+    "activity_name": "on the Sumac tree.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 89,
+    "activity_name": "at the foot of the Sumac tree.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 90,
+    "activity_name": "at the foot of Bingle bog.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 91,
+    "activity_name": "hatred",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 92,
+    "activity_name": "adoration",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 93,
+    "activity_name": "indifference",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 94,
+    "activity_name": "suggestions for improvement.",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 95,
+    "activity_name": "he was too weak to haul his poor broken body inside",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 96,
+    "activity_name": "he was bloodied and beaten",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 97,
+    "activity_name": "he had lost too much blood",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 98,
+    "activity_name": "he was in bad shape",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 99,
+    "activity_name": "he could no longer enjoy Lionels company",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 100,
+    "activity_name": "he could no longer feed Lionels a slice of bread or a biscuit",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 101,
+    "activity_name": "he could not longer spend an hour every week with him",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 102,
+    "activity_name": "two weeks later he was dead",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 105,
+    "activity_name": "they are showing an inclination towards adventure tourism",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 106,
+    "activity_name": "schools have realized the importance of adventure sports",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 107,
+    "activity_name": "corporates are using adventure sports for team building",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 108,
+    "activity_name": "they enjoy mountain biking",
+    "activity_type": "kayaking",
+    "activity_desc": "hot air"
+  },
+  {
+    "activity_id": 109,
+    "activity_name": "they have more free time",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 110,
+    "activity_name": "they have a higher disposable income",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 111,
+    "activity_name": "satellite television has exposed the people to adventure sports",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 112,
+    "activity_name": "they are looking for glamour",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 113,
+    "activity_name": "tourists",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 114,
+    "activity_name": "students",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 115,
+    "activity_name": "adventure seekers",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 116,
+    "activity_name": "everyone",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 117,
+    "activity_name": "to lie in a safe place",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 118,
+    "activity_name": "to safely tell a lie",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 119,
+    "activity_name": "to be cautious",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 120,
+    "activity_name": "to remain safe",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 121,
+    "activity_name": "in a big way",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 122,
+    "activity_name": "with complete power",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 123,
+    "activity_name": "in full gear",
+    "activity_type": "NULL"
+  },
+  {
+    "activity_id": 124,
+    "activity_name": "whole-heartedly",
+    "activity_type": "NULL"
+  }
+]

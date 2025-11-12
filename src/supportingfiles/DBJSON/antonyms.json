@@ -1,0 +1,3098 @@
+[
+  {
+    "activity_id": 1,
+    "activity_name": "about",
+    "activity_type": "exactly"
+  },
+  {
+    "activity_id": 2,
+    "activity_name": "above",
+    "activity_type": "below"
+  },
+  {
+    "activity_id": 3,
+    "activity_name": "absence",
+    "activity_type": "presence"
+  },
+  {
+    "activity_id": 4,
+    "activity_name": "abundance",
+    "activity_type": "lack"
+  },
+  {
+    "activity_id": 5,
+    "activity_name": "to accept",
+    "activity_type": "to refuse"
+  },
+  {
+    "activity_id": 6,
+    "activity_name": "accidental",
+    "activity_type": "intentional"
+  },
+  {
+    "activity_id": 7,
+    "activity_name": "active",
+    "activity_type": "lazy"
+  },
+  {
+    "activity_id": 8,
+    "activity_name": "add",
+    "activity_type": "subtract"
+  },
+  {
+    "activity_id": 9,
+    "activity_name": "admit",
+    "activity_type": "deny"
+  },
+  {
+    "activity_id": 10,
+    "activity_name": "adult",
+    "activity_type": "child"
+  },
+  {
+    "activity_id": 11,
+    "activity_name": "advanced",
+    "activity_type": "elementary"
+  },
+  {
+    "activity_id": 12,
+    "activity_name": "affirmative",
+    "activity_type": "negative"
+  },
+  {
+    "activity_id": 13,
+    "activity_name": "afraid",
+    "activity_type": "brave"
+  },
+  {
+    "activity_id": 14,
+    "activity_name": "after",
+    "activity_type": "before"
+  },
+  {
+    "activity_id": 15,
+    "activity_name": "against",
+    "activity_type": "for"
+  },
+  {
+    "activity_id": 16,
+    "activity_name": "alike",
+    "activity_type": "different"
+  },
+  {
+    "activity_id": 17,
+    "activity_name": "alive",
+    "activity_type": "dead"
+  },
+  {
+    "activity_id": 18,
+    "activity_name": "all",
+    "activity_type": "none"
+  },
+  {
+    "activity_id": 19,
+    "activity_name": "always",
+    "activity_type": "never"
+  },
+  {
+    "activity_id": 20,
+    "activity_name": "ancient",
+    "activity_type": "modern"
+  },
+  {
+    "activity_id": 21,
+    "activity_name": "agree",
+    "activity_type": "refuse"
+  },
+  {
+    "activity_id": 22,
+    "activity_name": "agree",
+    "activity_type": " argue"
+  },
+  {
+    "activity_id": 23,
+    "activity_name": "allow",
+    "activity_type": "forbid"
+  },
+  {
+    "activity_id": 24,
+    "activity_name": "already",
+    "activity_type": "not yet"
+  },
+  {
+    "activity_id": 25,
+    "activity_name": "always",
+    "activity_type": "never"
+  },
+  {
+    "activity_id": 26,
+    "activity_name": "amateur",
+    "activity_type": "professional"
+  },
+  {
+    "activity_id": 27,
+    "activity_name": "to amuse",
+    "activity_type": "to bore"
+  },
+  {
+    "activity_id": 28,
+    "activity_name": "ancestor",
+    "activity_type": "descendant"
+  },
+  {
+    "activity_id": 29,
+    "activity_name": "angel",
+    "activity_type": "devil"
+  },
+  {
+    "activity_id": 30,
+    "activity_name": "animal",
+    "activity_type": "human"
+  },
+  {
+    "activity_id": 31,
+    "activity_name": "annoy",
+    "activity_type": " satisfy"
+  },
+  {
+    "activity_id": 32,
+    "activity_name": "answer",
+    "activity_type": "ask"
+  },
+  {
+    "activity_id": 33,
+    "activity_name": "answer",
+    "activity_type": "question"
+  },
+  {
+    "activity_id": 34,
+    "activity_name": "antonym",
+    "activity_type": "synonym"
+  },
+  {
+    "activity_id": 35,
+    "activity_name": "apart",
+    "activity_type": "together"
+  },
+  {
+    "activity_id": 36,
+    "activity_name": "approximately",
+    "activity_type": "exactly"
+  },
+  {
+    "activity_id": 37,
+    "activity_name": " argue",
+    "activity_type": "agree"
+  },
+  {
+    "activity_id": 38,
+    "activity_name": "arrest",
+    "activity_type": "free"
+  },
+  {
+    "activity_id": 39,
+    "activity_name": "arrival",
+    "activity_type": "departure"
+  },
+  {
+    "activity_id": 40,
+    "activity_name": "arrive",
+    "activity_type": "depart"
+  },
+  {
+    "activity_id": 41,
+    "activity_name": "artificial",
+    "activity_type": "natural"
+  },
+  {
+    "activity_id": 42,
+    "activity_name": "ask",
+    "activity_type": "answer"
+  },
+  {
+    "activity_id": 43,
+    "activity_name": "asleep",
+    "activity_type": "awake"
+  },
+  {
+    "activity_id": 44,
+    "activity_name": "attack",
+    "activity_type": " defend"
+  },
+  {
+    "activity_id": 45,
+    "activity_name": "attack",
+    "activity_type": " protect"
+  },
+  {
+    "activity_id": 46,
+    "activity_name": "attic",
+    "activity_type": "cellar"
+  },
+  {
+    "activity_id": 47,
+    "activity_name": "autumn",
+    "activity_type": "spring"
+  },
+  {
+    "activity_id": 48,
+    "activity_name": "awake",
+    "activity_type": "asleep"
+  },
+  {
+    "activity_id": 49,
+    "activity_name": "awful",
+    "activity_type": " pleasant"
+  },
+  {
+    "activity_id": 50,
+    "activity_name": "back",
+    "activity_type": "front"
+  },
+  {
+    "activity_id": 51,
+    "activity_name": "background",
+    "activity_type": "foreground"
+  },
+  {
+    "activity_id": 52,
+    "activity_name": "backward",
+    "activity_type": "forward"
+  },
+  {
+    "activity_id": 53,
+    "activity_name": "bad",
+    "activity_type": "good"
+  },
+  {
+    "activity_id": 54,
+    "activity_name": "bad luck",
+    "activity_type": " good luck"
+  },
+  {
+    "activity_id": 55,
+    "activity_name": "beauty",
+    "activity_type": "ugliness"
+  },
+  {
+    "activity_id": 56,
+    "activity_name": "before",
+    "activity_type": "after"
+  },
+  {
+    "activity_id": 57,
+    "activity_name": "begin",
+    "activity_type": "end"
+  },
+  {
+    "activity_id": 58,
+    "activity_name": "beginning",
+    "activity_type": "ending"
+  },
+  {
+    "activity_id": 59,
+    "activity_name": "behind",
+    "activity_type": " front "
+  },
+  {
+    "activity_id": 60,
+    "activity_name": "below",
+    "activity_type": "above"
+  },
+  {
+    "activity_id": 61,
+    "activity_name": "best",
+    "activity_type": "worst"
+  },
+  {
+    "activity_id": 62,
+    "activity_name": "better",
+    "activity_type": "worse"
+  },
+  {
+    "activity_id": 63,
+    "activity_name": "beautiful",
+    "activity_type": "ugly"
+  },
+  {
+    "activity_id": 64,
+    "activity_name": "big",
+    "activity_type": "small"
+  },
+  {
+    "activity_id": 65,
+    "activity_name": "birth",
+    "activity_type": "death"
+  },
+  {
+    "activity_id": 66,
+    "activity_name": "bitter",
+    "activity_type": "sweet"
+  },
+  {
+    "activity_id": 67,
+    "activity_name": "black",
+    "activity_type": "white"
+  },
+  {
+    "activity_id": 68,
+    "activity_name": "blunt",
+    "activity_type": "sharp"
+  },
+  {
+    "activity_id": 69,
+    "activity_name": "body",
+    "activity_type": "soul"
+  },
+  {
+    "activity_id": 70,
+    "activity_name": "bore",
+    "activity_type": "amuse"
+  },
+  {
+    "activity_id": 71,
+    "activity_name": "boring",
+    "activity_type": " interesting"
+  },
+  {
+    "activity_id": 72,
+    "activity_name": "to borrow",
+    "activity_type": "to lend"
+  },
+  {
+    "activity_id": 73,
+    "activity_name": "bottom",
+    "activity_type": "top"
+  },
+  {
+    "activity_id": 74,
+    "activity_name": "boy",
+    "activity_type": "girl"
+  },
+  {
+    "activity_id": 75,
+    "activity_name": "brave",
+    "activity_type": "cowardly"
+  },
+  {
+    "activity_id": 76,
+    "activity_name": "to break",
+    "activity_type": " mend"
+  },
+  {
+    "activity_id": 77,
+    "activity_name": "broad",
+    "activity_type": "narrow"
+  },
+  {
+    "activity_id": 78,
+    "activity_name": "brother",
+    "activity_type": "sister"
+  },
+  {
+    "activity_id": 79,
+    "activity_name": "to build",
+    "activity_type": "to destroy"
+  },
+  {
+    "activity_id": 80,
+    "activity_name": "busy",
+    "activity_type": "lazy"
+  },
+  {
+    "activity_id": 81,
+    "activity_name": "buy",
+    "activity_type": "sell"
+  },
+  {
+    "activity_id": 82,
+    "activity_name": "calm",
+    "activity_type": "excited"
+  },
+  {
+    "activity_id": 83,
+    "activity_name": "careful",
+    "activity_type": "careless"
+  },
+  {
+    "activity_id": 84,
+    "activity_name": "careless",
+    "activity_type": "careful"
+  },
+  {
+    "activity_id": 85,
+    "activity_name": "catch",
+    "activity_type": " miss",
+    "activity_desc": ""
+  },
+  {
+    "activity_id": 86,
+    "activity_name": "ceiling",
+    "activity_type": "floor"
+  },
+  {
+    "activity_id": 87,
+    "activity_name": "cellar",
+    "activity_type": "attic"
+  },
+  {
+    "activity_id": 88,
+    "activity_name": "centre",
+    "activity_type": "outskirts",
+    "activity_desc": "suburb"
+  },
+  {
+    "activity_id": 89,
+    "activity_name": "certainly",
+    "activity_type": "probably"
+  },
+  {
+    "activity_id": 90,
+    "activity_name": "changeable",
+    "activity_type": "constant"
+  },
+  {
+    "activity_id": 91,
+    "activity_name": "cheap",
+    "activity_type": "expensive"
+  },
+  {
+    "activity_id": 92,
+    "activity_name": "child",
+    "activity_type": "adult"
+  },
+  {
+    "activity_id": 93,
+    "activity_name": "children",
+    "activity_type": "parents"
+  },
+  {
+    "activity_id": 94,
+    "activity_name": "clean",
+    "activity_type": "dirty"
+  },
+  {
+    "activity_id": 95,
+    "activity_name": "clear",
+    "activity_type": "cloudy"
+  },
+  {
+    "activity_id": 96,
+    "activity_name": "clever",
+    "activity_type": "stupid"
+  },
+  {
+    "activity_id": 97,
+    "activity_name": " close",
+    "activity_type": "open"
+  },
+  {
+    "activity_id": 98,
+    "activity_name": "closed",
+    "activity_type": "open"
+  },
+  {
+    "activity_id": 99,
+    "activity_name": "cloudy",
+    "activity_type": "sunny"
+  },
+  {
+    "activity_id": 100,
+    "activity_name": "cold ",
+    "activity_type": "hot"
+  },
+  {
+    "activity_id": 101,
+    "activity_name": "come",
+    "activity_type": "go"
+  },
+  {
+    "activity_id": 102,
+    "activity_name": "comedy",
+    "activity_type": " tragedy"
+  },
+  {
+    "activity_id": 103,
+    "activity_name": "complicated",
+    "activity_type": "simple"
+  },
+  {
+    "activity_id": 104,
+    "activity_name": "compliment",
+    "activity_type": "insult"
+  },
+  {
+    "activity_id": 105,
+    "activity_name": "compulsory",
+    "activity_type": "voluntary"
+  },
+  {
+    "activity_id": 106,
+    "activity_name": "connect",
+    "activity_type": "separate"
+  },
+  {
+    "activity_id": 107,
+    "activity_name": "consonant",
+    "activity_type": "vowel"
+  },
+  {
+    "activity_id": 108,
+    "activity_name": "constant",
+    "activity_type": "changeable"
+  },
+  {
+    "activity_id": 109,
+    "activity_name": "construction",
+    "activity_type": "destruction"
+  },
+  {
+    "activity_id": 110,
+    "activity_name": "continue",
+    "activity_type": " interrupt"
+  },
+  {
+    "activity_id": 111,
+    "activity_name": "cool",
+    "activity_type": "warm"
+  },
+  {
+    "activity_id": 112,
+    "activity_name": "correct",
+    "activity_type": "FALSE"
+  },
+  {
+    "activity_id": 113,
+    "activity_name": "correct",
+    "activity_type": "wrong"
+  },
+  {
+    "activity_id": 114,
+    "activity_name": "courage",
+    "activity_type": "fear"
+  },
+  {
+    "activity_id": 115,
+    "activity_name": "courageous",
+    "activity_type": "cowardly"
+  },
+  {
+    "activity_id": 116,
+    "activity_name": "cowardly",
+    "activity_type": "brave"
+  },
+  {
+    "activity_id": 117,
+    "activity_name": "cowardly",
+    "activity_type": "courageous"
+  },
+  {
+    "activity_id": 118,
+    "activity_name": " create",
+    "activity_type": "destroy"
+  },
+  {
+    "activity_id": 119,
+    "activity_name": "cruel",
+    "activity_type": " kind"
+  },
+  {
+    "activity_id": 120,
+    "activity_name": "cry ",
+    "activity_type": "laugh"
+  },
+  {
+    "activity_id": 121,
+    "activity_name": "damage",
+    "activity_type": "repair"
+  },
+  {
+    "activity_id": 122,
+    "activity_name": "danger",
+    "activity_type": "security"
+  },
+  {
+    "activity_id": 123,
+    "activity_name": "danger",
+    "activity_type": "safety"
+  },
+  {
+    "activity_id": 124,
+    "activity_name": "dangerous",
+    "activity_type": "safe"
+  },
+  {
+    "activity_id": 125,
+    "activity_name": "dark",
+    "activity_type": "light"
+  },
+  {
+    "activity_id": 126,
+    "activity_name": "daughter",
+    "activity_type": "son"
+  },
+  {
+    "activity_id": 127,
+    "activity_name": "dawn",
+    "activity_type": "dusk"
+  },
+  {
+    "activity_id": 128,
+    "activity_name": "day",
+    "activity_type": "night"
+  },
+  {
+    "activity_id": 129,
+    "activity_name": "dead",
+    "activity_type": "alive"
+  },
+  {
+    "activity_id": 130,
+    "activity_name": "death",
+    "activity_type": "birth"
+  },
+  {
+    "activity_id": 131,
+    "activity_name": "death",
+    "activity_type": " life"
+  },
+  {
+    "activity_id": 132,
+    "activity_name": "deep",
+    "activity_type": "shallow"
+  },
+  {
+    "activity_id": 133,
+    "activity_name": "defeat",
+    "activity_type": "victory"
+  },
+  {
+    "activity_id": 134,
+    "activity_name": "defence",
+    "activity_type": "attack"
+  },
+  {
+    "activity_id": 135,
+    "activity_name": "to defend",
+    "activity_type": "attack"
+  },
+  {
+    "activity_id": 136,
+    "activity_name": "delicious",
+    "activity_type": "awful"
+  },
+  {
+    "activity_id": 137,
+    "activity_name": "deny",
+    "activity_type": "admit"
+  },
+  {
+    "activity_id": 138,
+    "activity_name": "depart",
+    "activity_type": "arrive"
+  },
+  {
+    "activity_id": 139,
+    "activity_name": "departure",
+    "activity_type": "arrival"
+  },
+  {
+    "activity_id": 140,
+    "activity_name": "desperate",
+    "activity_type": "hopeful"
+  },
+  {
+    "activity_id": 141,
+    "activity_name": "destroy",
+    "activity_type": "build"
+  },
+  {
+    "activity_id": 142,
+    "activity_name": "destruction",
+    "activity_type": "construction"
+  },
+  {
+    "activity_id": 143,
+    "activity_name": "devil",
+    "activity_type": "angel"
+  },
+  {
+    "activity_id": 144,
+    "activity_name": "dictatorship",
+    "activity_type": "republic"
+  },
+  {
+    "activity_id": 145,
+    "activity_name": "die",
+    "activity_type": "live"
+  },
+  {
+    "activity_id": 146,
+    "activity_name": "different",
+    "activity_type": "alike"
+  },
+  {
+    "activity_id": 147,
+    "activity_name": "difficult",
+    "activity_type": "easy"
+  },
+  {
+    "activity_id": 148,
+    "activity_name": "dirty",
+    "activity_type": "clean"
+  },
+  {
+    "activity_id": 149,
+    "activity_name": "disease",
+    "activity_type": "health"
+  },
+  {
+    "activity_id": 150,
+    "activity_name": "distant",
+    "activity_type": "near"
+  },
+  {
+    "activity_id": 151,
+    "activity_name": "divide",
+    "activity_type": "unite"
+  },
+  {
+    "activity_id": 152,
+    "activity_name": "division",
+    "activity_type": "unity"
+  },
+  {
+    "activity_id": 153,
+    "activity_name": "divorce",
+    "activity_type": "marry"
+  },
+  {
+    "activity_id": 154,
+    "activity_name": "divorce",
+    "activity_type": "marriage"
+  },
+  {
+    "activity_id": 155,
+    "activity_name": "divorced",
+    "activity_type": "married"
+  },
+  {
+    "activity_id": 156,
+    "activity_name": "domestic",
+    "activity_type": "foreign"
+  },
+  {
+    "activity_id": 157,
+    "activity_name": "down",
+    "activity_type": "up"
+  },
+  {
+    "activity_id": 158,
+    "activity_name": "downstairs",
+    "activity_type": "upstairs"
+  },
+  {
+    "activity_id": 159,
+    "activity_name": "drama",
+    "activity_type": "comedy"
+  },
+  {
+    "activity_id": 160,
+    "activity_name": "dry",
+    "activity_type": " wet"
+  },
+  {
+    "activity_id": 161,
+    "activity_name": "dull",
+    "activity_type": "interesting"
+  },
+  {
+    "activity_id": 162,
+    "activity_name": "dusk",
+    "activity_type": "dawn"
+  },
+  {
+    "activity_id": 163,
+    "activity_name": "early",
+    "activity_type": "late"
+  },
+  {
+    "activity_id": 164,
+    "activity_name": "east",
+    "activity_type": "west"
+  },
+  {
+    "activity_id": 165,
+    "activity_name": "easy",
+    "activity_type": "difficult"
+  },
+  {
+    "activity_id": 166,
+    "activity_name": "elementary",
+    "activity_type": "advanced"
+  },
+  {
+    "activity_id": 167,
+    "activity_name": "to emigrate",
+    "activity_type": "to immigrate"
+  },
+  {
+    "activity_id": 168,
+    "activity_name": "emigration",
+    "activity_type": "immigration"
+  },
+  {
+    "activity_id": 169,
+    "activity_name": "empty",
+    "activity_type": "full"
+  },
+  {
+    "activity_id": 170,
+    "activity_name": "to end",
+    "activity_type": "to begin"
+  },
+  {
+    "activity_id": 171,
+    "activity_name": "end",
+    "activity_type": "beginning"
+  },
+  {
+    "activity_id": 172,
+    "activity_name": "ending",
+    "activity_type": "beginning"
+  },
+  {
+    "activity_id": 173,
+    "activity_name": "enemy",
+    "activity_type": "friend"
+  },
+  {
+    "activity_id": 174,
+    "activity_name": "to enjoy",
+    "activity_type": "to hate"
+  },
+  {
+    "activity_id": 175,
+    "activity_name": "to enter",
+    "activity_type": "to leave"
+  },
+  {
+    "activity_id": 176,
+    "activity_name": "entrance",
+    "activity_type": "exit"
+  },
+  {
+    "activity_id": 177,
+    "activity_name": "equal",
+    "activity_type": "different"
+  },
+  {
+    "activity_id": 178,
+    "activity_name": "even",
+    "activity_type": "odd"
+  },
+  {
+    "activity_id": 179,
+    "activity_name": "evening",
+    "activity_type": "morning"
+  },
+  {
+    "activity_id": 180,
+    "activity_name": "everybody",
+    "activity_type": "nobody"
+  },
+  {
+    "activity_id": 181,
+    "activity_name": "everything",
+    "activity_type": "nothing"
+  },
+  {
+    "activity_id": 182,
+    "activity_name": "exactly",
+    "activity_type": "approximately"
+  },
+  {
+    "activity_id": 183,
+    "activity_name": "excited",
+    "activity_type": "calm"
+  },
+  {
+    "activity_id": 184,
+    "activity_name": "exciting",
+    "activity_type": "boring"
+  },
+  {
+    "activity_id": 185,
+    "activity_name": "to exclude",
+    "activity_type": "to include"
+  },
+  {
+    "activity_id": 186,
+    "activity_name": "exit",
+    "activity_type": "entrance"
+  },
+  {
+    "activity_id": 187,
+    "activity_name": "expensive",
+    "activity_type": "cheap"
+  },
+  {
+    "activity_id": 188,
+    "activity_name": "export",
+    "activity_type": "import"
+  },
+  {
+    "activity_id": 189,
+    "activity_name": "exposure",
+    "activity_type": "shelter"
+  },
+  {
+    "activity_id": 190,
+    "activity_name": "extreme",
+    "activity_type": "moderate"
+  },
+  {
+    "activity_id": 191,
+    "activity_name": "fail",
+    "activity_type": " pass"
+  },
+  {
+    "activity_id": 192,
+    "activity_name": "failure",
+    "activity_type": "success"
+  },
+  {
+    "activity_id": 193,
+    "activity_name": "FALSE",
+    "activity_type": "TRUE"
+  },
+  {
+    "activity_id": 194,
+    "activity_name": "far",
+    "activity_type": "near"
+  },
+  {
+    "activity_id": 195,
+    "activity_name": "fast",
+    "activity_type": "slow"
+  },
+  {
+    "activity_id": 196,
+    "activity_name": "fat",
+    "activity_type": " thin"
+  },
+  {
+    "activity_id": 197,
+    "activity_name": "fear",
+    "activity_type": "courage"
+  },
+  {
+    "activity_id": 198,
+    "activity_name": "female",
+    "activity_type": "male"
+  },
+  {
+    "activity_id": 199,
+    "activity_name": "few",
+    "activity_type": "many"
+  },
+  {
+    "activity_id": 200,
+    "activity_name": "final",
+    "activity_type": "first"
+  },
+  {
+    "activity_id": 201,
+    "activity_name": "find",
+    "activity_type": "lose"
+  },
+  {
+    "activity_id": 202,
+    "activity_name": "finish",
+    "activity_type": "begin"
+  },
+  {
+    "activity_id": 203,
+    "activity_name": "finish",
+    "activity_type": "start"
+  },
+  {
+    "activity_id": 204,
+    "activity_name": "first",
+    "activity_type": " last"
+  },
+  {
+    "activity_id": 205,
+    "activity_name": " fix",
+    "activity_type": "break"
+  },
+  {
+    "activity_id": 206,
+    "activity_name": "flat",
+    "activity_type": "hilly"
+  },
+  {
+    "activity_id": 207,
+    "activity_name": "floor",
+    "activity_type": "ceiling"
+  },
+  {
+    "activity_id": 208,
+    "activity_name": " follow",
+    "activity_type": "lead"
+  },
+  {
+    "activity_id": 209,
+    "activity_name": "forbid",
+    "activity_type": "allow"
+  },
+  {
+    "activity_id": 210,
+    "activity_name": "for",
+    "activity_type": "against"
+  },
+  {
+    "activity_id": 211,
+    "activity_name": "foreground",
+    "activity_type": "background"
+  },
+  {
+    "activity_id": 212,
+    "activity_name": "foreign",
+    "activity_type": "domestic"
+  },
+  {
+    "activity_id": 213,
+    "activity_name": "foreigner",
+    "activity_type": "native"
+  },
+  {
+    "activity_id": 214,
+    "activity_name": "to forget",
+    "activity_type": "to remember"
+  },
+  {
+    "activity_id": 215,
+    "activity_name": "to form",
+    "activity_type": "to destroy"
+  },
+  {
+    "activity_id": 216,
+    "activity_name": "fortune",
+    "activity_type": "bad luck"
+  },
+  {
+    "activity_id": 217,
+    "activity_name": "forward",
+    "activity_type": "backward"
+  },
+  {
+    "activity_id": 218,
+    "activity_name": "to free",
+    "activity_type": "to arrest"
+  },
+  {
+    "activity_id": 219,
+    "activity_name": "to freeze",
+    "activity_type": "to melt"
+  },
+  {
+    "activity_id": 220,
+    "activity_name": "frequently",
+    "activity_type": "occasionally"
+  },
+  {
+    "activity_id": 221,
+    "activity_name": "fresh",
+    "activity_type": "stale"
+  },
+  {
+    "activity_id": 222,
+    "activity_name": "friend",
+    "activity_type": "enemy"
+  },
+  {
+    "activity_id": 223,
+    "activity_name": "front",
+    "activity_type": "rear"
+  },
+  {
+    "activity_id": 224,
+    "activity_name": " front ",
+    "activity_type": " behind"
+  },
+  {
+    "activity_id": 225,
+    "activity_name": "full",
+    "activity_type": "empty"
+  },
+  {
+    "activity_id": 226,
+    "activity_name": "funny",
+    "activity_type": "serious"
+  },
+  {
+    "activity_id": 227,
+    "activity_name": "future",
+    "activity_type": "past"
+  },
+  {
+    "activity_id": 228,
+    "activity_name": "general",
+    "activity_type": " special"
+  },
+  {
+    "activity_id": 229,
+    "activity_name": "generous",
+    "activity_type": "mean"
+  },
+  {
+    "activity_id": 230,
+    "activity_name": "gentle",
+    "activity_type": "violent"
+  },
+  {
+    "activity_id": 231,
+    "activity_name": "gentleman",
+    "activity_type": "lady"
+  },
+  {
+    "activity_id": 232,
+    "activity_name": "giant",
+    "activity_type": "tiny"
+  },
+  {
+    "activity_id": 233,
+    "activity_name": "girl",
+    "activity_type": "boy"
+  },
+  {
+    "activity_id": 234,
+    "activity_name": "give",
+    "activity_type": "take"
+  },
+  {
+    "activity_id": 235,
+    "activity_name": "go",
+    "activity_type": "come"
+  },
+  {
+    "activity_id": 236,
+    "activity_name": "good",
+    "activity_type": "bad"
+  },
+  {
+    "activity_id": 237,
+    "activity_name": "guest",
+    "activity_type": "host"
+  },
+  {
+    "activity_id": 238,
+    "activity_name": "guilty",
+    "activity_type": "innocent"
+  },
+  {
+    "activity_id": 239,
+    "activity_name": "happiness",
+    "activity_type": "sadness"
+  },
+  {
+    "activity_id": 240,
+    "activity_name": "happy",
+    "activity_type": "sad"
+  },
+  {
+    "activity_id": 241,
+    "activity_name": "handsome",
+    "activity_type": "ugly"
+  },
+  {
+    "activity_id": 242,
+    "activity_name": "hard",
+    "activity_type": "easy"
+  },
+  {
+    "activity_id": 243,
+    "activity_name": "harvest",
+    "activity_type": "plant"
+  },
+  {
+    "activity_id": 244,
+    "activity_name": "hate",
+    "activity_type": "love"
+  },
+  {
+    "activity_id": 245,
+    "activity_name": "health",
+    "activity_type": "disease"
+  },
+  {
+    "activity_id": 246,
+    "activity_name": "healthy",
+    "activity_type": " sick"
+  },
+  {
+    "activity_id": 247,
+    "activity_name": "heat",
+    "activity_type": "cold"
+  },
+  {
+    "activity_id": 248,
+    "activity_name": "heaven",
+    "activity_type": "hell"
+  },
+  {
+    "activity_id": 249,
+    "activity_name": "heavy",
+    "activity_type": "light"
+  },
+  {
+    "activity_id": 250,
+    "activity_name": "hell",
+    "activity_type": "heaven"
+  },
+  {
+    "activity_id": 251,
+    "activity_name": "here",
+    "activity_type": "there"
+  },
+  {
+    "activity_id": 252,
+    "activity_name": "high",
+    "activity_type": "deep"
+  },
+  {
+    "activity_id": 253,
+    "activity_name": "high",
+    "activity_type": "low"
+  },
+  {
+    "activity_id": 254,
+    "activity_name": "hilly",
+    "activity_type": "flat"
+  },
+  {
+    "activity_id": 255,
+    "activity_name": "to hit",
+    "activity_type": "to miss"
+  },
+  {
+    "activity_id": 256,
+    "activity_name": "hopeful",
+    "activity_type": "desperate",
+    "activity_desc": "hopeless"
+  },
+  {
+    "activity_id": 257,
+    "activity_name": "hopeless",
+    "activity_type": "hopeful"
+  },
+  {
+    "activity_id": 258,
+    "activity_name": "horizontal",
+    "activity_type": "vertical"
+  },
+  {
+    "activity_id": 259,
+    "activity_name": "host",
+    "activity_type": "guest",
+    "activity_desc": "visitor"
+  },
+  {
+    "activity_id": 260,
+    "activity_name": "hot",
+    "activity_type": "cold"
+  },
+  {
+    "activity_id": 261,
+    "activity_name": "huge",
+    "activity_type": "tiny"
+  },
+  {
+    "activity_id": 262,
+    "activity_name": "human",
+    "activity_type": "animal"
+  },
+  {
+    "activity_id": 263,
+    "activity_name": "humane",
+    "activity_type": "cruel"
+  },
+  {
+    "activity_id": 264,
+    "activity_name": "humid",
+    "activity_type": "dry"
+  },
+  {
+    "activity_id": 265,
+    "activity_name": "hungry",
+    "activity_type": "thirsty"
+  },
+  {
+    "activity_id": 266,
+    "activity_name": "husband",
+    "activity_type": "wife"
+  },
+  {
+    "activity_id": 267,
+    "activity_name": "ignore",
+    "activity_type": "notice"
+  },
+  {
+    "activity_id": 268,
+    "activity_name": "ill",
+    "activity_type": "healty"
+  },
+  {
+    "activity_id": 269,
+    "activity_name": "immigrate",
+    "activity_type": "emigrate"
+  },
+  {
+    "activity_id": 270,
+    "activity_name": "immigration",
+    "activity_type": "emigration"
+  },
+  {
+    "activity_id": 271,
+    "activity_name": "import",
+    "activity_type": "export"
+  },
+  {
+    "activity_id": 272,
+    "activity_name": "in",
+    "activity_type": "out"
+  },
+  {
+    "activity_id": 273,
+    "activity_name": "include",
+    "activity_type": "exclude"
+  },
+  {
+    "activity_id": 274,
+    "activity_name": "increase",
+    "activity_type": "reduce"
+  },
+  {
+    "activity_id": 275,
+    "activity_name": "innocent",
+    "activity_type": "guilty"
+  },
+  {
+    "activity_id": 276,
+    "activity_name": "inside",
+    "activity_type": "outside"
+  },
+  {
+    "activity_id": 277,
+    "activity_name": "insult",
+    "activity_type": "compliment"
+  },
+  {
+    "activity_id": 278,
+    "activity_name": "intelligent",
+    "activity_type": "stupid"
+  },
+  {
+    "activity_id": 279,
+    "activity_name": "intentional",
+    "activity_type": "accidental"
+  },
+  {
+    "activity_id": 280,
+    "activity_name": "interesting",
+    "activity_type": "boringl"
+  },
+  {
+    "activity_id": 281,
+    "activity_name": "interrupt",
+    "activity_type": "continue"
+  },
+  {
+    "activity_id": 282,
+    "activity_name": "junior",
+    "activity_type": "senior"
+  },
+  {
+    "activity_id": 283,
+    "activity_name": "kind",
+    "activity_type": "cruel"
+  },
+  {
+    "activity_id": 284,
+    "activity_name": "lack",
+    "activity_type": "plenty"
+  },
+  {
+    "activity_id": 285,
+    "activity_name": "lady",
+    "activity_type": "gentleman"
+  },
+  {
+    "activity_id": 286,
+    "activity_name": "land",
+    "activity_type": "take off"
+  },
+  {
+    "activity_id": 287,
+    "activity_name": "land",
+    "activity_type": "water"
+  },
+  {
+    "activity_id": 288,
+    "activity_name": "large",
+    "activity_type": "small"
+  },
+  {
+    "activity_id": 289,
+    "activity_name": "last",
+    "activity_type": "first"
+  },
+  {
+    "activity_id": 290,
+    "activity_name": "late",
+    "activity_type": "early"
+  },
+  {
+    "activity_id": 291,
+    "activity_name": "laugh",
+    "activity_type": "cry"
+  },
+  {
+    "activity_id": 292,
+    "activity_name": "lazy",
+    "activity_type": " busy"
+  },
+  {
+    "activity_id": 293,
+    "activity_name": "lead",
+    "activity_type": "follow"
+  },
+  {
+    "activity_id": 294,
+    "activity_name": "learn",
+    "activity_type": "teach"
+  },
+  {
+    "activity_id": 295,
+    "activity_name": "leave",
+    "activity_type": "arrive"
+  },
+  {
+    "activity_id": 296,
+    "activity_name": "left",
+    "activity_type": "right"
+  },
+  {
+    "activity_id": 297,
+    "activity_name": "lend",
+    "activity_type": " borrow"
+  },
+  {
+    "activity_id": 298,
+    "activity_name": "less",
+    "activity_type": "more"
+  },
+  {
+    "activity_id": 299,
+    "activity_name": "let",
+    "activity_type": "forbid"
+  },
+  {
+    "activity_id": 300,
+    "activity_name": "lie",
+    "activity_type": "stand"
+  },
+  {
+    "activity_id": 301,
+    "activity_name": "life",
+    "activity_type": "death"
+  },
+  {
+    "activity_id": 302,
+    "activity_name": "light",
+    "activity_type": "dark"
+  },
+  {
+    "activity_id": 303,
+    "activity_name": "like",
+    "activity_type": " hate"
+  },
+  {
+    "activity_id": 304,
+    "activity_name": "liquid",
+    "activity_type": "solid"
+  },
+  {
+    "activity_id": 305,
+    "activity_name": "little",
+    "activity_type": "big"
+  },
+  {
+    "activity_id": 306,
+    "activity_name": "little",
+    "activity_type": "much"
+  },
+  {
+    "activity_id": 307,
+    "activity_name": " live",
+    "activity_type": "die"
+  },
+  {
+    "activity_id": 308,
+    "activity_name": "long",
+    "activity_type": "short"
+  },
+  {
+    "activity_id": 309,
+    "activity_name": "lose",
+    "activity_type": "find"
+  },
+  {
+    "activity_id": 310,
+    "activity_name": "loser",
+    "activity_type": "winner"
+  },
+  {
+    "activity_id": 311,
+    "activity_name": "loud",
+    "activity_type": "quiet"
+  },
+  {
+    "activity_id": 312,
+    "activity_name": "to love",
+    "activity_type": "to hate"
+  },
+  {
+    "activity_id": 313,
+    "activity_name": "lovely",
+    "activity_type": "terrible"
+  },
+  {
+    "activity_id": 314,
+    "activity_name": "low",
+    "activity_type": "high"
+  },
+  {
+    "activity_id": 315,
+    "activity_name": "lower",
+    "activity_type": "raise"
+  },
+  {
+    "activity_id": 316,
+    "activity_name": "major",
+    "activity_type": "minor"
+  },
+  {
+    "activity_id": 317,
+    "activity_name": "male",
+    "activity_type": "female"
+  },
+  {
+    "activity_id": 318,
+    "activity_name": "man",
+    "activity_type": "woman"
+  },
+  {
+    "activity_id": 319,
+    "activity_name": "many",
+    "activity_type": "few",
+    "activity_desc": "some"
+  },
+  {
+    "activity_id": 320,
+    "activity_name": "marriage",
+    "activity_type": "divorce"
+  },
+  {
+    "activity_id": 321,
+    "activity_name": "married",
+    "activity_type": "single"
+  },
+  {
+    "activity_id": 322,
+    "activity_name": "marry",
+    "activity_type": "divorce"
+  },
+  {
+    "activity_id": 323,
+    "activity_name": "master",
+    "activity_type": "servant"
+  },
+  {
+    "activity_id": 324,
+    "activity_name": "maximum",
+    "activity_type": "minimum"
+  },
+  {
+    "activity_id": 325,
+    "activity_name": "mean",
+    "activity_type": "generous"
+  },
+  {
+    "activity_id": 326,
+    "activity_name": "melt",
+    "activity_type": "freeze"
+  },
+  {
+    "activity_id": 327,
+    "activity_name": "men",
+    "activity_type": "women"
+  },
+  {
+    "activity_id": 328,
+    "activity_name": "mend",
+    "activity_type": "break"
+  },
+  {
+    "activity_id": 329,
+    "activity_name": "mess",
+    "activity_type": "order"
+  },
+  {
+    "activity_id": 330,
+    "activity_name": "midnight",
+    "activity_type": "noon"
+  },
+  {
+    "activity_id": 331,
+    "activity_name": "minimum",
+    "activity_type": "maximum"
+  },
+  {
+    "activity_id": 332,
+    "activity_name": "minor",
+    "activity_type": "major"
+  },
+  {
+    "activity_id": 333,
+    "activity_name": "miss",
+    "activity_type": " catch"
+  },
+  {
+    "activity_id": 334,
+    "activity_name": "moderate",
+    "activity_type": "extreme"
+  },
+  {
+    "activity_id": 335,
+    "activity_name": "modern",
+    "activity_type": "ancient"
+  },
+  {
+    "activity_id": 336,
+    "activity_name": "monarchy",
+    "activity_type": "republic"
+  },
+  {
+    "activity_id": 337,
+    "activity_name": "moon",
+    "activity_type": "sun"
+  },
+  {
+    "activity_id": 338,
+    "activity_name": "more",
+    "activity_type": "less"
+  },
+  {
+    "activity_id": 339,
+    "activity_name": "morning",
+    "activity_type": "evening"
+  },
+  {
+    "activity_id": 340,
+    "activity_name": "mountain",
+    "activity_type": "valley"
+  },
+  {
+    "activity_id": 341,
+    "activity_name": "much",
+    "activity_type": "little"
+  },
+  {
+    "activity_id": 342,
+    "activity_name": "narrow",
+    "activity_type": "wide"
+  },
+  {
+    "activity_id": 343,
+    "activity_name": "nasty",
+    "activity_type": " pleasant"
+  },
+  {
+    "activity_id": 344,
+    "activity_name": "native",
+    "activity_type": "foreigner"
+  },
+  {
+    "activity_id": 345,
+    "activity_name": "natural",
+    "activity_type": "artificial"
+  },
+  {
+    "activity_id": 346,
+    "activity_name": "near",
+    "activity_type": " far"
+  },
+  {
+    "activity_id": 347,
+    "activity_name": "negative",
+    "activity_type": "affirmative"
+  },
+  {
+    "activity_id": 348,
+    "activity_name": "nephew",
+    "activity_type": "niece"
+  },
+  {
+    "activity_id": 349,
+    "activity_name": "never",
+    "activity_type": "always"
+  },
+  {
+    "activity_id": 350,
+    "activity_name": "new",
+    "activity_type": " old"
+  },
+  {
+    "activity_id": 351,
+    "activity_name": "nice",
+    "activity_type": "nasty"
+  },
+  {
+    "activity_id": 352,
+    "activity_name": "niece",
+    "activity_type": "nephew"
+  },
+  {
+    "activity_id": 353,
+    "activity_name": "night",
+    "activity_type": "day"
+  },
+  {
+    "activity_id": 354,
+    "activity_name": "no",
+    "activity_type": "yes"
+  },
+  {
+    "activity_id": 355,
+    "activity_name": "nobody",
+    "activity_type": "everybody"
+  },
+  {
+    "activity_id": 356,
+    "activity_name": "noisy",
+    "activity_type": " silent"
+  },
+  {
+    "activity_id": 357,
+    "activity_name": "noon",
+    "activity_type": "midnight"
+  },
+  {
+    "activity_id": 358,
+    "activity_name": "none of",
+    "activity_type": "al lof"
+  },
+  {
+    "activity_id": 359,
+    "activity_name": "normal",
+    "activity_type": "strange"
+  },
+  {
+    "activity_id": 360,
+    "activity_name": "north",
+    "activity_type": "south"
+  },
+  {
+    "activity_id": 361,
+    "activity_name": "not yet",
+    "activity_type": "already"
+  },
+  {
+    "activity_id": 362,
+    "activity_name": "nothing",
+    "activity_type": "everything"
+  },
+  {
+    "activity_id": 363,
+    "activity_name": " notice",
+    "activity_type": " ignore"
+  },
+  {
+    "activity_id": 364,
+    "activity_name": "now",
+    "activity_type": "then"
+  },
+  {
+    "activity_id": 365,
+    "activity_name": "occasionally",
+    "activity_type": "frequently"
+  },
+  {
+    "activity_id": 366,
+    "activity_name": "occupied",
+    "activity_type": "vacant"
+  },
+  {
+    "activity_id": 367,
+    "activity_name": "odd",
+    "activity_type": "even"
+  },
+  {
+    "activity_id": 368,
+    "activity_name": "off",
+    "activity_type": "on"
+  },
+  {
+    "activity_id": 369,
+    "activity_name": "often",
+    "activity_type": "seldom"
+  },
+  {
+    "activity_id": 370,
+    "activity_name": "old",
+    "activity_type": " new"
+  },
+  {
+    "activity_id": 371,
+    "activity_name": "on",
+    "activity_type": "off"
+  },
+  {
+    "activity_id": 372,
+    "activity_name": "open",
+    "activity_type": "shut"
+  },
+  {
+    "activity_id": 373,
+    "activity_name": "open",
+    "activity_type": "closed"
+  },
+  {
+    "activity_id": 374,
+    "activity_name": "opponent",
+    "activity_type": "supporter"
+  },
+  {
+    "activity_id": 375,
+    "activity_name": "order",
+    "activity_type": "mess"
+  },
+  {
+    "activity_id": 376,
+    "activity_name": "ordinary",
+    "activity_type": "special"
+  },
+  {
+    "activity_id": 377,
+    "activity_name": "other",
+    "activity_type": "same"
+  },
+  {
+    "activity_id": 378,
+    "activity_name": "out",
+    "activity_type": "in"
+  },
+  {
+    "activity_id": 379,
+    "activity_name": "outside",
+    "activity_type": "inside"
+  },
+  {
+    "activity_id": 380,
+    "activity_name": "outskirts",
+    "activity_type": "centre"
+  },
+  {
+    "activity_id": 381,
+    "activity_name": "over",
+    "activity_type": "under"
+  },
+  {
+    "activity_id": 382,
+    "activity_name": "parents",
+    "activity_type": "children"
+  },
+  {
+    "activity_id": 383,
+    "activity_name": "part",
+    "activity_type": "whole"
+  },
+  {
+    "activity_id": 384,
+    "activity_name": "partial",
+    "activity_type": "total"
+  },
+  {
+    "activity_id": 385,
+    "activity_name": "particular",
+    "activity_type": "general"
+  },
+  {
+    "activity_id": 386,
+    "activity_name": "pass",
+    "activity_type": "fail"
+  },
+  {
+    "activity_id": 387,
+    "activity_name": "past",
+    "activity_type": "future"
+  },
+  {
+    "activity_id": 388,
+    "activity_name": "peace",
+    "activity_type": "war"
+  },
+  {
+    "activity_id": 389,
+    "activity_name": "permit",
+    "activity_type": "forbid"
+  },
+  {
+    "activity_id": 390,
+    "activity_name": "plant",
+    "activity_type": "harvest"
+  },
+  {
+    "activity_id": 391,
+    "activity_name": "plenty",
+    "activity_type": "lack"
+  },
+  {
+    "activity_id": 392,
+    "activity_name": "pleasant",
+    "activity_type": "awful"
+  },
+  {
+    "activity_id": 393,
+    "activity_name": "polite",
+    "activity_type": "rude"
+  },
+  {
+    "activity_id": 394,
+    "activity_name": "poor",
+    "activity_type": "rich"
+  },
+  {
+    "activity_id": 395,
+    "activity_name": "poverty",
+    "activity_type": "wealth"
+  },
+  {
+    "activity_id": 396,
+    "activity_name": "powerful",
+    "activity_type": "weak"
+  },
+  {
+    "activity_id": 397,
+    "activity_name": "presence",
+    "activity_type": "absence"
+  },
+  {
+    "activity_id": 398,
+    "activity_name": "present",
+    "activity_type": "past"
+  },
+  {
+    "activity_id": 399,
+    "activity_name": "pretty",
+    "activity_type": "ugly"
+  },
+  {
+    "activity_id": 400,
+    "activity_name": "private",
+    "activity_type": "public"
+  },
+  {
+    "activity_id": 401,
+    "activity_name": "probably",
+    "activity_type": "certainly"
+  },
+  {
+    "activity_id": 402,
+    "activity_name": "professional",
+    "activity_type": "amateur"
+  },
+  {
+    "activity_id": 403,
+    "activity_name": "protect",
+    "activity_type": "attack"
+  },
+  {
+    "activity_id": 404,
+    "activity_name": "protection",
+    "activity_type": "attack"
+  },
+  {
+    "activity_id": 405,
+    "activity_name": "public",
+    "activity_type": "private"
+  },
+  {
+    "activity_id": 406,
+    "activity_name": "pull",
+    "activity_type": "push"
+  },
+  {
+    "activity_id": 407,
+    "activity_name": "pupil",
+    "activity_type": "teacher"
+  },
+  {
+    "activity_id": 408,
+    "activity_name": "push",
+    "activity_type": "pull"
+  },
+  {
+    "activity_id": 409,
+    "activity_name": "question",
+    "activity_type": "answer"
+  },
+  {
+    "activity_id": 410,
+    "activity_name": "quick",
+    "activity_type": "slow"
+  },
+  {
+    "activity_id": 411,
+    "activity_name": "quiet",
+    "activity_type": "loud",
+    "activity_desc": "noisy"
+  },
+  {
+    "activity_id": 412,
+    "activity_name": "raise",
+    "activity_type": "lower"
+  },
+  {
+    "activity_id": 413,
+    "activity_name": "rainy",
+    "activity_type": "sunny"
+  },
+  {
+    "activity_id": 414,
+    "activity_name": "rear",
+    "activity_type": "front"
+  },
+  {
+    "activity_id": 415,
+    "activity_name": "receive",
+    "activity_type": "send"
+  },
+  {
+    "activity_id": 416,
+    "activity_name": "reduce",
+    "activity_type": "increase"
+  },
+  {
+    "activity_id": 417,
+    "activity_name": "refuse",
+    "activity_type": "agree"
+  },
+  {
+    "activity_id": 418,
+    "activity_name": "regret",
+    "activity_type": "satisfaction"
+  },
+  {
+    "activity_id": 419,
+    "activity_name": "remember",
+    "activity_type": "forget"
+  },
+  {
+    "activity_id": 420,
+    "activity_name": "repair",
+    "activity_type": "damage"
+  },
+  {
+    "activity_id": 421,
+    "activity_name": "reply",
+    "activity_type": "ask"
+  },
+  {
+    "activity_id": 422,
+    "activity_name": "reply",
+    "activity_type": "question"
+  },
+  {
+    "activity_id": 423,
+    "activity_name": "republic",
+    "activity_type": "dictatorship"
+  },
+  {
+    "activity_id": 424,
+    "activity_name": "rest",
+    "activity_type": "work"
+  },
+  {
+    "activity_id": 425,
+    "activity_name": "rich",
+    "activity_type": "poor"
+  },
+  {
+    "activity_id": 426,
+    "activity_name": "right",
+    "activity_type": "wrong"
+  },
+  {
+    "activity_id": 427,
+    "activity_name": "rise",
+    "activity_type": "sink"
+  },
+  {
+    "activity_id": 428,
+    "activity_name": "rough",
+    "activity_type": "gentle"
+  },
+  {
+    "activity_id": 429,
+    "activity_name": "rude",
+    "activity_type": "polite"
+  },
+  {
+    "activity_id": 430,
+    "activity_name": "rural",
+    "activity_type": "urban"
+  },
+  {
+    "activity_id": 431,
+    "activity_name": "sad",
+    "activity_type": "happy"
+  },
+  {
+    "activity_id": 432,
+    "activity_name": "sadness",
+    "activity_type": "happiness"
+  },
+  {
+    "activity_id": 433,
+    "activity_name": "safe",
+    "activity_type": "dangerous"
+  },
+  {
+    "activity_id": 434,
+    "activity_name": "safety",
+    "activity_type": "danger"
+  },
+  {
+    "activity_id": 435,
+    "activity_name": "salt",
+    "activity_type": "sugar"
+  },
+  {
+    "activity_id": 436,
+    "activity_name": "same",
+    "activity_type": "different"
+  },
+  {
+    "activity_id": 437,
+    "activity_name": "satisfaction",
+    "activity_type": "regret"
+  },
+  {
+    "activity_id": 438,
+    "activity_name": "satisfy",
+    "activity_type": "annoy"
+  },
+  {
+    "activity_id": 439,
+    "activity_name": "save",
+    "activity_type": "waste"
+  },
+  {
+    "activity_id": 440,
+    "activity_name": "scream",
+    "activity_type": "whisper"
+  },
+  {
+    "activity_id": 441,
+    "activity_name": "security",
+    "activity_type": "danger"
+  },
+  {
+    "activity_id": 442,
+    "activity_name": "seldom",
+    "activity_type": "often"
+  },
+  {
+    "activity_id": 443,
+    "activity_name": "sell",
+    "activity_type": "buy"
+  },
+  {
+    "activity_id": 444,
+    "activity_name": "send",
+    "activity_type": "receive"
+  },
+  {
+    "activity_id": 445,
+    "activity_name": "senior",
+    "activity_type": "junior"
+  },
+  {
+    "activity_id": 446,
+    "activity_name": "separate",
+    "activity_type": "unite"
+  },
+  {
+    "activity_id": 447,
+    "activity_name": "serious",
+    "activity_type": "funny"
+  },
+  {
+    "activity_id": 448,
+    "activity_name": "servant",
+    "activity_type": "master"
+  },
+  {
+    "activity_id": 449,
+    "activity_name": "to set free",
+    "activity_type": "to arrest"
+  },
+  {
+    "activity_id": 450,
+    "activity_name": "shallow",
+    "activity_type": "deep"
+  },
+  {
+    "activity_id": 451,
+    "activity_name": "sharp",
+    "activity_type": "blunt"
+  },
+  {
+    "activity_id": 452,
+    "activity_name": "shelter",
+    "activity_type": "exposure"
+  },
+  {
+    "activity_id": 453,
+    "activity_name": "short",
+    "activity_type": "long"
+  },
+  {
+    "activity_id": 454,
+    "activity_name": "shout",
+    "activity_type": "whisper"
+  },
+  {
+    "activity_id": 455,
+    "activity_name": "shut",
+    "activity_type": "open"
+  },
+  {
+    "activity_id": 456,
+    "activity_name": "sick",
+    "activity_type": "healthy"
+  },
+  {
+    "activity_id": 457,
+    "activity_name": "silent",
+    "activity_type": "noisy"
+  },
+  {
+    "activity_id": 458,
+    "activity_name": "silly",
+    "activity_type": "intelligent"
+  },
+  {
+    "activity_id": 459,
+    "activity_name": "simple",
+    "activity_type": "complicated"
+  },
+  {
+    "activity_id": 460,
+    "activity_name": "sink",
+    "activity_type": "rise"
+  },
+  {
+    "activity_id": 461,
+    "activity_name": "single",
+    "activity_type": "married"
+  },
+  {
+    "activity_id": 462,
+    "activity_name": "sister",
+    "activity_type": "brother"
+  },
+  {
+    "activity_id": 463,
+    "activity_name": "slim",
+    "activity_type": "fat"
+  },
+  {
+    "activity_id": 464,
+    "activity_name": "slow",
+    "activity_type": "fast"
+  },
+  {
+    "activity_id": 465,
+    "activity_name": "small",
+    "activity_type": "big"
+  },
+  {
+    "activity_id": 466,
+    "activity_name": "smooth",
+    "activity_type": "rough"
+  },
+  {
+    "activity_id": 467,
+    "activity_name": "soft",
+    "activity_type": "hard"
+  },
+  {
+    "activity_id": 468,
+    "activity_name": "solid",
+    "activity_type": "liquid"
+  },
+  {
+    "activity_id": 469,
+    "activity_name": "some",
+    "activity_type": "many"
+  },
+  {
+    "activity_id": 470,
+    "activity_name": "sometimes",
+    "activity_type": "often"
+  },
+  {
+    "activity_id": 471,
+    "activity_name": "son",
+    "activity_type": "daughter"
+  },
+  {
+    "activity_id": 472,
+    "activity_name": "soul",
+    "activity_type": "body"
+  },
+  {
+    "activity_id": 473,
+    "activity_name": "sour",
+    "activity_type": "sweet"
+  },
+  {
+    "activity_id": 474,
+    "activity_name": "south",
+    "activity_type": "north"
+  },
+  {
+    "activity_id": 475,
+    "activity_name": "special",
+    "activity_type": "general"
+  },
+  {
+    "activity_id": 476,
+    "activity_name": "spring",
+    "activity_type": "autumn"
+  },
+  {
+    "activity_id": 477,
+    "activity_name": "stand",
+    "activity_type": "sit"
+  },
+  {
+    "activity_id": 478,
+    "activity_name": "start",
+    "activity_type": "stop"
+  },
+  {
+    "activity_id": 479,
+    "activity_name": "stop",
+    "activity_type": "start"
+  },
+  {
+    "activity_id": 480,
+    "activity_name": "stand",
+    "activity_type": "lie"
+  },
+  {
+    "activity_id": 481,
+    "activity_name": "strange",
+    "activity_type": "normal"
+  },
+  {
+    "activity_id": 482,
+    "activity_name": "stranger",
+    "activity_type": "native"
+  },
+  {
+    "activity_id": 483,
+    "activity_name": "strict",
+    "activity_type": "gentle"
+  },
+  {
+    "activity_id": 484,
+    "activity_name": "strong",
+    "activity_type": "weak"
+  },
+  {
+    "activity_id": 485,
+    "activity_name": "student",
+    "activity_type": "teacher"
+  },
+  {
+    "activity_id": 486,
+    "activity_name": "stupid",
+    "activity_type": " intelligent"
+  },
+  {
+    "activity_id": 487,
+    "activity_name": "suburb",
+    "activity_type": "centre"
+  },
+  {
+    "activity_id": 488,
+    "activity_name": "to succeed",
+    "activity_type": "to fail"
+  },
+  {
+    "activity_id": 489,
+    "activity_name": "success",
+    "activity_type": "failure"
+  },
+  {
+    "activity_id": 490,
+    "activity_name": "subtract",
+    "activity_type": "add"
+  },
+  {
+    "activity_id": 491,
+    "activity_name": "sugar",
+    "activity_type": "salt"
+  },
+  {
+    "activity_id": 492,
+    "activity_name": "summer",
+    "activity_type": "winter"
+  },
+  {
+    "activity_id": 493,
+    "activity_name": "sun",
+    "activity_type": "moon"
+  },
+  {
+    "activity_id": 494,
+    "activity_name": "sunny",
+    "activity_type": "rainy"
+  },
+  {
+    "activity_id": 495,
+    "activity_name": "supporter",
+    "activity_type": "opponent"
+  },
+  {
+    "activity_id": 496,
+    "activity_name": "suspect",
+    "activity_type": "trust"
+  },
+  {
+    "activity_id": 497,
+    "activity_name": "sweet",
+    "activity_type": "bitter"
+  },
+  {
+    "activity_id": 498,
+    "activity_name": "synonym",
+    "activity_type": "antonym"
+  },
+  {
+    "activity_id": 499,
+    "activity_name": "take",
+    "activity_type": "give"
+  },
+  {
+    "activity_id": 500,
+    "activity_name": "take off",
+    "activity_type": "land"
+  },
+  {
+    "activity_id": 501,
+    "activity_name": "tall",
+    "activity_type": "short"
+  },
+  {
+    "activity_id": 502,
+    "activity_name": "teach",
+    "activity_type": " learn"
+  },
+  {
+    "activity_id": 503,
+    "activity_name": "teacher",
+    "activity_type": "student"
+  },
+  {
+    "activity_id": 504,
+    "activity_name": "then",
+    "activity_type": "now"
+  },
+  {
+    "activity_id": 505,
+    "activity_name": "terrible",
+    "activity_type": "lovely"
+  },
+  {
+    "activity_id": 506,
+    "activity_name": "there",
+    "activity_type": "here"
+  },
+  {
+    "activity_id": 507,
+    "activity_name": "thick",
+    "activity_type": "thin"
+  },
+  {
+    "activity_id": 508,
+    "activity_name": "thin",
+    "activity_type": "thick"
+  },
+  {
+    "activity_id": 509,
+    "activity_name": "thirsty",
+    "activity_type": "hungry"
+  },
+  {
+    "activity_id": 510,
+    "activity_name": "to throw",
+    "activity_type": "catch"
+  },
+  {
+    "activity_id": 511,
+    "activity_name": "tight",
+    "activity_type": "loose"
+  },
+  {
+    "activity_id": 512,
+    "activity_name": "tiny",
+    "activity_type": "huge"
+  },
+  {
+    "activity_id": 513,
+    "activity_name": "together",
+    "activity_type": "apart"
+  },
+  {
+    "activity_id": 514,
+    "activity_name": "tomorrow",
+    "activity_type": "yesterday"
+  },
+  {
+    "activity_id": 515,
+    "activity_name": "top",
+    "activity_type": "bottom"
+  },
+  {
+    "activity_id": 516,
+    "activity_name": "total",
+    "activity_type": "partial"
+  },
+  {
+    "activity_id": 517,
+    "activity_name": "town",
+    "activity_type": "village"
+  },
+  {
+    "activity_id": 518,
+    "activity_name": "tragedy",
+    "activity_type": "comedy"
+  },
+  {
+    "activity_id": 519,
+    "activity_name": "TRUE",
+    "activity_type": "FALSE"
+  },
+  {
+    "activity_id": 520,
+    "activity_name": "trust",
+    "activity_type": "suspect"
+  },
+  {
+    "activity_id": 521,
+    "activity_name": "ugliness",
+    "activity_type": "beauty"
+  },
+  {
+    "activity_id": 522,
+    "activity_name": "ugly",
+    "activity_type": "beautiful"
+  },
+  {
+    "activity_id": 523,
+    "activity_name": "under",
+    "activity_type": "over"
+  },
+  {
+    "activity_id": 524,
+    "activity_name": "unite",
+    "activity_type": "divide"
+  },
+  {
+    "activity_id": 525,
+    "activity_name": "unity",
+    "activity_type": "division"
+  },
+  {
+    "activity_id": 526,
+    "activity_name": "up",
+    "activity_type": "down"
+  },
+  {
+    "activity_id": 527,
+    "activity_name": "upstairs",
+    "activity_type": "downstairs"
+  },
+  {
+    "activity_id": 528,
+    "activity_name": "urban",
+    "activity_type": "rural"
+  },
+  {
+    "activity_id": 529,
+    "activity_name": "useful",
+    "activity_type": "useless"
+  },
+  {
+    "activity_id": 530,
+    "activity_name": "useless",
+    "activity_type": "useful"
+  },
+  {
+    "activity_id": 531,
+    "activity_name": "vacant",
+    "activity_type": "occupied"
+  },
+  {
+    "activity_id": 532,
+    "activity_name": "valley",
+    "activity_type": "mountain"
+  },
+  {
+    "activity_id": 533,
+    "activity_name": "vertical",
+    "activity_type": "horizontal"
+  },
+  {
+    "activity_id": 534,
+    "activity_name": "victory",
+    "activity_type": "defeat"
+  },
+  {
+    "activity_id": 535,
+    "activity_name": "village",
+    "activity_type": "town"
+  },
+  {
+    "activity_id": 536,
+    "activity_name": "violent",
+    "activity_type": "gentle"
+  },
+  {
+    "activity_id": 537,
+    "activity_name": "visitor",
+    "activity_type": "host"
+  },
+  {
+    "activity_id": 538,
+    "activity_name": "voluntary",
+    "activity_type": "compulsory"
+  },
+  {
+    "activity_id": 539,
+    "activity_name": "vowel",
+    "activity_type": "consonant"
+  },
+  {
+    "activity_id": 540,
+    "activity_name": "war",
+    "activity_type": "peace"
+  },
+  {
+    "activity_id": 541,
+    "activity_name": "warm",
+    "activity_type": "cool"
+  },
+  {
+    "activity_id": 542,
+    "activity_name": "to waste",
+    "activity_type": "to save"
+  },
+  {
+    "activity_id": 543,
+    "activity_name": "water",
+    "activity_type": "land"
+  },
+  {
+    "activity_id": 544,
+    "activity_name": "weak",
+    "activity_type": "strong"
+  },
+  {
+    "activity_id": 545,
+    "activity_name": "wealth",
+    "activity_type": "poverty"
+  },
+  {
+    "activity_id": 546,
+    "activity_name": "wealthy",
+    "activity_type": "poor"
+  },
+  {
+    "activity_id": 547,
+    "activity_name": "wedding",
+    "activity_type": "divorce"
+  },
+  {
+    "activity_id": 548,
+    "activity_name": "well",
+    "activity_type": "ill"
+  },
+  {
+    "activity_id": 549,
+    "activity_name": "west",
+    "activity_type": "east"
+  },
+  {
+    "activity_id": 550,
+    "activity_name": "wet",
+    "activity_type": "dry"
+  },
+  {
+    "activity_id": 551,
+    "activity_name": "whisper",
+    "activity_type": "scream"
+  },
+  {
+    "activity_id": 552,
+    "activity_name": "white",
+    "activity_type": "black"
+  },
+  {
+    "activity_id": 553,
+    "activity_name": "whole",
+    "activity_type": "part"
+  },
+  {
+    "activity_id": 554,
+    "activity_name": "wide",
+    "activity_type": "narrow"
+  },
+  {
+    "activity_id": 555,
+    "activity_name": "wife",
+    "activity_type": "husband"
+  },
+  {
+    "activity_id": 556,
+    "activity_name": "win",
+    "activity_type": "lose"
+  },
+  {
+    "activity_id": 557,
+    "activity_name": "winner",
+    "activity_type": "loser"
+  },
+  {
+    "activity_id": 558,
+    "activity_name": "winter",
+    "activity_type": "summer"
+  },
+  {
+    "activity_id": 559,
+    "activity_name": "work",
+    "activity_type": "rest"
+  },
+  {
+    "activity_id": 560,
+    "activity_name": "woman",
+    "activity_type": "man"
+  },
+  {
+    "activity_id": 561,
+    "activity_name": "women",
+    "activity_type": "men"
+  },
+  {
+    "activity_id": 562,
+    "activity_name": "worse",
+    "activity_type": "better"
+  },
+  {
+    "activity_id": 563,
+    "activity_name": "worst",
+    "activity_type": "best"
+  },
+  {
+    "activity_id": 564,
+    "activity_name": "wrong",
+    "activity_type": " right"
+  },
+  {
+    "activity_id": 565,
+    "activity_name": "yes",
+    "activity_type": "no"
+  },
+  {
+    "activity_id": 566,
+    "activity_name": "yesterday",
+    "activity_type": "tomorrow"
+  },
+  {
+    "activity_id": 567,
+    "activity_name": "young",
+    "activity_type": "old"
+  },
+  {
+    "activity_id": 568,
+    "activity_name": "terrible",
+    "activity_type": "wonderful"
+  },
+  {
+    "activity_id": 569,
+    "activity_name": "crazy",
+    "activity_type": "smart"
+  },
+  {
+    "activity_id": 570,
+    "activity_name": "foolish",
+    "activity_type": "clever"
+  },
+  {
+    "activity_id": 571,
+    "activity_name": "clever",
+    "activity_type": "foolish"
+  },
+  {
+    "activity_id": 572,
+    "activity_name": "confident",
+    "activity_type": "shy"
+  },
+  {
+    "activity_id": 573,
+    "activity_name": "shy",
+    "activity_type": "confident"
+  },
+  {
+    "activity_id": 574,
+    "activity_name": "shabby",
+    "activity_type": "splendid"
+  },
+  {
+    "activity_id": 575,
+    "activity_name": "splendid",
+    "activity_type": "shabby"
+  },
+  {
+    "activity_id": 576,
+    "activity_name": "delayed",
+    "activity_type": "in hurry"
+  },
+  {
+    "activity_id": 577,
+    "activity_name": "calm",
+    "activity_type": "violent"
+  },
+  {
+    "activity_id": 578,
+    "activity_name": "powerfull",
+    "activity_type": "weak"
+  },
+  {
+    "activity_id": 579,
+    "activity_name": "ill-timed",
+    "activity_type": "well-timed"
+  },
+  {
+    "activity_id": 580,
+    "activity_name": "young",
+    "activity_type": "old"
+  },
+  {
+    "activity_id": 581,
+    "activity_name": "intelligent",
+    "activity_type": "idiotic"
+  },
+  {
+    "activity_id": 582,
+    "activity_name": "rich",
+    "activity_type": "poor"
+  },
+  {
+    "activity_id": 583,
+    "activity_name": "traditional",
+    "activity_type": "untraditional"
+  },
+  {
+    "activity_id": 584,
+    "activity_name": "courageous",
+    "activity_type": "cowardly"
+  },
+  {
+    "activity_id": 585,
+    "activity_name": "excellent",
+    "activity_type": "ordinary"
+  },
+  {
+    "activity_id": 586,
+    "activity_name": "excellent",
+    "activity_type": "ordinary"
+  },
+  {
+    "activity_id": 587,
+    "activity_name": "brilliant",
+    "activity_type": "dull"
+  },
+  {
+    "activity_id": 588,
+    "activity_name": "splendid",
+    "activity_type": "shabby"
+  },
+  {
+    "activity_id": 589,
+    "activity_name": "fantastic",
+    "activity_type": "conventional"
+  },
+  {
+    "activity_id": 590,
+    "activity_name": "magnificent",
+    "activity_type": "offensive"
+  },
+  {
+    "activity_id": 591,
+    "activity_name": "terrible",
+    "activity_type": "wonderful"
+  },
+  {
+    "activity_id": 592,
+    "activity_name": "funny",
+    "activity_type": "serious"
+  },
+  {
+    "activity_id": 593,
+    "activity_name": "amusing",
+    "activity_type": "hate"
+  },
+  {
+    "activity_id": 594,
+    "activity_name": "entertaining",
+    "activity_type": "depressing"
+  },
+  {
+    "activity_id": 595,
+    "activity_name": "noisy",
+    "activity_type": "quiet"
+  },
+  {
+    "activity_id": 596,
+    "activity_name": "quiet",
+    "activity_type": "loud"
+  },
+  {
+    "activity_id": 597,
+    "activity_name": "attractive",
+    "activity_type": "unattractive"
+  },
+  {
+    "activity_id": 598,
+    "activity_name": "blushing",
+    "activity_type": "arrogant"
+  },
+  {
+    "activity_id": 599,
+    "activity_name": "colorful",
+    "activity_type": "colorless"
+  },
+  {
+    "activity_id": 600,
+    "activity_name": "weak",
+    "activity_type": "strong"
+  },
+  {
+    "activity_id": 601,
+    "activity_name": "strong",
+    "activity_type": "weak"
+  },
+  {
+    "activity_id": 602,
+    "activity_name": "doubtful",
+    "activity_type": "confirmed"
+  },
+  {
+    "activity_id": 603,
+    "activity_name": "confused",
+    "activity_type": "clear"
+  },
+  {
+    "activity_id": 604,
+    "activity_name": "puzzled",
+    "activity_type": "unpuzzled"
+  },
+  {
+    "activity_id": 605,
+    "activity_name": "careful",
+    "activity_type": "careless"
+  },
+  {
+    "activity_id": 606,
+    "activity_name": "concerned",
+    "activity_type": "unconcerned"
+  },
+  {
+    "activity_id": 607,
+    "activity_name": "guilty",
+    "activity_type": "innocent"
+  },
+  {
+    "activity_id": 608,
+    "activity_name": "crazy",
+    "activity_type": "smart"
+  },
+  {
+    "activity_id": 609,
+    "activity_name": "silly",
+    "activity_type": "wise"
+  },
+  {
+    "activity_id": 610,
+    "activity_name": "old-fashioned",
+    "activity_type": "modern"
+  },
+  {
+    "activity_id": 611,
+    "activity_name": "traditional",
+    "activity_type": "untraditional"
+  },
+  {
+    "activity_id": 612,
+    "activity_name": "old-fashioned",
+    "activity_type": "modern"
+  },
+  {
+    "activity_id": 613,
+    "activity_name": "traditional",
+    "activity_type": "untraditional"
+  },
+  {
+    "activity_id": 614,
+    "activity_name": "late",
+    "activity_type": "early"
+  },
+  {
+    "activity_id": 615,
+    "activity_name": "early",
+    "activity_type": "late"
+  },
+  {
+    "activity_id": 616,
+    "activity_name": "punctual",
+    "activity_type": "late"
+  },
+  {
+    "activity_id": 617,
+    "activity_name": "old",
+    "activity_type": "young"
+  },
+  {
+    "activity_id": 618,
+    "activity_name": "young",
+    "activity_type": "old"
+  }
+]

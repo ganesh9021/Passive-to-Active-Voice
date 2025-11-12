@@ -1,0 +1,597 @@
+[
+  {
+    "activity_id": 1,
+    "activity_name": "blue",
+    "activity_type": "color"
+  },
+  {
+    "activity_id": 2,
+    "activity_name": "red",
+    "activity_type": "color"
+  },
+  {
+    "activity_id": 3,
+    "activity_name": " green",
+    "activity_type": "color"
+  },
+  {
+    "activity_id": 4,
+    "activity_name": " brown",
+    "activity_type": "color"
+  },
+  {
+    "activity_id": 5,
+    "activity_name": " yellow",
+    "activity_type": "color"
+  },
+  {
+    "activity_id": 6,
+    "activity_name": " black",
+    "activity_type": "color"
+  },
+  {
+    "activity_id": 7,
+    "activity_name": "white",
+    "activity_type": "color"
+  },
+  {
+    "activity_id": 8,
+    "activity_name": " purple",
+    "activity_type": "color"
+  },
+  {
+    "activity_id": 9,
+    "activity_name": " pink",
+    "activity_type": "color"
+  },
+  {
+    "activity_id": 10,
+    "activity_name": "big",
+    "activity_type": "size"
+  },
+  {
+    "activity_id": 16,
+    "activity_name": "large",
+    "activity_type": "size"
+  },
+  {
+    "activity_id": 18,
+    "activity_name": "small",
+    "activity_type": "size"
+  },
+  {
+    "activity_id": 20,
+    "activity_name": "tiny",
+    "activity_type": "size"
+  },
+  {
+    "activity_id": 21,
+    "activity_name": "high",
+    "activity_type": "size"
+  },
+  {
+    "activity_id": 23,
+    "activity_name": " Tall",
+    "activity_type": "size"
+  },
+  {
+    "activity_id": 25,
+    "activity_name": "short",
+    "activity_type": "size"
+  },
+  {
+    "activity_id": 26,
+    "activity_name": "round",
+    "activity_type": "shape"
+  },
+  {
+    "activity_id": 27,
+    "activity_name": "circle",
+    "activity_type": "shape"
+  },
+  {
+    "activity_id": 28,
+    "activity_name": "triangular",
+    "activity_type": "shape"
+  },
+  {
+    "activity_id": 29,
+    "activity_name": "rectangular",
+    "activity_type": "shape"
+  },
+  {
+    "activity_id": 30,
+    "activity_name": "square",
+    "activity_type": "shape"
+  },
+  {
+    "activity_id": 31,
+    "activity_name": "oval",
+    "activity_type": "shape"
+  },
+  {
+    "activity_id": 32,
+    "activity_name": " broad",
+    "activity_type": "shape"
+  },
+  {
+    "activity_id": 35,
+    "activity_name": "happy",
+    "activity_type": "feelings"
+  },
+  {
+    "activity_id": 36,
+    "activity_name": "gald",
+    "activity_type": "feelings"
+  },
+  {
+    "activity_id": 38,
+    "activity_name": " cheerful",
+    "activity_type": "feelings"
+  },
+  {
+    "activity_id": 41,
+    "activity_name": " pleased",
+    "activity_type": "feelings"
+  },
+  {
+    "activity_id": 43,
+    "activity_name": " delighted",
+    "activity_type": "feelings"
+  },
+  {
+    "activity_id": 45,
+    "activity_name": " sad",
+    "activity_type": "feelings"
+  },
+  {
+    "activity_id": 46,
+    "activity_name": "depressed",
+    "activity_type": "feelings"
+  },
+  {
+    "activity_id": 48,
+    "activity_name": "disappointed",
+    "activity_type": "feelings"
+  },
+  {
+    "activity_id": 49,
+    "activity_name": "discouraged",
+    "activity_type": "feelings"
+  },
+  {
+    "activity_id": 51,
+    "activity_name": " displeased",
+    "activity_type": "feelings"
+  },
+  {
+    "activity_id": 54,
+    "activity_name": "angry",
+    "activity_type": "feelings"
+  },
+  {
+    "activity_id": 59,
+    "activity_name": "good",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 60,
+    "activity_name": "excellent",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 61,
+    "activity_name": " brilliant",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 63,
+    "activity_name": " fantastic",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 65,
+    "activity_name": " bad",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 66,
+    "activity_name": " terrible",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 67,
+    "activity_name": " awsome",
+    "activity_type": "appearance"
+  },
+  {
+    "activity_id": 70,
+    "activity_name": " beautiful",
+    "activity_type": "appearance"
+  },
+  {
+    "activity_id": 71,
+    "activity_name": " pretty",
+    "activity_type": "appearance"
+  },
+  {
+    "activity_id": 72,
+    "activity_name": "gorgeous",
+    "activity_type": "appearance"
+  },
+  {
+    "activity_id": 75,
+    "activity_name": "elegant",
+    "activity_type": "appearance"
+  },
+  {
+    "activity_id": 76,
+    "activity_name": "good-looking",
+    "activity_type": "appearance"
+  },
+  {
+    "activity_id": 77,
+    "activity_name": "handsome",
+    "activity_type": "appearance"
+  },
+  {
+    "activity_id": 79,
+    "activity_name": "funny",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 80,
+    "activity_name": " amusing",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 81,
+    "activity_name": " entertaining",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 92,
+    "activity_name": " calm",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 93,
+    "activity_name": " powerful",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 94,
+    "activity_name": " attractive",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 99,
+    "activity_name": " weak",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 100,
+    "activity_name": " strong",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 102,
+    "activity_name": " confused",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 104,
+    "activity_name": "careful",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 107,
+    "activity_name": "crazy",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 112,
+    "activity_name": " intelligent",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 113,
+    "activity_name": " clever",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 119,
+    "activity_name": " courageous",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 120,
+    "activity_name": " brave",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 121,
+    "activity_name": "helpful",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 122,
+    "activity_name": "helpless",
+    "activity_type": "qualities"
+  },
+  {
+    "activity_id": 124,
+    "activity_name": "important",
+    "activity_type": "condition"
+  },
+  {
+    "activity_id": 125,
+    "activity_name": "principal",
+    "activity_type": "condition"
+  },
+  {
+    "activity_id": 131,
+    "activity_name": " odd",
+    "activity_type": "condition"
+  },
+  {
+    "activity_id": 134,
+    "activity_name": " outsanding",
+    "activity_type": "condition"
+  },
+  {
+    "activity_id": 135,
+    "activity_name": " impossible",
+    "activity_type": "condition"
+  },
+  {
+    "activity_id": 136,
+    "activity_name": "easy",
+    "activity_type": "condition"
+  },
+  {
+    "activity_id": 137,
+    "activity_name": " difficult",
+    "activity_type": "condition"
+  },
+  {
+    "activity_id": 138,
+    "activity_name": " closed",
+    "activity_type": "condition"
+  },
+  {
+    "activity_id": 139,
+    "activity_name": " open",
+    "activity_type": "condition"
+  },
+  {
+    "activity_id": 140,
+    "activity_name": "one",
+    "activity_type": "quantity"
+  },
+  {
+    "activity_id": 141,
+    "activity_name": " two",
+    "activity_type": "quantity"
+  },
+  {
+    "activity_id": 142,
+    "activity_name": "three",
+    "activity_type": "quantity"
+  },
+  {
+    "activity_id": 143,
+    "activity_name": "first",
+    "activity_type": "quantity"
+  },
+  {
+    "activity_id": 144,
+    "activity_name": "second",
+    "activity_type": "quantity"
+  },
+  {
+    "activity_id": 145,
+    "activity_name": "third",
+    "activity_type": "quantity"
+  },
+  {
+    "activity_id": 146,
+    "activity_name": " abundant",
+    "activity_type": "quantity"
+  },
+  {
+    "activity_id": 147,
+    "activity_name": "empty",
+    "activity_type": "quantity"
+  },
+  {
+    "activity_id": 148,
+    "activity_name": "heavy",
+    "activity_type": "quantity"
+  },
+  {
+    "activity_id": 149,
+    "activity_name": " light",
+    "activity_type": "quantity"
+  },
+  {
+    "activity_id": 154,
+    "activity_name": "cold",
+    "activity_type": "temperature"
+  },
+  {
+    "activity_id": 155,
+    "activity_name": "warm",
+    "activity_type": "temperature"
+  },
+  {
+    "activity_id": 156,
+    "activity_name": "hot",
+    "activity_type": "temperature"
+  },
+  {
+    "activity_id": 157,
+    "activity_name": "cool",
+    "activity_type": "temperature"
+  },
+  {
+    "activity_id": 158,
+    "activity_name": "rainy",
+    "activity_type": "weather"
+  },
+  {
+    "activity_id": 162,
+    "activity_name": "sunny",
+    "activity_type": "weather"
+  },
+  {
+    "activity_id": 163,
+    "activity_name": "cloudy",
+    "activity_type": "weather"
+  },
+  {
+    "activity_id": 166,
+    "activity_name": "late",
+    "activity_type": "time"
+  },
+  {
+    "activity_id": 167,
+    "activity_name": "early",
+    "activity_type": "time"
+  },
+  {
+    "activity_id": 168,
+    "activity_name": "punctual",
+    "activity_type": "time"
+  },
+  {
+    "activity_id": 169,
+    "activity_name": "delayed",
+    "activity_type": "time"
+  },
+  {
+    "activity_id": 184,
+    "activity_name": "wooden",
+    "activity_type": "material"
+  },
+  {
+    "activity_id": 185,
+    "activity_name": " woolen",
+    "activity_type": "material"
+  },
+  {
+    "activity_id": 189,
+    "activity_name": " bronze",
+    "activity_type": "material"
+  },
+  {
+    "activity_id": 190,
+    "activity_name": "old",
+    "activity_type": "age"
+  },
+  {
+    "activity_id": 192,
+    "activity_name": "aged",
+    "activity_type": "age"
+  },
+  {
+    "activity_id": 193,
+    "activity_name": "elderly",
+    "activity_type": "age"
+  },
+  {
+    "activity_id": 194,
+    "activity_name": "young",
+    "activity_type": "age"
+  },
+  {
+    "activity_id": 196,
+    "activity_name": "youthful",
+    "activity_type": "age"
+  },
+  {
+    "activity_id": 197,
+    "activity_name": "delicious",
+    "activity_type": "taste"
+  },
+  {
+    "activity_id": 198,
+    "activity_name": "bitter",
+    "activity_type": "taste"
+  },
+  {
+    "activity_id": 199,
+    "activity_name": "fresh",
+    "activity_type": "taste"
+  },
+  {
+    "activity_id": 203,
+    "activity_name": " salty",
+    "activity_type": "taste"
+  },
+  {
+    "activity_id": 204,
+    "activity_name": " sour",
+    "activity_type": "taste"
+  },
+  {
+    "activity_id": 205,
+    "activity_name": " spicy",
+    "activity_type": "taste"
+  },
+  {
+    "activity_id": 208,
+    "activity_name": " sweet",
+    "activity_type": "taste"
+  },
+  {
+    "activity_id": 213,
+    "activity_name": " hard",
+    "activity_type": "touch"
+  },
+  {
+    "activity_id": 214,
+    "activity_name": " hot",
+    "activity_type": "touch"
+  },
+  {
+    "activity_id": 217,
+    "activity_name": " rough",
+    "activity_type": "touch"
+  },
+  {
+    "activity_id": 218,
+    "activity_name": " slippery",
+    "activity_type": "touch"
+  },
+  {
+    "activity_id": 219,
+    "activity_name": " smooth",
+    "activity_type": "touch"
+  },
+  {
+    "activity_id": 220,
+    "activity_name": "soft",
+    "activity_type": "touch"
+  },
+  {
+    "activity_id": 223,
+    "activity_name": " wet",
+    "activity_type": "touch"
+  },
+  {
+    "activity_id": 233,
+    "activity_name": " loud",
+    "activity_type": "sound"
+  },
+  {
+    "activity_id": 234,
+    "activity_name": " melodic",
+    "activity_type": "sound"
+  },
+  {
+    "activity_id": 237,
+    "activity_name": " noisy",
+    "activity_type": "sound"
+  }
+]

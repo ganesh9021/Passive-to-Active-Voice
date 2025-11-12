@@ -1,0 +1,74 @@
+[
+  {
+    "activity_id": 1,
+    "activity_name": "Simple Present Tense",
+    "activity_type": "In Simple Present",
+    "activity_desc": "the action is simply mentioned and there is nothing being said about its completeness.\\r\\nIt is used to talk about an action which happens on a regular basis."
+  },
+  {
+    "activity_id": 2,
+    "activity_name": "Present Continuous Tense",
+    "activity_type": "In the Present Continuous tense",
+    "activity_desc": "the action is on-going/ still going on and hence continuous. \\r\\nThe present continuous tense is used to talk about actions that are happening at this current moment."
+  },
+  {
+    "activity_id": 3,
+    "activity_name": "Present Perfect Tense",
+    "activity_type": "In the Present Perfect tense",
+    "activity_desc": "the action is complete or has ended and hence termed Perfect. \\r\\nThe exact time when the action happened is not important and hence"
+  },
+  {
+    "activity_id": 4,
+    "activity_name": "Present Perfect Continuous Tense",
+    "activity_type": "In the Present Perfect Continuous tense",
+    "activity_desc": "the action has been taking place for some time and is still ongoing.\\r\\nThe duration for which the action has been going on is usually mentioned in the present perfect continuous tense."
+  },
+  {
+    "activity_id": 5,
+    "activity_name": "Simple Past Tense",
+    "activity_type": "In the Simple Past tense",
+    "activity_desc": "the action is simply mentioned and understood to have taken place in the past. \\r\\nThe action started and ended sometime in the past but the time may or may not be mentioned."
+  },
+  {
+    "activity_id": 6,
+    "activity_name": "Past Continuous Tense",
+    "activity_type": "In the Past Continuous tense",
+    "activity_desc": "the action was ongoing till a certain time in the past. \\r\\nThis tense is used to talk about an action at a particular time in the past."
+  },
+  {
+    "activity_id": 7,
+    "activity_name": "Past Perfect Tense",
+    "activity_type": "The Past Perfect tense is used to express something that happened before another action in the past.",
+    "activity_desc": "John had played football"
+  },
+  {
+    "activity_id": 8,
+    "activity_name": "Past Perfect Continuous Tense",
+    "activity_type": "The Past Perfect Continuous tense is used to express something that started in the past and continued until another time in the past.",
+    "activity_desc": "John had been playing football"
+  },
+  {
+    "activity_id": 9,
+    "activity_name": "Simple Future Tense",
+    "activity_type": "The Simple Future tense is used when we plan or make a decision to do something. Nothing is said about the time in the future.",
+    "activity_desc": "John will play football"
+  },
+  {
+    "activity_id": 10,
+    "activity_name": "Future Continuous Tense",
+    "activity_type": "The future continuous tense is used to express action at a particular moment in the future. \\r\\nHowever",
+    "activity_desc": "the action will not have finished at the moment."
+  },
+  {
+    "activity_id": 11,
+    "activity_name": "Future Perfect Tense",
+    "activity_type": "The Future Perfect tense expresses an action that will occur in the future before another action or time in the future.",
+    "activity_desc": "John will have played football"
+  },
+  {
+    "activity_id": 12,
+    "activity_name": "Future Perfect Continuous Tense",
+    "activity_type": "Future Perfect Continuous is used to talk about an on-going action before some point in the future.",
+    "activity_desc": "John will have been playing football"
+  }
+]
