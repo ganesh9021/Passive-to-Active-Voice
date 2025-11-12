@@ -29,6 +29,11 @@ const Homepage = () => {
         WS_SendLogData={SendLogData}
         labNo="-"
         labShortName={t("title")}
+        L_Developby={t("Developed_by")}
+        L_CDACMum={t("C_DAC_Mumbai")}
+        L_fundedby={t("Funded_by")}
+        L_ministry={t("Ministry")}
+        L_govofindia={t("Government_of_India")}
       />
     </>
   );

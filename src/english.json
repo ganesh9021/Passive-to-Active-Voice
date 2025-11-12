@@ -65,5 +65,11 @@
   "restart": "RESTART",
   "check": "CHECK",
   "feedback": "Feedback",
-  "result": "Result"
+  "result": "Result",
+
+  "Developed_by": "Developed by",
+  "C_DAC_Mumbai": "C-DAC Mumbai",
+  "Funded_by": "Funded by",
+  "Ministry": "Ministry of Electronics and Information Technology || Ministry of Education",
+  "Government_of_India": "Government of India"
 }
