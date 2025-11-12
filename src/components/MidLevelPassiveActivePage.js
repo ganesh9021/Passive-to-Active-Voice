@@ -2201,7 +2201,10 @@ const MidLevelPassiveActivePage = () => {
             </DialogTitle>
             <DialogContent>
               {fdbackObj["result"] === "Correct answer" ? (
-                <div>Your answer is correct!</div>
+                <div>
+                  <span className="text-success">Correct!</span> Your answer is
+                  correct!
+                </div>
               ) : (
                 <Table
                   className="text-center"
