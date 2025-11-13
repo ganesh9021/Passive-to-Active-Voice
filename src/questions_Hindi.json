@@ -1,6 +1,6 @@
 [
   {
-    "question": "Identify the passive voice for the given sentence. <br/>sentneveThey know me.",
+    "question": "Identify the passive voice for the given sentence. <br/>\"They know me.\"",
     "questionHasImg": false,
     "questionImg": "",
     "optionA": "I am known to them.",
@@ -21,7 +21,7 @@
     "maxMarks": 1
   },
   {
-    "question": "Identify the passive voice for the given sentence. <br/>He invited me to his house yesterday.",
+    "question": "Identify the passive voice for the given sentence. <br/>\"He invited me to his house yesterday.\"",
     "questionHasImg": false,
     "questionImg": "",
     "optionA": "I am invited to his house tomorrow.",
@@ -42,7 +42,7 @@
     "maxMarks": 1
   },
   {
-    "question": "Identify the passive voice for the given sentence. <br/>All desire wealth and some acquire it.",
+    "question": "Identify the passive voice for the given sentence. <br/>\"All desire wealth and some acquire it.\"",
     "questionHasImg": false,
     "questionImg": "",
     "optionA": "Wealth was acquired and desired.",
@@ -63,7 +63,7 @@
     "maxMarks": 1
   },
   {
-    "question": "Identify the passive voice for the given sentence. <br/>You must endure what you cannot cure.",
+    "question": "Identify the passive voice for the given sentence. <br/>\"You must endure what you cannot cure.\"",
     "questionHasImg": false,
     "questionImg": "",
     "optionA": "What can be cured must be endured.",
@@ -84,7 +84,7 @@
     "maxMarks": 1
   },
   {
-    "question": "Identify the passive voice for the given sentence. <br/>We must listen to his words.",
+    "question": "Identify the passive voice for the given sentence. <br/>\"We must listen to his words.\"",
     "questionHasImg": false,
     "questionImg": "",
     "optionA": "His words must be listened to.",
@@ -105,7 +105,7 @@
     "maxMarks": 1
   },
   {
-    "question": "Identify the active voice for the given sentence. <br/>Our army has been defeated.",
+    "question": "Identify the active voice for the given sentence. <br/>\"Our army has been defeated.\"",
     "questionHasImg": false,
     "questionImg": "",
     "optionA": "The enemy has defeated our army.",
@@ -126,7 +126,7 @@
     "maxMarks": 1
   },
   {
-    "question": "Identify the active voice for the given sentence. <br/>I know her.",
+    "question": "Identify the active voice for the given sentence. <br/>\"I know her.\"",
     "questionHasImg": false,
     "questionImg": "",
     "optionA": "She knows me.",
@@ -147,7 +147,7 @@
     "maxMarks": 1
   },
   {
-    "question": "Identify the active voice for the given sentence. <br/>We shall be blamed by everyone.",
+    "question": "Identify the active voice for the given sentence. <br/>\"We shall be blamed by everyone.\"",
     "questionHasImg": false,
     "questionImg": "",
     "optionA": "Everyone shall blame we.",
@@ -168,7 +168,7 @@
     "maxMarks": 1
   },
   {
-    "question": "Identify the active voice for the given sentence. <br/>The ship was set on fire and abandoned by the crew.",
+    "question": "Identify the active voice for the given sentence. <br/>\"The ship was set on fire and abandoned by the crew.\"",
     "questionHasImg": false,
     "questionImg": "",
     "optionA": "The crew set the ship on fire and abandoned ship.",
@@ -189,7 +189,7 @@
     "maxMarks": 1
   },
   {
-    "question": "Identify the active voice for the given sentence. <br/>Why should I be suspected by you?",
+    "question": "Identify the active voice for the given sentence. <br/>\"Why should I be suspected by you?\"",
     "questionHasImg": false,
     "questionImg": "",
     "optionA": "Why should you suspect me?",

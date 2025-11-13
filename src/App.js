@@ -19,6 +19,7 @@ import { useDispatch } from "react-redux";
 import ReactGA from "react-ga4";
 import Language from "./Language";
 import setLangStore, { changeLang } from "./store/Store";
+import RestartPage from "./components/RestartPage";
 
 function App() {
   const { id } = useParams();
@@ -125,6 +126,11 @@ function App() {
         exact
         path="/launchpage/englishactivity"
         element={<MidLevelPassiveActive />}
+      ></Route>
+      <Route
+        exact
+        path="/launchpage/englishactivity/restart"
+        element={<RestartPage />}
       ></Route>
       {/* <Route
         exact

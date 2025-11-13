@@ -15,6 +15,7 @@
   "instr5": "Click on \"HINTS\" to view hints.",
   "instr6": "Click on \"VERIFY\" to check the active voice sentence.",
   "instr7": "Click on \"NEXT\" to view the next sentence.",
+  "instruction_restart": "Click on the \"RESTART\" button to try the level again.",
 
   "hint1": "In active voice, the positions of Subject and Object are interchanged.",
   "hint2": "In active voice, Helping Verb (if present) precedes the Main Verb, and depends on Subject and tense.",

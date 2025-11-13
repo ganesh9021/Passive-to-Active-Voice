@@ -49,6 +49,7 @@ const MidLevelPassiveActivePage = () => {
   const theme = useTheme();
   const fullScreen = useMediaQuery(theme.breakpoints.down("md"));
   var tempPassActObj = {};
+  const [sentCount, setSentCount] = useState(1);
 
   var draggableItem = {
     padding: "10px 15px",
@@ -1881,6 +1882,9 @@ const MidLevelPassiveActivePage = () => {
   const feedbackDisplay = (feedbackObj, user_answer) => {};
 
   const handleRedirect = () => {
+    let newCount = sentCount + 1;
+    setSentCount(newCount);
+
     var sentenceTempPath = "";
     sentenceTempPath = getSentenceTempPath();
 
@@ -2127,6 +2131,22 @@ const MidLevelPassiveActivePage = () => {
                 }}
               >
                 {t("next")}
+              </Button>
+              <Button
+                variant="contained"
+                sx={{
+                  background: "#0F477E",
+                  color: "#ffffff",
+                  fontSize: "calc(.6rem + .4vw)",
+                }}
+                onClick={() =>
+                  navigate("/launchpage/englishactivity/restart", {
+                    state: { attempted: sentCount, type: "sentences" },
+                  })
+                }
+                value="finish"
+              >
+                {t("finish")}
               </Button>
             </div>
           </div>
