@@ -1,6 +1,6 @@
 import React from "react";
 import ReactPlayer from "react-player";
-import video from "../HelpVideo/passive-to-active.mp4";
+import video from "../HelpVideo/Passive-to-Active.mp4";
 
 const AnimationMidContent = () => {
   return (

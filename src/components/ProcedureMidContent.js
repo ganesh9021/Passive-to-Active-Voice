@@ -112,7 +112,6 @@ const ProcedureMidContent = () => {
         </div>
 
         <li>{t("proc6")}​</li>
-        <li>{t("proc7")}</li>
       </ol>
     </div>
   );

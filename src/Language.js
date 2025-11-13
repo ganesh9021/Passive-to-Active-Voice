@@ -9,7 +9,7 @@ i18n
       en: {
         translation: require("./english.json"),
       },
-      hn: {
+      hi: {
         translation: require("./hindi.json"),
       },
     },

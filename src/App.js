@@ -64,22 +64,52 @@ function App() {
     });
   }, []);
 
+  // useEffect(() => {
+  //   if (id == "en") {
+  //     alert("in app en : ", id);
+  //     i18n.changeLanguage("en");
+  //     dispatch(changeLang("en"));
+  //   }
+  //   if (id == "hn") {
+  //     alert("in app hn : ", id);
+  //     i18n.changeLanguage("hn");
+  //     dispatch(changeLang("hn"));
+  //   }
+  // }, []);
+
   useEffect(() => {
-    if (id == "en") {
-      alert("in app en : ", id);
-      i18n.changeLanguage("en");
-      dispatch(changeLang("en"));
+    let langParam = null;
+    const params = new URLSearchParams(window.location.search);
+    langParam = params.get("elink_lan");
+    if (!langParam && window.frameElement) {
+      try {
+        const iframeSrc = window.frameElement.getAttribute("src");
+        console.log("iframe src found:" + iframeSrc);
+
+        if (iframeSrc && iframeSrc.includes("elink_lan")) {
+          const match = iframeSrc.match(/[?&]elink_lan=([^&#]*)/);
+
+          if (match && match[1]) {
+            langParam = decodeURIComponent(match[1]);
+          }
+        }
+      } catch (error) {
+        console.warn("unable to read iframe src: " + error);
+      }
     }
-    if (id == "hn") {
-      alert("in app hn : ", id);
-      i18n.changeLanguage("hn");
-      dispatch(changeLang("hn"));
-    }
-  }, []);
+
+    console.log("Detected language param: " + langParam);
+    const shortLang = langParam ? langParam.split("-")[0] : "en";
+    const supportedLangs = ["en", "hi"];
+    const langToUse = supportedLangs.includes(shortLang) ? shortLang : "en";
+    i18n.changeLanguage(langToUse);
+    dispatch(changeLang(langToUse));
+  }, [i18n, dispatch]);
 
   return (
     <Routes>
       <Route path="/:id" element={<App />} />
+      <Route path="/elink_lan=:langToUse" element={<App />} />
       <Route exact path="/" element={<Homepage />}></Route>
       <Route exact path="/theory" element={<TheoryPage />}></Route>
       <Route exact path="/animation" element={<AnimationPage />}></Route>

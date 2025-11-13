@@ -20,9 +20,9 @@ const TheoryMidContent = () => {
       <div className="fw-bolder">{t("obj")}</div>
       <p className="ms-3">{t("objective")} </p>
 
-      <div className="fw-bolder">What is Voice?</div>
+      <div className="fw-bolder">What is voice?</div>
       <p className="ms-3">
-        "A Grammar of Contemporary English" defines Voice as "voice is a
+        "A grammar of contemporary english" defines Voice as "voice is a
         grammatical category which makes it possible to view the action of a
         sentence in two ways, without change in the facts reported". One and the
         same idea can often be expressed in two different ways, by means of an
@@ -68,7 +68,7 @@ const TheoryMidContent = () => {
 
         <ul>
           <li>
-            In Passive voice the sentence focus on object i.e. who/what is
+            In passive voice the sentence focus on object i.e. who/what is
             receiving the action and not on who/what is performing the action.
             In passive voice, the actor of the of the verb (action) is either
             understood at the end of the sentence or maybe not told. The passive
@@ -102,7 +102,7 @@ const TheoryMidContent = () => {
         </ul>
       </ol>
 
-      <div className="fw-bolder">Active/Passive voice using Modals:</div>
+      <div className="fw-bolder">Active/passive voice using modals:</div>
       <p className="ms-3">
         <span>
           The modal verbs consist of will, would, can, could, shall, should,
@@ -146,7 +146,7 @@ const TheoryMidContent = () => {
 
       <div className="fw-bolder">
         <strong>
-          <span> Tips to Recognize the Passive Voice:</span>
+          <span> Tips to recognize the passive voice:</span>
         </strong>
       </div>
       <p>
@@ -164,12 +164,12 @@ const TheoryMidContent = () => {
         </li>
         <li>
           <strong>
-            <span>Is/Are + Past Participle form of the verb,</span>
+            <span>Is/are + past participle form of the verb,</span>
           </strong>
         </li>
         <li>
           <strong>
-            <span>Was/Were + Past Participle form of the verb,</span>
+            <span>Was/were + past participle form of the verb,</span>
           </strong>
         </li>
         <li>
@@ -180,7 +180,7 @@ const TheoryMidContent = () => {
         <li>
           <strong>
             <span>Has/</span>
-            <span>Have/Had been,</span>
+            <span>Have/had been,</span>
           </strong>
         </li>
         <li>
@@ -195,7 +195,7 @@ const TheoryMidContent = () => {
         </li>
         <li>
           <strong>
-            <span>Past Participle form of the verb</span>
+            <span>Past participle form of the verb</span>
           </strong>
         </li>
       </ul>
@@ -203,7 +203,7 @@ const TheoryMidContent = () => {
       {/************************ First Table ******************/}
       <div className="fw-bolder">
         <strong>
-          <span> Table 1: Rules for Passive to Active conversion</span>
+          <span> Table 1: Rules for passive to active conversion</span>
         </strong>
       </div>
       <TableRulesPassAct />
@@ -213,7 +213,7 @@ const TheoryMidContent = () => {
         <strong>
           <span>
             {" "}
-            Table 2: Rules for Pronouns in Passive to Active conversion
+            Table 2: Rules for pronouns in passive to active conversion
           </span>
         </strong>
       </div>

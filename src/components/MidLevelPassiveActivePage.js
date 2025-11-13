@@ -30,6 +30,7 @@ import nounverbjson from "../supportingfiles/DBJSON/noun_verb.json";
 import nounjson from "../supportingfiles/DBJSON/noun.json";
 import passActFeedbackProps from "../supportingfiles/languageProperties/passiveActive/en-IN-feedbackproperties.json";
 import { useTranslation } from "react-i18next";
+import hintImg from "../Img/hint2.png";
 
 const MidLevelPassiveActivePage = () => {
   const { t } = useTranslation();
@@ -1955,37 +1956,29 @@ const MidLevelPassiveActivePage = () => {
             fontSize: "calc(.6rem + .4vw)",
           }}
         >
-          <div className="row align-items-center text-center mb-5 mt-2">
-            <div
-              className="fw-bolder"
-              style={{ fontSize: "calc(1rem + .4vw)" }}
-            >
-              Passive to active
-            </div>
+          <div className="row align-items-center mb-5 mt-2">
+            <div className="col-12 d-flex justify-content-center position-relative text-center">
+              <div
+                className="fw-bolder"
+                style={{ fontSize: "calc(1rem + .4vw)" }}
+              >
+                Passive to active
+              </div>
 
-            {/* <div className="col-12 col-md-6 d-flex justify-content-md-end justify-content-center">
-              <FormControl size="small" sx={{ minWidth: 120 }}>
-                <Select
-                  labelId="demo-simple-select-label"
-                  label="Select Adverb"
-                  id="demo-simple-select"
-                  value={level}
-                  onChange={handleLevelChange}
-                  sx={{
-                    bgcolor: "green",
-                    borderRadius: "8px",
-                    "& .MuiOutlinedInput-notchedOutline": {
-                      borderColor: "green",
-                    },
-                    color: "white",
-                    fontSize: "calc(.6rem + .4vw)",
-                  }}
-                >
-                  <MenuItem value="Level 1">{t("level1")}</MenuItem>
-                  <MenuItem value="Level 2">{t("level2")}</MenuItem>
-                </Select>
-              </FormControl>
-            </div> */}
+              <img
+                src={hintImg}
+                alt="hintImage"
+                onClick={() => setOpen(true)}
+                title={t("hint")}
+                style={{
+                  position: "absolute",
+                  right: "0",
+                  top: "50%",
+                  transform: "translateY(-50%)",
+                  cursor: "pointer",
+                }}
+              />
+            </div>
           </div>
 
           <div style={{ width: "100%", height: "auto" }}>
@@ -2150,16 +2143,23 @@ const MidLevelPassiveActivePage = () => {
               },
             }}
           >
-            <DialogTitle style={{ minWidth: "50%" }} id="alert-dialog-title">
-              {hintTitle}
+            <DialogTitle
+              id="alert-dialog-title"
+              style={{ minWidth: "50%", textAlign: "center" }}
+            >
+              <b>{t("hint")}</b>
             </DialogTitle>
             <DialogContent>
               <DialogContentText id="alert-dialog-description">
-                {hintText}
+                <ul>
+                  <li>{t("hint1")}</li>
+                  <li>{t("hint2")}</li>
+                  <li>{t("hint3")}</li>
+                </ul>
               </DialogContentText>
             </DialogContent>
-            <DialogActions>
-              <Button
+            <DialogActions sx={{ justifyContent: "center" }}>
+              {/* <Button
                 variant="contained"
                 size="small"
                 onClick={handleClose}
@@ -2170,7 +2170,7 @@ const MidLevelPassiveActivePage = () => {
                 }}
               >
                 {t("cancel")}
-              </Button>
+              </Button> */}
               <Button
                 variant="contained"
                 size="small"
@@ -2232,7 +2232,7 @@ const MidLevelPassiveActivePage = () => {
                       <th
                         style={{ padding: "10px", border: "1px solid black" }}
                       >
-                        Desctiption
+                        Description
                       </th>
                       <th
                         style={{ padding: "10px", border: "1px solid black" }}
@@ -2257,7 +2257,9 @@ const MidLevelPassiveActivePage = () => {
                               }}
                               key={method + "0"}
                             >
-                              {method.charAt(0).toUpperCase() + method.slice(1)}
+                              {method
+                                .replace(/_/g, " ")
+                                .replace(/^./, (m) => m.toUpperCase())}{" "}
                             </td>
                             <td
                               style={{
@@ -2360,7 +2362,6 @@ const MidLevelPassiveActivePage = () => {
                 <li>{t("instr5")}</li>
                 <li>{t("instr6")}</li>
                 <li>{t("instr7")}</li>
-                <li>{t("instr8")}</li>
               </ul>
             </div>
           </div>
